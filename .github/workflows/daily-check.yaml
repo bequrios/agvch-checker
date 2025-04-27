@@ -34,6 +34,13 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Add $(date -u +"%Y-%m-%d")_missing.csv"
+            # Count how many missing entries there are
+            missing_file=$(ls *_missing.csv)
+            missing_count=$(tail -n +2 "$missing_file" | wc -l)  # skip header line
+      
+            # Prepare a smart commit message
+            commit_message="Add $(date -u +"%Y-%m-%d")_missing.csv ($missing_count missing entries)"
+            
+            git commit -m "$commit_message"
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             git push
-          fi
