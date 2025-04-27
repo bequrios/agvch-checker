@@ -24,14 +24,18 @@ jobs:
       - name: Run checker
         run: python checker.py
 
-      - name: Commit YYYY-MM-DD_missing.csv
+      - name: Commit file
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *_missing.csv
-          if git diff --cached --quiet; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add *_missing.csv
+            if git diff --cached --quiet; then
             echo "No changes to commit."
-          else
+            else
             git commit -m "Add $(date -u +"%Y-%m-%d")_missing.csv"
-            git push
-          fi
+            fi
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
