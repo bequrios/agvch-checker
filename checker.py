@@ -47,9 +47,10 @@ def write_missing_rows(missing_rows):
     
     with open(output_filename, "w", newline="", encoding="utf-8") as f:
         if missing_rows:
+            missing_sorted = sorted(missing_rows, key=lambda x: int(x['HistoricalCode']))
             writer = csv.DictWriter(f, fieldnames=missing_rows[0].keys())
             writer.writeheader()
-            writer.writerows(missing_rows)
+            writer.writerows(missing_sorted)
         else:
             f.write("No missing rows found.\n")
 
@@ -64,7 +65,7 @@ def main():
     print("Comparing...")
     missing_rows = [
     row for row in rows
-    if row["HistoricalCode"] not in rdf_codes and int(row["HistoricalCode"]) > 26]
+    if row["HistoricalCode"] not in rdf_codes and int(row["Level"]) == 3]
     print(f"Found {len(missing_rows)} missing codes.")
 
     write_missing_rows(missing_rows)
