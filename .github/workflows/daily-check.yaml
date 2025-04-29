@@ -30,7 +30,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Stage removal of *_missing.csv files previously tracked by Git
-          git ls-files *_missing.csv | xargs -r git rm
+          git rm $(git ls-files --deleted)
     
           # Stage the newly generated file
           git add *_missing.csv
