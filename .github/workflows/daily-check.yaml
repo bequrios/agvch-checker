@@ -29,8 +29,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage removals first
-          git rm *_missing.csv --ignore-unmatch
+          # Stage removal of *_missing.csv files previously tracked by Git
+          git ls-files *_missing.csv | xargs -r git rm
     
           # Stage the newly generated file
           git add *_missing.csv
