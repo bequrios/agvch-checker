@@ -24,27 +24,12 @@ jobs:
       - name: Run checker
         run: python checker.py
 
-      - name: Commit YYYY-MM-DD_missing.csv
+      - name: Commit data.json
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage removal of *_missing.csv files previously tracked by Git
-          git rm $(git ls-files --deleted)
-    
-          # Stage the newly generated file
-          git add *_missing.csv
-          
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            # Count how many missing entries there are
-            missing_file=$(ls *_missing.csv)
-            missing_count=$(tail -n +2 "$missing_file" | wc -l)  # skip header line
-      
-            # Prepare a smart commit message
-            commit_message="Add $(date -u +"%Y-%m-%d")_missing.csv ($missing_count missing entries)"
-            
-            git commit -m "$commit_message"
-            git push
-          fi
+          git add data.json
+
+          git commit -m "Update data.json for $(date -u +"%Y-%m-%d")"
+          git push
