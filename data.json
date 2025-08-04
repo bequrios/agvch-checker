@@ -1,0 +1,13 @@
+{
+  "2025-08-04": {
+    "wikidata_missing_bfs_codes": [
+      {
+        "HistoricalCode": 16666,
+        "BfsCode": 5395,
+        "ValidFrom": "06.04.2025",
+        "Name": "Lema"
+      }
+    ],
+    "lindas_missing_versions": []
+  }
+}
