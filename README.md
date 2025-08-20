@@ -12,7 +12,7 @@ Tabular data is written to `current_munies/YYYY-MM-DD.csv`. This file is a merge
 - Name: Official name from AGVCH
 - q: Identifier from Wikidata
 - name: Name from Wikidata ([P1448](https://www.wikidata.org/wiki/Property:P1448) - official name)
-- lang: Language tag for `name` ('und' means 'undefined')
+- lang: Language tag for `name` ('und' means 'undetermined')
 - bfs: BFS number from Wikidata
 - bfsInt: BFS number as integer (`bfs` often given in the form `"0001"`)
 - _merge: Result of the merge operation (can be `both`, `official_only` and `wikidata_only`)
@@ -37,4 +37,4 @@ The JSON data is written to `summaries/YYYY-MM-DD.json`. This file contains summ
 - `wikidata_only`: The municipality is only present in Wikidata, but not in the official AGVCH application. --> Future municipalities that are already present in Wikidata or deprecated ones that have not the https://www.wikidata.org/wiki/Q70208 class removed
 - `_nameOk: False`: Wrong name in Wikidata
 - `_bfsOk: False`: Wrong format of BFS number in Wikidata (https://www.wikidata.org/wiki/Property:P771), e.g. 000x instead of just x
-- if there are multiple matches (`_bfsIntUnique: False`), it could be that the BFS number is assigned more than once in Wikidata, but most probable there are multiple offical names in Wikidata resulting in more than one result that matches.
+- if there are multiple matches (`_bfsIntUnique: False`), it could be that the BFS number is assigned more than once in Wikidata, but most probable there are multiple official names in Wikidata resulting in more than one result that matches.
