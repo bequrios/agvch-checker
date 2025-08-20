@@ -32,3 +32,10 @@ The JSON data is written to `summaries/YYYY-MM-DD.json`. This file contains summ
 - _BfsCodeNonUniqueValues: The non-unique values of BfsCode
 
 - missing_lindas_versions: A list of missing municipality versions that are not present yet in LINDAS
+
+## Explanation of Different Errors
+
+- `wikidata_only`: The municipality is only present in Wikidata, but not in the official AGVCH application. --> Future municipalities that are already present in Wikidata or deprecated ones that have not the https://www.wikidata.org/wiki/Q70208 class removed
+- `_nameOk: False`: Wrong name in Wikidata
+- `_bfsOk: False`: Wrong format of BFS number in Wikidata (https://www.wikidata.org/wiki/Property:P771), e.g. 000x instead of just x
+- if there are multiple matches (`_bfsIntUnique: False`), it could be that the BFS number is assigned more than once in Wikidata, but most probable there are multiple offical names in Wikidata resulting in more than one result that matches.
