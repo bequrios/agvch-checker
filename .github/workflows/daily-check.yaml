@@ -21,15 +21,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run checker
-        run: python checker.py
+      - name: Execute Notebook
+        run: |
+          jupyter nbconvert --to notebook --execute checker.ipynb --stdout > /dev/null
 
-      - name: Commit data.json
+      - name: Commit generated files
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add data.json
+          git add current_munies/*.csv summaries/*.json
 
-          git commit -m "Update data.json for $(date -u +"%Y-%m-%d")"
+          git commit -m "Update for $(date -u +"%Y-%m-%d")"
           git push
