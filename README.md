@@ -30,6 +30,8 @@ The JSON data is written to `summaries/YYYY-MM-DD.json`. This file contains summ
 - _BfsCodeUnique: Boolean whether BfsCode are all unique
 - _bfsIntNonUniqueValues: The non-unique values of bfsInt
 - _BfsCodeNonUniqueValues: The non-unique values of BfsCode
+- number_of_lindas_ids_in_wikidata: Number of all items in Wikidata that have a [LINDAS ID](https://www.wikidata.org/wiki/Property:P13740)
+- number_of_references_to_lindas_ids_in_wikidata: Number of statements in Wikidata that use [LINDAS ID](https://www.wikidata.org/wiki/Property:P13740) as a reference
 - missing_lindas_versions: A list of missing municipality versions that are not present yet in LINDAS
 
 ## Explanation of Different Errors
