@@ -1,0 +1,50 @@
+{
+    "current_munies": {
+        "_merge": {
+            "both": 2126,
+            "wiki_only": 23,
+            "official_only": 0
+        },
+        "_nameOk": {
+            "true": 1991,
+            "false": 158
+        },
+        "_bfsOk": {
+            "true": 2146,
+            "false": 3
+        },
+        "_bfsIntUnique": false,
+        "_BfsCodeUnique": false,
+        "_bfsIntNonUniqueValues": [
+            351,
+            null,
+            782,
+            1331,
+            2196,
+            2275,
+            3291,
+            6266,
+            6289,
+            6630,
+            6634,
+            6644
+        ],
+        "_BfsCodeNonUniqueValues": [
+            351,
+            782,
+            1331,
+            2196,
+            2275,
+            3291,
+            6266,
+            6289,
+            6630,
+            6634,
+            6644,
+            null
+        ]
+    },
+    "number_of_lindas_ids_in_wikidata": 5,
+    "number_of_references_to_lindas_ids_in_wikidata": 2,
+    "missing_lindas_versions": []
+}
