@@ -1,0 +1,79 @@
+{
+    "current_munies": {
+        "_merge": {
+            "both": 2118,
+            "wiki_only": 29,
+            "official_only": 2
+        },
+        "_nameOk": {
+            "true": 1990,
+            "false": 159
+        },
+        "_bfsOk": {
+            "true": 2143,
+            "false": 6
+        },
+        "_bfsIntUnique": false,
+        "_BfsCodeUnique": false,
+        "_bfsIntNonUniqueValues": [
+            null,
+            782,
+            1331,
+            2196,
+            2275,
+            3291,
+            6266,
+            6289,
+            6630,
+            6634,
+            6644
+        ],
+        "_BfsCodeNonUniqueValues": [
+            782,
+            1331,
+            null,
+            2196,
+            2275,
+            3291,
+            6266,
+            6289,
+            6630,
+            6634,
+            6644
+        ]
+    },
+    "number_of_lindas_ids_in_wikidata": 7,
+    "number_of_references_to_lindas_ids_in_wikidata": 14,
+    "missing_lindas_versions": [
+        {
+            "HistoricalCode": 16671,
+            "BfsCode": 2262,
+            "ValidFrom": "01.01.2026",
+            "Name": "Gurmels"
+        },
+        {
+            "HistoricalCode": 16670,
+            "BfsCode": 2056,
+            "ValidFrom": "01.01.2026",
+            "Name": "F\u00e9tigny-M\u00e9ni\u00e8res"
+        },
+        {
+            "HistoricalCode": 16672,
+            "BfsCode": 2525,
+            "ValidFrom": "01.01.2026",
+            "Name": "Kriegstetten"
+        },
+        {
+            "HistoricalCode": 16673,
+            "BfsCode": 4095,
+            "ValidFrom": "01.01.2026",
+            "Name": "Brugg"
+        },
+        {
+            "HistoricalCode": 16669,
+            "BfsCode": 6831,
+            "ValidFrom": "01.01.2026",
+            "Name": "Moutier"
+        }
+    ]
+}
