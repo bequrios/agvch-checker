@@ -44,5 +44,36 @@
     },
     "number_of_lindas_ids_in_wikidata": 7,
     "number_of_references_to_lindas_ids_in_wikidata": 14,
-    "missing_lindas_versions": []
+    "missing_lindas_versions": [
+        {
+            "HistoricalCode": 16671,
+            "BfsCode": 2262,
+            "ValidFrom": "01.01.2026",
+            "Name": "Gurmels"
+        },
+        {
+            "HistoricalCode": 16670,
+            "BfsCode": 2056,
+            "ValidFrom": "01.01.2026",
+            "Name": "F\u00e9tigny-M\u00e9ni\u00e8res"
+        },
+        {
+            "HistoricalCode": 16672,
+            "BfsCode": 2525,
+            "ValidFrom": "01.01.2026",
+            "Name": "Kriegstetten"
+        },
+        {
+            "HistoricalCode": 16673,
+            "BfsCode": 4095,
+            "ValidFrom": "01.01.2026",
+            "Name": "Brugg"
+        },
+        {
+            "HistoricalCode": 16669,
+            "BfsCode": 6831,
+            "ValidFrom": "01.01.2026",
+            "Name": "Moutier"
+        }
+    ]
 }
