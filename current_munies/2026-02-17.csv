@@ -1,0 +1,2143 @@
+BfsCode,Name,q,name,lang,bfs,bfsInt,_merge,_nameOk,_bfsOk
+1,Aeugst am Albis,Q64945,Aeugst am Albis,de-ch,1,1,both,True,True
+2,Affoltern am Albis,Q68290,Affoltern am Albis,de-ch,2,2,both,True,True
+3,Bonstetten,Q65510,Bonstetten,de-ch,3,3,both,True,True
+4,Hausen am Albis,Q65231,Hausen am Albis,de-ch,4,4,both,True,True
+5,Hedingen,Q65129,Hedingen,de-ch,5,5,both,True,True
+6,Kappel am Albis,Q64589,Kappel am Albis,de-ch,6,6,both,True,True
+7,Knonau,Q66328,Knonau,de-ch,7,7,both,True,True
+8,Maschwanden,Q64977,Maschwanden,de-ch,8,8,both,True,True
+9,Mettmenstetten,Q65547,Mettmenstetten,de-ch,9,9,both,True,True
+10,Obfelden,Q65942,Obfelden,de-ch,10,10,both,True,True
+11,Ottenbach,Q67513,Ottenbach,de-ch,11,11,both,True,True
+12,Rifferswil,Q66598,Rifferswil,de-ch,12,12,both,True,True
+13,Stallikon,Q66062,Stallikon,de-ch,13,13,both,True,True
+14,Wettswil am Albis,Q65934,Wettswil am Albis,de-ch,14,14,both,True,True
+22,Benken (ZH),Q70171,Benken (ZH),de-ch,22,22,both,True,True
+23,Berg am Irchel,Q65781,Berg am Irchel,de-ch,23,23,both,True,True
+24,Buch am Irchel,Q68451,Buch am Irchel,de-ch,24,24,both,True,True
+25,Dachsen,Q67949,Dachsen,de-ch,25,25,both,True,True
+26,Dorf,Q70283,Dorf,de-ch,26,26,both,True,True
+27,Feuerthalen,Q66283,Feuerthalen,de-ch,27,27,both,True,True
+28,Flaach,Q70367,Flaach,de-ch,28,28,both,True,True
+29,Flurlingen,Q66757,Flurlingen,de-ch,29,29,both,True,True
+31,Henggart,Q68417,Henggart,de-ch,31,31,both,True,True
+33,Kleinandelfingen,Q68413,Kleinandelfingen,de-ch,33,33,both,True,True
+34,Laufen-Uhwiesen,Q66336,Laufen-Uhwiesen,de-ch,34,34,both,True,True
+35,Marthalen,Q67213,Marthalen,de-ch,35,35,both,True,True
+37,Ossingen,Q68393,Ossingen,de-ch,37,37,both,True,True
+38,Rheinau,Q67534,Rheinau,de-ch,38,38,both,True,True
+39,Thalheim an der Thur,Q65844,Thalheim an der Thur,de-ch,39,39,both,True,True
+40,Trüllikon,Q67933,Trüllikon,de-ch,40,40,both,True,True
+41,Truttikon,Q70072,Truttikon,de-ch,41,41,both,True,True
+43,Volken,Q67922,Volken,de-ch,43,43,both,True,True
+51,Bachenbülach,Q69887,Bachenbülach,de-ch,51,51,both,True,True
+52,Bassersdorf,Q69734,Bassersdorf,de-ch,52,52,both,True,True
+53,Bülach,Q9093,Bülach,de-ch,53,53,both,True,True
+54,Dietlikon,Q65164,Dietlikon,de-ch,54,54,both,True,True
+55,Eglisau,Q69175,Eglisau,de-ch,55,55,both,True,True
+56,Embrach,Q65877,Embrach,de-ch,56,56,both,True,True
+57,Freienstein-Teufen,Q66964,Freienstein-Teufen,de-ch,57,57,both,True,True
+58,Glattfelden,Q68399,Glattfelden,de-ch,58,58,both,True,True
+59,Hochfelden,Q68410,Hochfelden,de-ch,59,59,both,True,True
+60,Höri,Q70377,Höri,de-ch,60,60,both,True,True
+61,Hüntwangen,Q69367,Hüntwangen,de-ch,61,61,both,True,True
+62,Kloten,Q68165,Kloten,de-ch,62,62,both,True,True
+63,Lufingen,Q67912,Lufingen,de-ch,63,63,both,True,True
+64,Nürensdorf,Q67898,Nürensdorf,de-ch,64,64,both,True,True
+65,Oberembrach,Q65512,Oberembrach,de-ch,65,65,both,True,True
+66,Opfikon,Q64224,Opfikon,de-ch,66,66,both,True,True
+67,Rafz,Q66457,Rafz,de-ch,67,67,both,True,True
+68,Rorbas,Q67909,Rorbas,de-ch,68,68,both,True,True
+69,Wallisellen,Q69374,Wallisellen,und,69,69,both,True,True
+70,Wasterkingen,Q67882,Wasterkingen,de-ch,70,70,both,True,True
+71,Wil (ZH),Q67223,Wil (ZH),de-ch,71,71,both,True,True
+72,Winkel,Q66588,Winkel,de-ch,72,72,both,True,True
+81,Bachs,Q70273,Bachs,de-ch,81,81,both,True,True
+82,Boppelsen,Q67062,Boppelsen,de-ch,82,82,both,True,True
+83,Buchs (ZH),Q67539,Buchs (ZH),de-ch,83,83,both,True,True
+84,Dällikon,Q66755,Dällikon,de-ch,84,84,both,True,True
+85,Dänikon,Q70131,Dänikon,de-ch,85,85,both,True,True
+86,Dielsdorf,Q67951,Dielsdorf,de-ch,86,86,both,True,True
+87,Hüttikon,Q65671,Hüttikon,de-ch,87,87,both,True,True
+88,Neerach,Q68395,Neerach,de-ch,88,88,both,True,True
+89,Niederglatt,Q67920,Niederglatt,de-ch,89,89,both,True,True
+90,Niederhasli,Q67042,Niederhasli,de-ch,90,90,both,True,True
+91,Niederweningen,Q66411,Niederweningen,de-ch,91,91,both,True,True
+92,Oberglatt,Q70022,Oberglatt,de-ch,92,92,both,True,True
+93,Oberweningen,Q70264,Oberweningen,de-ch,93,93,both,True,True
+94,Otelfingen,Q66156,Otelfingen,de-ch,94,94,both,True,True
+95,Regensberg,Q70197,Regensberg,de-ch,95,95,both,True,True
+96,Regensdorf,Q64205,Regensdorf,de-ch,96,96,both,True,True
+97,Rümlang,Q67894,Rümlang,de-ch,97,97,both,True,True
+98,Schleinikon,Q67884,Schleinikon,de-ch,98,98,both,True,True
+99,Schöfflisdorf,Q70295,Schöfflisdorf,de-ch,99,99,both,True,True
+100,Stadel,Q67907,Stadel,de-ch,100,100,both,True,True
+101,Steinmaur,Q67887,Steinmaur,de-ch,101,101,both,True,True
+102,Weiach,Q70088,Weiach,de-ch,102,102,both,True,True
+111,Bäretswil,Q65868,Bäretswil,de-ch,111,111,both,True,True
+112,Bubikon,Q67068,Bubikon,und,112,112,both,True,True
+113,Dürnten,Q67220,Dürnten,de-ch,113,113,both,True,True
+114,Fischenthal,Q65854,Fischenthal,de-ch,114,114,both,True,True
+115,Gossau (ZH),Q67525,Gossau (ZH),de-ch,115,115,both,True,True
+116,Grüningen,Q67120,Grüningen,de,116,116,both,True,True
+117,Hinwil,Q69383,Hinwil,de-ch,117,117,both,True,True
+118,Rüti (ZH),Q69752,Rüti (ZH),de-ch,118,118,both,True,True
+119,Seegräben,Q67310,Seegräben,de-ch,119,119,both,True,True
+120,Wald (ZH),Q67272,Wald (ZH),de-ch,120,120,both,True,True
+121,Wetzikon (ZH),Q68305,Wetzikon (ZH),de-ch,121,121,both,True,True
+131,Adliswil,Q68210,Adliswil,de-ch,131,131,both,True,True
+135,Kilchberg (ZH),Q66633,Kilchberg (ZH),de,135,135,both,True,True
+136,Langnau am Albis,Q65347,Langnau am Albis Hood,de-ch,136,136,both,False,True
+137,Oberrieden,Q65528,Oberrieden,de-ch,137,137,both,True,True
+138,Richterswil,Q68227,Richterswil,de-ch,138,138,both,True,True
+139,Rüschlikon,Q66819,Rüschlikon,de-ch,139,139,both,True,True
+141,Thalwil,Q68959,Thalwil,de-ch,141,141,both,True,True
+151,Erlenbach (ZH),Q69203,Erlenbach (ZH),de-ch,151,151,both,True,True
+152,Herrliberg,Q69224,Herrliberg,de-ch,152,152,both,True,True
+153,Hombrechtikon,Q69188,Hombrechtikon,de,153,153,both,True,True
+154,Küsnacht (ZH),Q69216,Küsnacht,de,154,154,both,False,True
+155,Männedorf,Q64627,Männedorf,de-ch,155,155,both,True,True
+156,Meilen,Q68261,Meilen,de-ch,156,156,both,True,True
+157,Oetwil am See,Q67354,Oetwil am See,de-ch,157,157,both,True,True
+158,Stäfa,Q69774,Stäfa,de-ch,158,158,both,True,True
+159,Uetikon am See,Q67058,Uetikon am See,de-ch,159,159,both,True,True
+160,Zumikon,Q66898,Zumikon,de-ch,160,160,both,True,True
+161,Zollikon,Q218691,Zollikon,de-ch,161,161,both,True,True
+172,Fehraltorf,Q70369,Fehraltorf,de-ch,172,172,both,True,True
+173,Hittnau,Q65841,Hittnau,de-ch,173,173,both,True,True
+176,Lindau,Q65759,Lindau,de-ch,176,176,both,True,True
+177,Pfäffikon,Q68269,Pfäffikon,de-ch,177,177,both,True,True
+178,Russikon,Q67957,Russikon,de-ch,178,178,both,True,True
+180,Weisslingen,Q70375,Weisslingen,de-ch,180,180,both,True,True
+181,Wila,Q66752,Wila,de-ch,181,181,both,True,True
+182,Wildberg,Q67346,Wildberg,de-ch,182,182,both,True,True
+191,Dübendorf,Q64082,Dübendorf,de-ch,191,191,both,True,True
+192,Egg,Q64877,Egg,de-ch,192,192,both,True,True
+193,Fällanden,Q64869,Fällanden,de-ch,193,193,both,True,True
+194,Greifensee,Q64882,Greifensee,de-ch,194,194,both,True,True
+195,Maur,Q64857,Maur,de-ch,195,195,both,True,True
+196,Mönchaltorf,Q66747,Mönchaltorf,de-ch,196,196,both,True,True
+197,Schwerzenbach,Q66814,Schwerzenbach,de-ch,197,197,both,True,True
+198,Uster,Q64032,Uster,de-ch,198,198,both,True,True
+199,Volketswil,Q69754,Volketswil,de-ch,199,199,both,True,True
+200,Wangen-Brüttisellen,Q66829,Wangen-Brüttisellen,de-ch,200,200,both,True,True
+211,Altikon,Q65929,Altikon,de-ch,211,211,both,True,True
+213,Brütten,Q65812,Brütten,de-ch,213,213,both,True,True
+214,Dägerlen,Q68437,Dägerlen,de-ch,214,214,both,True,True
+215,Dättlikon,Q70381,Dättlikon,de-ch,215,215,both,True,True
+216,Dinhard,Q65795,Dinhard,de-ch,216,216,both,True,True
+218,Ellikon an der Thur,Q65769,Ellikon an der Thur,de-ch,218,218,both,True,True
+219,Elsau,Q64832,Elsau,de-ch,219,219,both,True,True
+220,Hagenbuch,Q65926,Hagenbuch,de-ch,220,220,both,True,True
+221,Hettlingen,Q64967,Hettlingen,de-ch,221,221,both,True,True
+223,Neftenbach,Q65040,Neftenbach,de-ch,223,223,both,True,True
+224,Pfungen,Q65119,Pfungen,de-ch,224,224,both,True,True
+225,Rickenbach (ZH),Q68457,Rickenbach (ZH),de-ch,225,225,both,True,True
+226,Schlatt (ZH),Q68390,Schlatt (ZH),de,226,226,both,True,True
+227,Seuzach,Q65805,Seuzach,de-ch,227,227,both,True,True
+228,Turbenthal,Q65858,Turbenthal,de-ch,228,228,both,True,True
+230,Winterthur,Q9125,Winterthur,de-ch,230,230,both,True,True
+231,Zell (ZH),Q67211,Zell (ZH),de-ch,231,231,both,True,True
+241,Aesch (ZH),Q68342,Aesch (ZH),de,241,241,both,True,True
+242,Birmensdorf (ZH),Q65282,Birmensdorf (ZH),de-ch,242,242,both,True,True
+243,Dietikon,Q64070,Dietikon,de-ch,243,243,both,True,True
+244,Geroldswil,Q66660,Geroldswil,de-ch,244,244,both,True,True
+245,Oberengstringen,Q69963,Oberengstringen,de-ch,245,245,both,True,True
+246,Oetwil an der Limmat,Q66414,Oetwil an der Limmat,de-ch,246,246,both,True,True
+247,Schlieren,Q69148,Schlieren,de-ch,247,247,both,True,True
+248,Uitikon,Q66678,Uitikon,de-ch,248,248,both,True,True
+249,Unterengstringen,Q66079,Unterengstringen,de-ch,249,249,both,True,True
+250,Urdorf,Q69109,Urdorf,de-ch,250,250,both,True,True
+251,Weiningen (ZH),Q66093,Weiningen (ZH),de-ch,251,251,both,True,True
+261,Zürich,Q72,Zürich,de-ch,261,261,both,True,True
+291,Andelfingen,Q68423,Andelfingen,de-ch,291,291,both,True,True
+292,Stammheim,Q60322693,Stammheim,de-ch,292,292,both,True,True
+293,Wädenswil,Q69718,Wädenswil,de-ch,293,293,both,True,True
+294,Elgg,Q67137,Elgg,de-ch,294,294,both,True,True
+295,Horgen,Q68286,Horgen,de-ch,295,295,both,True,True
+296,Illnau-Effretikon,Q64873,Illnau-Effretikon,de-ch,296,296,both,True,True
+297,Bauma,Q67145,Bauma,de-ch,297,297,both,True,True
+298,Wiesendangen,Q64853,Wiesendangen,de-ch,298,298,both,True,True
+301,Aarberg,Q64113,Aarberg,de-ch,301,301,both,True,True
+302,Bargen (BE),Q66438,Bargen (BE),und,302,302,both,True,True
+303,Grossaffoltern,Q65921,Grossaffoltern,und,303,303,both,True,True
+304,Kallnach,Q66482,Kallnach,und,304,304,both,True,True
+305,Kappelen,Q65924,Kappelen,und,305,305,both,True,True
+306,Lyss,Q69512,Lyss,de-ch,306,306,both,True,True
+307,Meikirch,Q67294,Meikirch,de,307,307,both,True,True
+309,Radelfingen,Q67140,Radelfingen,und,309,309,both,True,True
+310,Rapperswil (BE),Q67577,Rapperswil (BE),und,310,310,both,True,True
+311,Schüpfen,Q66783,Schüpfen,und,311,311,both,True,True
+312,Seedorf (BE),Q66928,Seedorf,de,312,312,both,False,True
+321,Aarwangen,Q69222,Aarwangen,und,321,321,both,True,True
+322,Auswil,Q67598,Auswil,de-ch,322,322,both,True,True
+323,Bannwil,Q66841,Bannwil,und,323,323,both,True,True
+324,Bleienbach,Q67606,Bleienbach,de-ch,324,324,both,True,True
+325,Busswil bei Melchnau,Q67450,Busswil bei Melchnau,und,325,325,both,True,True
+326,Gondiswil,Q65477,Einwohnergemeinde Gondiswil,de-ch,326,326,both,False,True
+329,Langenthal,Q69726,Langenthal,de-ch,329,329,both,True,True
+331,Lotzwil,Q66846,Lotzwil,und,331,331,both,True,True
+332,Madiswil,Q67628,Madiswil,und,332,332,both,True,True
+333,Melchnau,Q66879,,,333,333,both,False,True
+335,Oeschenbach,Q67770,Oeschenbach,und,335,335,both,True,True
+336,Reisiswil,Q67836,Reisiswil,und,336,336,both,True,True
+337,Roggwil (BE),Q68015,Roggwil (BE),und,337,337,both,True,True
+338,Rohrbach,Q70268,Rohrbach,und,338,338,both,True,True
+339,Rohrbachgraben,Q67246,Rohrbachgraben,de-ch,339,339,both,True,True
+340,Rütschelen,Q67625,Rütschelen,und,340,340,both,True,True
+341,Schwarzhäusern,Q67623,Schwarzhäusern,und,341,341,both,True,True
+342,Thunstetten,Q67788,Thunstetten,und,342,342,both,True,True
+344,Ursenbach,Q70287,Ursenbach,de-ch,344,344,both,True,True
+345,Wynau,Q70104,Wynau,und,345,345,both,True,True
+351,Bern,Q70,Bern,de-ch,351,351,both,True,True
+352,Bolligen,Q69160,Bolligen,de-ch,352,352,both,True,True
+353,Bremgarten bei Bern,Q68185,Bremgarten bei Bern,und,353,353,both,True,True
+354,Kirchlindach,Q69688,Kirchlindach,und,354,354,both,True,True
+355,Köniz,Q64058,Köniz,de-ch,355,355,both,True,True
+356,Muri bei Bern,Q69765,Muri bei Bern,de-ch,356,356,both,True,True
+357,Oberbalm,Q65883,Oberbalm,und,357,357,both,True,True
+358,Stettlen,Q70052,Stettlen,de,358,358,both,True,True
+359,Vechigen,Q66852,Vechigen,und,359,359,both,True,True
+360,Wohlen bei Bern,Q67613,Wohlen bei Bern,und,360,360,both,True,True
+361,Zollikofen,Q69675,Zollikofen,de-ch,361,361,both,True,True
+362,Ittigen,Q69690,Ittigen,de-ch,362,362,both,True,True
+363,Ostermundigen,Q69682,Ostermundigen,de-ch,363,363,both,True,True
+371,Biel/Bienne,Q1034,Biel/Bienne,mul,371,371,both,True,True
+372,Evilard,Q70093,Evilard,fr,372,372,both,True,True
+381,Arch,Q11729,Arch,de-ch,381,381,both,True,True
+382,Büetigen,Q67399,Büetigen,und,382,382,both,True,True
+383,Büren an der Aare,Q66360,Büren an der Aare,und,383,383,both,True,True
+385,Diessbach bei Büren,Q67854,Diessbach bei Büren,und,385,385,both,True,True
+386,Dotzigen,Q69861,Dotzigen,und,386,386,both,True,True
+387,Lengnau (BE),Q66473,Lengnau (BE),und,387,387,both,True,True
+388,Leuzigen,Q67376,Leuzigen,und,388,388,both,True,True
+389,Meienried,Q67422,Meienried,und,389,389,both,True,True
+390,Meinisberg,Q69914,Meinisberg,und,390,390,both,True,True
+391,Oberwil bei Büren,Q67558,,,391,391,both,False,True
+392,Pieterlen,Q67849,Pieterlen,de-ch,392,392,both,True,True
+393,Rüti bei Büren,Q11737,Rüti bei Büren,de-ch,393,393,both,True,True
+394,Wengi,Q69866,Wengi,und,394,394,both,True,True
+401,Aefligen,Q68376,Aefligen,und,401,401,both,True,True
+402,Alchenstorf,Q66945,Alchenstorf,und,402,402,both,True,True
+403,Bäriswil,Q68565,Bäriswil,und,403,403,both,True,True
+404,Burgdorf,Q68311,Burgdorf,de-ch,404,404,both,True,True
+405,Ersigen,Q67636,Ersigen,und,405,405,both,True,True
+406,Hasle bei Burgdorf,Q67066,Hasle bei Burgdorf,und,406,406,both,True,True
+407,Heimiswil,Q67632,Heimiswil,und,407,407,both,True,True
+408,Hellsau,Q68603,Hellsau,und,408,408,both,True,True
+409,Hindelbank,Q67564,Hindelbank,und,409,409,both,True,True
+410,Höchstetten,Q67792,Höchstetten,und,410,410,both,True,True
+411,Kernenried,Q67618,Kernenried,und,411,411,both,True,True
+412,Kirchberg (BE),Q66463,Kirchberg (BE),de,412,412,both,True,True
+413,Koppigen,Q66668,Koppigen,und,413,413,both,True,True
+414,Krauchthal,Q65981,Krauchthal,und,414,414,both,True,True
+415,Lyssach,Q67593,Lyssach,und,415,415,both,True,True
+418,Oberburg,Q67860,Oberburg,und,418,418,both,True,True
+420,Rüdtligen-Alchenflüh,Q67556,Rüdtligen-Alchenflüh,und,420,420,both,True,True
+421,Rumendingen,Q67794,Rumendingen,und,421,421,both,True,True
+422,Rüti bei Lyssach,Q67819,Rüti bei Lyssach,de-ch,422,422,both,True,True
+423,Willadingen,Q67404,Willadingen,und,423,423,both,True,True
+424,Wynigen,Q67439,Wynigen,und,424,424,both,True,True
+431,Corgémont,Q66917,Corgémont,fr,431,431,both,True,True
+432,Cormoret,Q66425,Cormoret,fr,432,432,both,True,True
+433,Cortébert,Q69974,Cortébert,fr,433,433,both,True,True
+434,Courtelary,Q65649,Courtelary,fr,434,434,both,True,True
+435,La Ferrière,Q69879,La Ferrière,fr,435,435,both,True,True
+437,Mont-Tramelan,Q66431,Mont-Tramelan,fr,437,437,both,True,True
+438,Orvin,Q67016,Orvin,fr,438,438,both,True,True
+441,Renan (BE),Q517870,Renan (BE),fr,441,441,both,True,True
+442,Romont (BE),Q70281,Romont (BE),fr,442,442,both,True,True
+443,Saint-Imier,Q66390,Saint-Imier,fr,443,443,both,True,True
+444,Sonceboz-Sombeval,Q67292,Sonceboz-Sombeval,fr,444,444,both,True,True
+445,Sonvilier,Q66471,Sonvilier,fr,445,445,both,True,True
+446,Tramelan,Q66384,Tramelan,fr,446,446,both,True,True
+448,Villeret,Q69979,Villeret,fr,448,448,both,True,True
+449,Sauge,Q15059724,Sauge,fr,449,449,both,True,True
+450,Péry-La Heutte,Q16269754,Péry-La Heutte,fr,450,450,both,True,True
+491,Brüttelen,Q67260,Brüttelen,und,491,491,both,True,True
+492,Erlach,Q69453,Erlach,de-ch,492,492,both,True,True
+493,Finsterhennen,Q69950,Finsterhennen,und,493,493,both,True,True
+494,Gals,Q67241,Gals,de-ch,494,494,both,True,True
+495,Gampelen,Q67387,Gampelen,und,495,495,both,True,True
+496,Ins,Q69487,,,496,496,both,False,True
+497,Lüscherz,Q69491,Lüscherz,und,497,497,both,True,True
+498,Müntschemier,Q69945,Müntschemier,und,498,498,both,True,True
+499,Siselen,Q69877,Siselen,und,499,499,both,True,True
+500,Treiten,Q69873,Treiten,und,500,500,both,True,True
+501,Tschugg,Q69891,Tschugg,und,501,501,both,True,True
+502,Vinelz,Q67084,Vinelz,und,502,502,both,True,True
+533,Bätterkinden,Q67596,Bätterkinden,und,533,533,both,True,True
+535,Deisswil bei Münchenbuchsee,Q67832,Deisswil bei Münchenbuchsee,de-ch,535,535,both,True,True
+538,Fraubrunnen,Q10317,Fraubrunnen,de-ch,538,538,both,True,True
+540,Jegenstorf,Q10341,Jegenstorf,de-ch,540,540,both,True,True
+541,Iffwil,Q67780,Iffwil,de,541,541,both,True,True
+543,Mattstetten,Q67839,Mattstetten,und,543,543,both,True,True
+544,Moosseedorf,Q67552,Moosseedorf,de,544,544,both,True,True
+546,Münchenbuchsee,Q69071,Münchenbuchsee,de-ch,546,546,both,True,True
+551,Urtenen-Schönbühl,Q67282,Urtenen-Schönbühl,und,551,551,both,True,True
+552,Utzenstorf,Q67778,Utzenstorf,und,552,552,both,True,True
+553,Wiggiswil,Q67648,Wiggiswil,und,553,553,both,True,True
+554,Wiler bei Utzenstorf,Q67396,Wiler bei Utzenstorf,und,554,554,both,True,True
+,,Q67424,,,555,555,wiki_only,False,True
+556,Zielebach,Q66098,Zielebach,und,556,556,both,True,True
+557,Zuzwil (BE),Q66932,Zuzwil (BE),und,557,557,both,True,True
+561,Adelboden,Q68994,Adelboden,und,561,561,both,True,True
+562,Aeschi bei Spiez,Q68327,Aeschi bei Spiez,de-ch,562,562,both,True,True
+563,Frutigen,Q66208,Frutigen,de,563,563,both,True,True
+564,Kandergrund,Q65540,Kandergrund,und,564,564,both,True,True
+565,Kandersteg,Q66218,Kandersteg,de-ch,565,565,both,True,True
+566,Krattigen,Q65953,,,566,566,both,False,True
+567,Reichenbach im Kandertal,Q66378,Reichenbach im Kandertal,de-ch,567,567,both,True,True
+571,Beatenberg,Q68108,Beatenberg,und,571,571,both,True,True
+572,Bönigen,Q65502,Bönigen,und,572,572,both,True,True
+573,Brienz (BE),Q65268,Brienz (BE),de-ch,573,573,both,True,True
+574,Brienzwiler,Q65211,Brienzwiler,de-ch,574,574,both,True,True
+575,Därligen,Q65065,Därligen,de-ch,575,575,both,True,True
+576,Grindelwald,Q64004,Grindelwald,de-ch,576,576,both,True,True
+577,Gsteigwiler,Q65738,Gsteigwiler,und,577,577,both,True,True
+578,Gündlischwand,Q65560,Gündlischwand,und,578,578,both,True,True
+579,Habkern,Q64779,Habkern,de-ch,579,579,both,True,True
+580,Hofstetten bei Brienz,Q65200,Hofstetten bei Brienz,de-ch,580,580,both,True,True
+581,Interlaken,Q68103,Interlaken,und,581,581,both,True,True
+582,Iseltwald,Q64760,Iseltwald,de-ch,582,582,both,True,True
+584,Lauterbrunnen,Q64011,Lauterbrunnen,de-ch,584,584,both,True,True
+585,Leissigen,Q65300,Leissigen,de-ch,585,585,both,True,True
+586,Lütschental,Q66017,Lütschental,und,586,586,both,True,True
+587,Matten bei Interlaken,Q65757,Matten bei Interlaken,und,587,587,both,True,True
+588,Niederried bei Interlaken,Q66134,Niederried bei Interlaken,und,588,588,both,True,True
+589,Oberried am Brienzersee,Q66000,Oberried am Brienzersee,und,589,589,both,True,True
+590,Ringgenberg (BE),Q66582,Ringgenberg (BE),und,590,590,both,True,True
+591,Saxeten,Q66009,Saxeten,und,591,591,both,True,True
+592,Schwanden bei Brienz,Q65238,Schwanden bei Brienz,de-ch,592,592,both,True,True
+593,Unterseen,Q67097,Unterseen,und,593,593,both,True,True
+594,Wilderswil,Q69256,Wilderswil,und,594,594,both,True,True
+602,Arni (BE),Q67569,Arni (BE),und,602,602,both,True,True
+603,Biglen,Q65875,Biglen,und,603,603,both,True,True
+605,Bowil,Q69380,Bowil,de-ch,605,605,both,True,True
+606,Brenzikofen,Q66146,Brenzikofen,und,606,606,both,True,True
+607,Freimettigen,Q67616,Freimettigen,und,607,607,both,True,True
+608,Grosshöchstetten,Q67611,Grosshöchstetten,und,608,608,both,True,True
+609,Häutligen,Q67768,Häutligen,und,609,609,both,True,True
+610,Herbligen,Q67634,Herbligen,und,610,610,both,True,True
+611,Kiesen,Q66381,Kiesen,de-ch,611,611,both,True,True
+612,Konolfingen,Q66211,Konolfingen,de-ch,612,612,both,True,True
+613,Landiswil,Q67809,Landiswil,de,613,613,both,True,True
+614,Linden,Q67608,Linden,und,614,614,both,True,True
+615,Mirchel,Q67621,Mirchel,und,615,615,both,True,True
+616,Münsingen,Q69783,Münsingen,de-ch,616,616,both,True,True
+617,Niederhünigen,Q67657,Niederhünigen,und,617,617,both,True,True
+619,Oberdiessbach,Q67582,Oberdiessbach,und,619,619,both,True,True
+620,Oberthal,Q67503,Oberthal,und,620,620,both,True,True
+622,Oppligen,Q67659,Oppligen,und,622,622,both,True,True
+623,Rubigen,Q67821,Rubigen,de,623,623,both,True,True
+626,Walkringen,Q67460,Walkringen,de,626,626,both,True,True
+627,Worb,Q69732,,,627,627,both,False,True
+628,Zäziwil,Q66924,Zäziwil,und,628,628,both,True,True
+629,Oberhünigen,Q67805,Oberhünigen,de,629,629,both,True,True
+630,Allmendingen,Q67432,Allmendingen bei Bern,de,630,630,both,False,True
+632,Wichtrach,Q65945,Wichtrach,und,632,632,both,True,True
+662,Ferenbalm,Q65886,Ferenbalm,und,662,662,both,True,True
+663,Frauenkappelen,Q69680,Frauenkappelen,und,663,663,both,True,True
+665,Gurbrü,Q67019,Gurbrü,und,665,665,both,True,True
+666,Kriechenwil,Q67022,Kriechenwil,und,666,666,both,True,True
+667,Laupen,Q67112,Laupen,de,667,667,both,True,True
+668,Mühleberg,Q67278,Mühleberg,de,668,668,both,True,True
+669,Münchenwiler,Q659790,Münchenwiler,und,669,669,both,True,True
+670,Neuenegg,Q66125,Neuenegg,und,670,670,both,True,True
+671,Wileroltigen,Q66919,Wileroltigen,und,671,671,both,True,True
+681,Belprahon,Q67296,Belprahon,fr,681,681,both,True,True
+683,Champoz,Q66938,Champoz,fr,683,683,both,True,True
+687,Corcelles (BE),Q67862,,,687,687,both,False,True
+690,Court,Q69897,Court,fr,690,690,both,True,True
+691,Crémines,Q68599,Crémines,fr,691,691,both,True,True
+692,Eschert,Q67574,Eschert,fr,692,692,both,True,True
+694,Grandval,Q67029,Grandval,fr,694,694,both,True,True
+696,Loveresse,Q67591,Loveresse,fr,696,696,both,True,True
+701,Perrefitte,Q66455,Perrefitte,fr,701,701,both,True,True
+703,Reconvilier,Q67249,Reconvilier,fr,703,703,both,True,True
+704,Roches (BE),Q68011,Roches (BE),fr,704,704,both,True,True
+706,Saicourt,Q67384,Saicourt,fr,706,706,both,True,True
+707,Saules (BE),Q69931,Saules (BE),fr,707,707,both,True,True
+708,Schelten,Q67369,Schelten,de-ch,708,708,both,True,True
+709,Seehof,Q67236,Seehof,de-ch,709,709,both,True,True
+711,Sorvilier,Q67458,Sorvilier,fr,711,711,both,True,True
+713,Tavannes,Q67203,Tavannes,fr,713,713,both,True,True
+715,Rebévelier,Q68570,Rebévelier,fr,715,715,both,True,True
+716,Petit-Val,Q17325677,Petit-Val,fr,716,716,both,True,True
+717,Valbirse,Q17326749,Valbirse,fr,717,717,both,True,True
+723,La Neuveville,Q69476,La Neuveville,fr,723,723,both,True,True
+724,Nods,Q67468,Nods,fr,724,724,both,True,True
+726,Plateau de Diesse,Q15124921,Plateau de Diesse,fr,726,726,both,True,True
+731,Aegerten,Q69389,Aegerten,de-ch,731,731,both,True,True
+732,Bellmund,Q67382,Bellmund,und,732,732,both,True,True
+733,Brügg,Q69455,Brügg,de-ch,733,733,both,True,True
+734,Bühl,Q69983,Bühl,und,734,734,both,True,True
+735,Epsach,Q67371,Epsach,und,735,735,both,True,True
+736,Hagneck,Q67546,Hagneck,und,736,736,both,True,True
+737,Hermrigen,Q67391,Hermrigen,und,737,737,both,True,True
+738,Jens,Q66943,Jens,und,738,738,both,True,True
+739,Ipsach,Q69460,Ipsach,de-ch,739,739,both,True,True
+740,Ligerz,Q69495,Ligerz,de-ch,740,740,both,True,True
+741,Merzligen,Q70293,Merzligen,und,741,741,both,True,True
+742,Mörigen,Q69467,Mörigen,und,742,742,both,True,True
+743,Nidau,Q13209,Nidau,de-ch,743,743,both,True,True
+744,Orpund,Q69227,Orpund,und,744,744,both,True,True
+745,Port,Q68197,Port,und,745,745,both,True,True
+746,Safnern,Q67542,Safnern,de-ch,746,746,both,True,True
+747,Scheuren,Q67566,,,747,747,both,False,True
+748,Schwadernau,Q69858,Schwadernau,de-ch,748,748,both,True,True
+749,Studen (BE),Q69908,Studen (BE),und,749,749,both,True,True
+750,Sutz-Lattrigen,Q69463,Sutz-Lattrigen,de-ch,750,750,both,True,True
+751,Täuffelen,Q69443,Täuffelen,und,751,751,both,True,True
+754,Walperswil,Q69926,Gemeinde Walperswil,de-ch,754,754,both,False,True
+755,Worben,Q67364,Worben,und,755,755,both,True,True
+756,Twann-Tüscherz,Q70621,Twann-Tüscherz,de-ch,756,756,both,True,True
+761,Därstetten,Q65721,Därstetten,und,761,761,both,True,True
+762,Diemtigen,Q65957,Diemtigen,de-ch,762,762,both,True,True
+763,Erlenbach im Simmental,Q66132,Erlenbach im Simmental,und,763,763,both,True,True
+766,Oberwil im Simmental,Q66778,Oberwil im Simmental,de,766,766,both,True,True
+767,Reutigen,Q66750,Reutigen,und,767,767,both,True,True
+768,Spiez,Q69484,Spiez,de,768,768,both,True,True
+769,Wimmis,Q65949,Wimmis,de-ch,769,769,both,True,True
+770,Stocken-Höfen,Q15060153,Stocken-Höfen,und,770,770,both,True,True
+782,Guttannen,Q69419,Guttannen,en,782,782,both,True,True
+782,Guttannen,Q69419,Guttannen,de,782,782,both,True,True
+783,Hasliberg,Q69424,Hasliberg,und,783,783,both,True,True
+784,Innertkirchen,Q69231,Innertkirchen,und,784,784,both,True,True
+785,Meiringen,Q64123,Meiringen,de-ch,785,785,both,True,True
+786,Schattenhalb,Q65490,Schattenhalb,de-ch,786,786,both,True,True
+791,Boltigen,Q65939,Boltigen,de,791,791,both,True,True
+792,Lenk,Q65152,Lenk,de-ch,792,792,both,True,True
+793,St. Stephan,Q66798,,,793,793,both,False,True
+794,Zweisimmen,Q69417,Zweisimmen,und,794,794,both,True,True
+841,Gsteig,Q65753,Gsteig,de,841,841,both,True,True
+842,Lauenen,Q65903,Lauenen,und,842,842,both,True,True
+843,Saanen,Q66629,Saanen,und,843,843,both,True,True
+852,Guggisberg,Q64969,Guggisberg,de-ch,852,852,both,True,True
+853,Rüschegg,Q65474,Rüschegg,de-ch,853,853,both,True,True
+855,Schwarzenburg,Q70708,Schwarzenburg,de,855,855,both,True,True
+861,Belp,Q69678,Belp,de-ch,861,861,both,True,True
+863,Burgistein,Q66393,Burgistein,und,863,863,both,True,True
+866,Gerzensee,Q67014,Gerzensee,und,866,866,both,True,True
+867,Gurzelen,Q66613,Gurzelen,und,867,867,both,True,True
+868,Jaberg,Q66585,Jaberg,und,868,868,both,True,True
+869,Kaufdorf,Q66655,Kaufdorf,und,869,869,both,True,True
+870,Kehrsatz,Q68274,Kehrsatz,und,870,870,both,True,True
+872,Kirchdorf (BE),Q65895,,,872,872,both,False,True
+877,Niedermuhlern,Q66148,Niedermuhlern,und,877,877,both,True,True
+879,Riggisberg,Q65618,Riggisberg,und,879,879,both,True,True
+880,Rüeggisberg,Q66387,Rüeggisberg,und,880,880,both,True,True
+883,Seftigen,Q69240,Seftigen,und,883,883,both,True,True
+884,Toffen,Q66692,Toffen,und,884,884,both,True,True
+885,Uttigen,Q66120,Uttigen,de-ch,885,885,both,True,True
+886,Wattenwil,Q65492,Wattenwil,de-ch,886,886,both,True,True
+888,Wald (BE),Q67251,Wald (BE),und,888,888,both,True,True
+889,Thurnen,Q67869174,,,889,889,both,False,True
+901,Eggiwil,Q67393,Eggiwil,de,901,901,both,True,True
+902,Langnau im Emmental,Q66300,Langnau im Emmental,und,902,902,both,True,True
+903,Lauperswil,Q67238,Lauperswil,de,903,903,both,True,True
+904,Röthenbach im Emmental,Q65741,Röthenbach im Emmental,und,904,904,both,True,True
+905,Rüderswil,Q67644,Rüderswil,de,905,905,both,True,True
+906,Schangnau,Q66700,Schangnau,de,906,906,both,True,True
+907,Signau,Q67289,Signau,und,907,907,both,True,True
+908,Trub,Q67842,Trub,und,908,908,both,True,True
+909,Trubschachen,Q69114,Trubschachen,und,909,909,both,True,True
+921,Amsoldingen,Q64776,Amsoldingen,de-ch,921,921,both,True,True
+922,Blumenstein,Q66139,Blumenstein,und,922,922,both,True,True
+923,Buchholterberg,Q65495,,,923,923,both,False,True
+924,Eriz,Q64997,Eriz,de-ch,924,924,both,True,True
+925,Fahrni,Q65487,Fahrni,de-ch,925,925,both,True,True
+927,Heiligenschwendi,Q65485,Heiligenschwendi,de-ch,927,927,both,True,True
+928,Heimberg,Q65206,Heimberg,de-ch,928,928,both,True,True
+929,Hilterfingen,Q66042,Hilterfingen,de,929,929,both,True,True
+931,Homberg,Q69090,Homberg,de-ch,931,931,both,True,True
+932,Horrenbach-Buchen,Q65500,Horrenbach-Buchen,de-ch,932,932,both,True,True
+934,Oberhofen am Thunersee,Q66611,Oberhofen am Thunersee,und,934,934,both,True,True
+935,Oberlangenegg,Q65481,Oberlangenegg,de-ch,935,935,both,True,True
+936,Pohlern,Q65748,Pohlern,und,936,936,both,True,True
+938,Sigriswil,Q65732,Sigriswil,de,938,938,both,True,True
+939,Steffisburg,Q69668,Steffisburg,de-ch,939,939,both,True,True
+940,Teuffenthal (BE),Q65554,Teuffenthal (BE),de,940,940,both,True,True
+941,Thierachern,Q66040,Thierachern,und,941,941,both,True,True
+942,Thun,Q68978,Thun,de-ch,942,942,both,True,True
+943,Uebeschi,Q65249,Uebeschi,de-ch,943,943,both,True,True
+944,Uetendorf,Q66114,Uetendorf,und,944,944,both,True,True
+945,Unterlangenegg,Q68170,Unterlangenegg,und,945,945,both,True,True
+946,Wachseldorn,Q65734,Wachseldorn,und,946,946,both,True,True
+948,Forst-Längenbühl,Q67775,Forst-Längenbühl,und,948,948,both,True,True
+951,Affoltern im Emmental,Q65169,Affoltern im Emmental,de-ch,951,951,both,True,True
+952,Dürrenroth,Q69819,Dürrenroth,und,952,952,both,True,True
+953,Eriswil,Q65744,Eriswil,de-ch,953,953,both,True,True
+954,Huttwil,Q69619,Huttwil,und,954,954,both,True,True
+955,Lützelflüh,Q67826,Lützelflüh,und,955,955,both,True,True
+956,Rüegsau,Q67834,Rüegsau,und,956,956,both,True,True
+957,Sumiswald,Q68167,Sumiswald,und,957,957,both,True,True
+958,Trachselwald,Q67086,Trachselwald,und,958,958,both,True,True
+959,Walterswil (BE),Q67548,Einwohnergemeinde Walterswil (BE),de-ch,959,959,both,False,True
+960,Wyssachen,Q66446,,,960,960,both,False,True
+971,Attiswil,Q67257,Attiswil,und,971,971,both,True,True
+972,Berken,Q67803,Berken,und,972,972,both,True,True
+973,Bettenhausen,Q67588,Bettenhausen,de-ch,973,973,both,True,True
+975,Farnern,Q68591,Farnern,und,975,975,both,True,True
+976,Graben,Q67642,Graben,und,976,976,both,True,True
+977,Heimenhausen,Q67655,Heimenhausen,und,977,977,both,True,True
+979,Herzogenbuchsee,Q67499,Herzogenbuchsee,und,979,979,both,True,True
+980,Inkwil,Q67646,Inkwil,und,980,980,both,True,True
+981,Niederbipp,Q69168,Niederbipp,und,981,981,both,True,True
+982,Niederönz,Q67785,Niederönz,und,982,982,both,True,True
+983,Oberbipp,Q70271,Oberbipp,und,983,983,both,True,True
+985,Ochlenberg,Q67857,Ochlenberg,de-ch,985,985,both,True,True
+987,Rumisberg,Q70290,Rumisberg,und,987,987,both,True,True
+988,Seeberg,Q70275,Seeberg,de-ch,988,988,both,True,True
+989,Thörigen,Q70277,Thörigen,und,989,989,both,True,True
+990,Walliswil bei Niederbipp,Q67851,Walliswil bei Niederbipp,und,990,990,both,True,True
+991,Walliswil bei Wangen,Q67426,Walliswil bei Wangen,und,991,991,both,True,True
+992,Wangen an der Aare,Q67536,Wangen an der Aare,und,992,992,both,True,True
+995,Wiedlisbach,Q67133,Wiedlisbach,und,995,995,both,True,True
+1001,Doppleschwand,Q121062269,Doppleschwand,de-ch,1001,1001,both,True,True
+1002,Entlebuch,Q14547,Entlebuch,de-ch,1002,1002,both,True,True
+1004,Flühli,Q14552,Flühli,de-ch,1004,1004,both,True,True
+1005,Hasle (LU),Q14555,Hasle (LU),de-ch,1005,1005,both,True,True
+1007,Romoos,Q14557,Romoos,de-ch,1007,1007,both,True,True
+1008,Schüpfheim,Q14559,Schüpfheim,de-ch,1008,1008,both,True,True
+1009,Werthenstein,Q14562,Werthenstein,de-ch,1009,1009,both,True,True
+1010,Escholzmatt-Marbach,Q14550,Escholzmatt-Marbach,de-ch,1010,1010,both,True,True
+1021,Aesch (LU),Q7120,Aesch (LU),de-ch,1021,1021,both,True,True
+1023,Ballwil,Q7096,Ballwil,de-ch,1023,1023,both,True,True
+1024,Emmen,Q4225,Emmen,de-ch,1024,1024,both,True,True
+1025,Ermensee,Q7115,Ermensee,de-ch,1025,1025,both,True,True
+1026,Eschenbach (LU),Q7092,Eschenbach (LU),de-ch,1026,1026,both,True,True
+1030,Hitzkirch,Q7114,Hitzkirch,de-ch,1030,1030,both,True,True
+1031,Hochdorf,Q7102,Hochdorf,de-ch,1031,1031,both,True,True
+1032,Hohenrain,Q7109,Hohenrain,de-ch,1032,1032,both,True,True
+1033,Inwil,Q7097,Inwil,de-ch,1033,1033,both,True,True
+1037,Rain,Q7107,Rain,de-ch,1037,1037,both,True,True
+1039,Römerswil,Q7111,Römerswil,de-ch,1039,1039,both,True,True
+1040,Rothenburg,Q7083,Rothenburg,de-ch,1040,1040,both,True,True
+1041,Schongau,Q7121,Schongau,de-ch,1041,1041,both,True,True
+1051,Adligenswil,Q14563,Adligenswil,de-ch,1051,1051,both,True,True
+1052,Buchrain,Q7098,Buchrain,de-ch,1052,1052,both,True,True
+1053,Dierikon,Q14565,Dierikon,de-ch,1053,1053,both,True,True
+1054,Ebikon,Q14566,Ebikon,de-ch,1054,1054,both,True,True
+1055,Gisikon,Q14567,Gisikon,de-ch,1055,1055,both,True,True
+1056,Greppen,Q14568,Greppen,de-ch,1056,1056,both,True,True
+1058,Horw,Q14570,Horw,de-ch,1058,1058,both,True,True
+1059,Kriens,Q14571,Kriens,de-ch,1059,1059,both,True,True
+1061,Luzern,Q4191,Luzern,de,1061,1061,both,True,True
+1062,Malters,Q14572,Malters,de-ch,1062,1062,both,True,True
+1063,Meggen,Q14573,Meggen,de-ch,1063,1063,both,True,True
+1064,Meierskappel,Q14574,Meierskappel,de-ch,1064,1064,both,True,True
+1065,Root,Q14575,Root,de-ch,1065,1065,both,True,True
+1066,Schwarzenberg,Q14576,Schwarzenberg,de-ch,1066,1066,both,True,True
+1067,Udligenswil,Q14577,Udligenswil,de-ch,1067,1067,both,True,True
+1068,Vitznau,Q14578,Vitznau,de-ch,1068,1068,both,True,True
+1069,Weggis,Q14580,Weggis,de-ch,1069,1069,both,True,True
+1081,Beromünster,Q7146,Beromünster,de-ch,1081,1081,both,True,True
+1082,Büron,Q7139,Büron,de-ch,1082,1082,both,True,True
+1083,Buttisholz,Q7132,Buttisholz,de-ch,1083,1083,both,True,True
+1084,Eich,Q7147,Eich,de-ch,1084,1084,both,True,True
+1085,Geuensee,Q7142,Geuensee,de-ch,1085,1085,both,True,True
+1086,Grosswangen,Q7133,Grosswangen,de-ch,1086,1086,both,True,True
+1088,Hildisrieden,Q7153,Hildisrieden,de-ch,1088,1088,both,True,True
+1089,Knutwil,Q7137,Knutwil,de-ch,1089,1089,both,True,True
+1091,Mauensee,Q7136,Mauensee,de-ch,1091,1091,both,True,True
+1093,Neuenkirch,Q7128,Neuenkirch,de-ch,1093,1093,both,True,True
+1094,Nottwil,Q7131,Nottwil,de-ch,1094,1094,both,True,True
+1095,Oberkirch,Q7135,Oberkirch,de-ch,1095,1095,both,True,True
+1097,Rickenbach (LU),Q7144,Rickenbach (LU),de-ch,1097,1097,both,True,True
+1098,Ruswil,Q7124,Ruswil,de-ch,1098,1098,both,True,True
+1099,Schenkon,Q7143,Schenkon,de-ch,1099,1099,both,True,True
+1100,Schlierbach,Q7140,Schlierbach,de-ch,1100,1100,both,True,True
+1102,Sempach,Q7151,Sempach,de-ch,1102,1102,both,True,True
+1103,Sursee,Q7123,Sursee,de-ch,1103,1103,both,True,True
+1104,Triengen,Q7138,Triengen,de-ch,1104,1104,both,True,True
+1107,Wolhusen,Q7125,Wolhusen,de-ch,1107,1107,both,True,True
+1121,Alberswil,Q14584,Alberswil,de-ch,1121,1121,both,True,True
+1122,Altbüron,Q14585,Altbüron,de-ch,1122,1122,both,True,True
+1123,Altishofen,Q14586,,,1123,1123,both,False,True
+1125,Dagmersellen,Q14587,Dagmersellen,de-ch,1125,1125,both,True,True
+1127,Egolzwil,Q14589,Egolzwil,de-ch,1127,1127,both,True,True
+1128,Ettiswil,Q14592,Ettiswil,de-ch,1128,1128,both,True,True
+1129,Fischbach,Q14594,Fischbach,de-ch,1129,1129,both,True,True
+1131,Grossdietwil,Q14600,Grossdietwil,de-ch,1131,1131,both,True,True
+1132,Hergiswil bei Willisau,Q14603,Hergiswil bei Willisau,de-ch,1132,1132,both,True,True
+1135,Luthern,Q14605,Luthern,de-ch,1135,1135,both,True,True
+1136,Menznau,Q14607,Menznau,de-ch,1136,1136,both,True,True
+1137,Nebikon,Q14610,Nebikon,de-ch,1137,1137,both,True,True
+1139,Pfaffnau,Q14612,Pfaffnau,de-ch,1139,1139,both,True,True
+1140,Reiden,Q14614,Reiden,de-ch,1140,1140,both,True,True
+1142,Roggliswil,Q14616,Roggliswil,de-ch,1142,1142,both,True,True
+1143,Schötz,Q14618,Schötz,de-ch,1143,1143,both,True,True
+1145,Ufhusen,Q14621,Ufhusen,de-ch,1145,1145,both,True,True
+1146,Wauwil,Q14623,Wauwil,de-ch,1146,1146,both,True,True
+1147,Wikon,Q14625,Wikon,de-ch,1147,1147,both,True,True
+1150,Zell (LU),Q14628,Zell (LU),de-ch,1150,1150,both,True,True
+1151,Willisau,Q14627,Willisau,de-ch,1151,1151,both,True,True
+1201,Altdorf (UR),Q68150,Altdorf (UR),de-ch,1201,1201,both,True,True
+1202,Andermatt,Q64019,Andermatt,de-ch,1202,1202,both,True,True
+1203,Attinghausen,Q69279,Attinghausen,de-ch,1203,1203,both,True,True
+1205,Bürglen (UR),Q69321,Bürglen (UR),de-ch,1205,1205,both,True,True
+1206,Erstfeld,Q69642,Erstfeld,de-ch,1206,1206,both,True,True
+1207,Flüelen,Q69665,Flüelen,de-ch,1207,1207,both,True,True
+1208,Göschenen,Q69639,Göschenen,de-ch,1208,1208,both,True,True
+1209,Gurtnellen,Q65450,Gurtnellen,de-ch,1209,1209,both,True,True
+1210,Hospental,Q65681,Hospental,de-ch,1210,1210,both,True,True
+1211,Isenthal,Q65573,,,1211,1211,both,False,True
+1212,Realp,Q67161,Realp,de-ch,1212,1212,both,True,True
+1213,Schattdorf,Q66635,Schattdorf,de-ch,1213,1213,both,True,True
+1214,Seedorf (UR),Q69814,Seedorf (UR),de-ch,1214,1214,both,True,True
+1215,Seelisberg,Q65355,Seelisberg,de-ch,1215,1215,both,True,True
+1216,Silenen,Q69135,Silenen,de-ch,1216,1216,both,True,True
+1217,Sisikon,Q66862,Sisikon,de-ch,1217,1217,both,True,True
+1218,Spiringen,Q69663,Spiringen,de-ch,1218,1218,both,True,True
+1219,Unterschächen,Q65959,Unterschächen,de-ch,1219,1219,both,True,True
+1220,Wassen,Q69635,Wassen,de-ch,1220,1220,both,True,True
+1301,Einsiedeln,Q68950,Einsiedeln,de-ch,1301,1301,both,True,True
+1311,Gersau,Q64380,Gersau,de-ch,1311,1311,both,True,True
+1321,Feusisberg,Q69654,Feusisberg,de-ch,1321,1321,both,True,True
+1322,Freienbach,Q69780,Gemeinde Freienbach,de-ch,1322,1322,both,False,True
+1323,Wollerau,Q69647,Wollerau,de-ch,1323,1323,both,True,True
+1331,Küssnacht (SZ),Q64183,Küssnacht,de-ch,1331,1331,both,False,True
+1331,Küssnacht (SZ),Q64183,Küssnacht am Rigi,de,1331,1331,both,False,True
+1341,Altendorf,Q69625,Altendorf,de-ch,1341,1341,both,True,True
+1342,Galgenen,Q66580,Galgenen,de-ch,1342,1342,both,True,True
+1343,Innerthal,Q66234,Innerthal,de-ch,1343,1343,both,True,True
+1344,Lachen,Q67100,Lachen,de-ch,1344,1344,both,True,True
+1345,Reichenburg,Q65862,Reichenburg,de-ch,1345,1345,both,True,True
+1346,Schübelbach,Q65623,Schübelbach,de-ch,1346,1346,both,True,True
+1347,Tuggen,Q65620,Tuggen,de-ch,1347,1347,both,True,True
+1348,Vorderthal,Q66794,Vorderthal,de-ch,1348,1348,both,True,True
+1349,Wangen (SZ),Q66707,Wangen (SZ),de-ch,1349,1349,both,True,True
+1361,Alpthal,Q66231,Alpthal,de-ch,1361,1361,both,True,True
+1362,Arth,Q69742,Arth,de-ch,1362,1362,both,True,True
+1363,Illgau,Q65453,Illgau,de-ch,1363,1363,both,True,True
+1364,Ingenbohl,Q66330,Ingenbohl,de-ch,1364,1364,both,True,True
+1365,Lauerz,Q69627,Lauerz,de-ch,1365,1365,both,True,True
+1366,Morschach,Q67050,Morschach,de-ch,1366,1366,both,True,True
+1367,Muotathal,Q66069,Muotathal,de-ch,1367,1367,both,True,True
+1368,Oberiberg,Q66552,Oberiberg,de-ch,1368,1368,both,True,True
+1369,Riemenstalden,Q66249,Riemenstalden,de-ch,1369,1369,both,True,True
+1370,Rothenthurm,Q66962,Rothenthurm,de-ch,1370,1370,both,True,True
+1371,Sattel,Q65465,Sattel,de-ch,1371,1371,both,True,True
+1372,Schwyz,Q68155,Schwyz,de-ch,1372,1372,both,True,True
+1373,Steinen,Q67191,Steinen,de-ch,1373,1373,both,True,True
+1374,Steinerberg,Q66900,Steinerberg,de-ch,1374,1374,both,True,True
+1375,Unteriberg,Q64824,Unteriberg,de-ch,1375,1375,both,True,True
+1401,Alpnach,Q69296,Alpnach,de,1401,1401,both,True,True
+1402,Engelberg,Q64108,Engelberg,de-ch,1402,1402,both,True,True
+1403,Giswil,Q69248,Giswil,de-ch,1403,1403,both,True,True
+1404,Kerns,Q67159,Kerns,de-ch,1404,1404,both,True,True
+1405,Lungern,Q64292,Lungern,de-ch,1405,1405,both,True,True
+1406,Sachseln,Q64614,Sachseln,de-ch,1406,1406,both,True,True
+1407,Sarnen,Q63964,Sarnen,de-ch,1407,1407,both,True,True
+1501,Beckenried,Q69140,Beckenried,de-ch,1501,1501,both,True,True
+1502,Buochs,Q64567,Buochs,de-ch,1502,1502,both,True,True
+1503,Dallenwil,Q64575,Dallenwil,de-ch,1503,1503,both,True,True
+1504,Emmetten,Q69177,Emmetten,de-ch,1504,1504,both,True,True
+1505,Ennetbürgen,Q64310,Ennetbürgen,de-ch,1505,1505,both,True,True
+1506,Ennetmoos,Q64599,Ennetmoos,de-ch,1506,1506,both,True,True
+1507,Hergiswil (NW),Q570969,Hergiswil (NW),de-ch,1507,1507,both,True,True
+1508,Oberdorf (NW),Q67154,Oberdorf (NW),de-ch,1508,1508,both,True,True
+1509,Stans,Q63931,Stans,de-ch,1509,1509,both,True,True
+1510,Stansstad,Q64285,Stansstad,de-ch,1510,1510,both,True,True
+1511,Wolfenschiessen,Q64351,Wolfenschiessen,de-ch,1511,1511,both,True,True
+1630,Glarus Nord,Q70635,Glarus Nord,de-ch,1630,1630,both,True,True
+1631,Glarus Süd,Q70695,Glarus Süd,de-ch,1631,1631,both,True,True
+1632,Glarus,Q63912,Glarus,de-ch,1632,1632,both,True,True
+1701,Baar,Q64087,Baar,de-ch,1701,1701,both,True,True
+1702,Cham,Q69235,Cham,de-ch,1702,1702,both,True,True
+1703,Hünenberg,Q66256,Hünenberg,de-ch,1703,1703,both,True,True
+1704,Menzingen,Q66050,Menzingen,de-ch,1704,1704,both,True,True
+1705,Neuheim,Q65986,Neuheim,de-ch,1705,1705,both,True,True
+1706,Oberägeri,Q65017,Oberägeri,de-ch,1706,1706,both,True,True
+1707,Risch,Q66604,Risch,de-ch,1707,1707,both,True,True
+1708,Steinhausen,Q66697,Steinhausen,de-ch,1708,1708,both,True,True
+1709,Unterägeri,Q65658,Unterägeri,de-ch,1709,1709,both,True,True
+1710,Walchwil,Q66298,Walchwil,de-ch,1710,1710,both,True,True
+1711,Zug,Q68144,Zug,de-ch,1711,1711,both,True,True
+2008,Châtillon (FR),Q70297,Châtillon (FR),fr,2008,2008,both,True,True
+2011,Cugy (FR),Q70302,Cugy (FR),fr,2011,2011,both,True,True
+,,Q70311,,,2016,2016,wiki_only,False,True
+2022,Gletterens,Q68573,Gletterens,fr,2022,2022,both,True,True
+2025,Lully (FR),Q70493,Lully (FR),fr,2025,2025,both,True,True
+,,Q68709,Ménières,fr,2027,2027,wiki_only,False,True
+2029,Montagny (FR),Q67683,Montagny (FR),fr,2029,2029,both,True,True
+2035,Nuvilly,Q70323,Nuvilly,fr,2035,2035,both,True,True
+2038,Prévondavaux,Q68659,Prévondavaux,fr,2038,2038,both,True,True
+2041,Saint-Aubin (FR),Q70403,Saint-Aubin (FR),fr,2041,2041,both,True,True
+2043,Sévaz,Q68576,Sévaz,fr,2043,2043,both,True,True
+2044,Surpierre,Q68606,Surpierre,fr,2044,2044,both,True,True
+2045,Vallon,Q70343,Vallon,fr,2045,2045,both,True,True
+2050,Les Montets,Q67243,Les Montets,fr,2050,2050,both,True,True
+2051,Delley-Portalban,Q68552,Delley-Portalban,fr,2051,2051,both,True,True
+2053,Belmont-Broye,Q17310488,Belmont-Broye,fr,2053,2053,both,True,True
+2054,Estavayer,Q28035756,Estavayer,fr,2054,2054,both,True,True
+2055,Cheyres-Châbles,Q22490623,,,2055,2055,both,False,True
+2056,Fétigny-Ménières,,,,,,official_only,False,False
+,,Q70438,Auboranges,und,2061,2061,wiki_only,False,True
+2063,Billens-Hennens,Q70454,Billens-Hennens,und,2063,2063,both,True,True
+,,Q70175,Chapelle,fr,2066,2066,wiki_only,False,True
+2067,Le Châtelard,Q68480,Le Châtelard,und,2067,2067,both,True,True
+2068,Châtonnaye,Q70418,Châtonnaye,und,2068,2068,both,True,True
+,,Q70481,Ecublens (FR),fr,2072,2072,wiki_only,False,True
+2079,Grangettes,Q69928,Grangettes,und,2079,2079,both,True,True
+2086,Massonnens,Q70427,Massonnens,fr,2086,2086,both,True,True
+2087,Mézières (FR),Q70637,Mézières (FR),und,2087,2087,both,True,True
+,,Q70397,Montet (Glâne),und,2089,2089,wiki_only,False,True
+2096,Romont (FR),Q67103,Romont (FR),und,2096,2096,both,True,True
+2097,Rue,Q70188,Rue,und,2097,2097,both,True,True
+2099,Siviriez,Q68619,Siviriez,und,2099,2099,both,True,True
+2102,Ursy,Q70452,Ursy,und,2102,2102,both,True,True
+2113,Vuisternens-devant-Romont,Q68485,Vuisternens-devant-Romont,und,2113,2113,both,True,True
+2114,Villorsonnens,Q68055,Villorsonnens,und,2114,2114,both,True,True
+2115,Torny,Q68048,,,2115,2115,both,False,True
+2117,Villaz,Q59925980,,,2117,2117,both,False,True
+2121,Haut-Intyamon,Q66876,Haut-Intyamon,fr,2121,2121,both,True,True
+2122,Pont-en-Ogoz,Q66903,Pont-en-Ogoz,fr,2122,2122,both,True,True
+2123,Botterens,Q67143,Botterens,und,2123,2123,both,True,True
+2124,Broc,Q67519,Broc,fr,2124,2124,both,True,True
+2125,Bulle,Q68308,Bulle,fr,2125,2125,both,True,True
+2128,Châtel-sur-Montsalvens,Q67800,Châtel-sur-Montsalvens,fr-ch,2128,2128,both,True,True
+2129,Corbières,Q67708,Corbières,fr,2129,2129,both,True,True
+2130,Crésuz,Q67361,Crésuz,und,2130,2130,both,True,True
+2131,Echarlens,Q66873,Echarlens,und,2131,2131,both,True,True
+2134,Grandvillard,Q66887,Grandvillard,und,2134,2134,both,True,True
+2135,Gruyères,Q69600,Gruyères,fr,2135,2135,both,True,True
+2137,Hauteville,Q662294,Hauteville,und,2137,2137,both,True,True
+2138,Jaun,Q66911,Jaun,de,2138,2138,both,True,True
+2140,Marsens,Q67075,Marsens,fr,2140,2140,both,True,True
+2143,Morlon,Q67081,Morlon,und,2143,2143,both,True,True
+2145,Le Pâquier (FR),Q69918,,,2145,2145,both,False,True
+2147,Pont-la-Ville,Q67510,Pont-la-Ville,und,2147,2147,both,True,True
+2148,Riaz,Q67741,Riaz,und,2148,2148,both,True,True
+2149,La Roche,Q67686,La Roche,fr,2149,2149,both,True,True
+2152,Sâles,Q67736,Sâles,und,2152,2152,both,True,True
+2153,Sorens,Q66498,Sorens,und,2153,2153,both,True,True
+2155,Vaulruz,Q66444,Vaulruz,und,2155,2155,both,True,True
+2160,Vuadens,Q66520,Vuadens,und,2160,2160,both,True,True
+2162,Bas-Intyamon,Q66020,Bas-Intyamon,und,2162,2162,both,True,True
+2163,Val-de-Charmey,Q2507678,Val-de-Charmey,und,2163,2163,both,True,True
+2173,Autigny,Q70180,Autigny,und,2173,2173,both,True,True
+2174,Avry,Q67073,Avry,und,2174,2174,both,True,True
+2175,Belfaux,Q65880,Belfaux,und,2175,2175,both,True,True
+2177,Chénens,Q67079,Chénens,und,2177,2177,both,True,True
+2183,Corminboeuf,Q66487,Corminboeuf,fr,2183,2183,both,True,True
+2186,Cottens (FR),Q67714,Cottens (FR),und,2186,2186,both,True,True
+2194,Ferpicloz,Q66422,Ferpicloz,und,2194,2194,both,True,True
+2196,Fribourg,Q36378,Freiburg,de-ch,2196,2196,both,False,True
+2196,Fribourg,Q36378,Fribourg,fr,2196,2196,both,True,True
+2197,Givisiez,Q66461,Givisiez,und,2197,2197,both,True,True
+2198,Granges-Paccot,Q67060,Granges-Paccot,und,2198,2198,both,True,True
+2206,Marly,Q65891,Marly,und,2206,2206,both,True,True
+2208,Matran,Q66419,Matran,und,2208,2208,both,True,True
+2211,Neyruz (FR),Q66466,Neyruz (FR),und,2211,2211,both,True,True
+2216,Pierrafortscha,Q67321,Pierrafortscha,fr,2216,2216,both,True,True
+2220,Le Mouret,Q66480,Le Mouret,und,2220,2220,both,True,True
+2226,Treyvaux,Q67448,Treyvaux,und,2226,2226,both,True,True
+2228,Villars-sur-Glâne,Q69760,Villars-sur-Glâne,fr,2228,2228,both,True,True
+2230,Villarsel-sur-Marly,Q67356,Villarsel-sur-Marly,und,2230,2230,both,True,True
+2233,Hauterive (FR),Q67300,Hauterive (FR),und,2233,2233,both,True,True
+2234,La Brillaz,Q66935,La Brillaz,und,2234,2234,both,True,True
+2235,La Sonnaz,Q24771,La Sonnaz,und,2235,2235,both,True,True
+2236,Gibloux,Q19843360,Gibloux,und,2236,2236,both,True,True
+2237,Prez,Q65963837,,,2237,2237,both,False,True
+2238,Bois-d'Amont,Q88464491,,,2238,2238,both,False,True
+2239,Grolley-Ponthaux,Q20012496,,,2239,2239,both,False,True
+2250,Courgevaux,Q67456,Courgevaux,und,2250,2250,both,True,True
+2254,Courtepin,Q70042,Courtepin,und,2254,2254,both,True,True
+2257,Cressier (FR),Q68558,Cressier (FR),und,2257,2257,both,True,True
+2258,Fräschels,Q68562,Fräschels,und,2258,2258,both,True,True
+2261,Greng,Q69885,Greng,und,2261,2261,both,True,True
+2262,Gurmels,Q66941,Gurmels,und,2262,2262,both,True,True
+2265,Kerzers,Q69871,Kerzers,und,2265,2265,both,True,True
+2266,Kleinbösingen,Q69905,Kleinbösingen,und,2266,2266,both,True,True
+2271,Meyriez,Q68662,Meyriez,fr,2271,2271,both,True,True
+2272,Misery-Courtion,Q67326,Misery-Courtion,und,2272,2272,both,True,True
+2274,Muntelier,Q68665,Muntelier,und,2274,2274,both,True,True
+2275,Murten,Q68283,Morat,fr,2275,2275,both,False,True
+2275,Murten,Q68283,Murten,de-ch,2275,2275,both,True,True
+2276,Ried bei Kerzers,Q69938,,,2276,2276,both,False,True
+,,Q68380,,,2281,2281,wiki_only,False,True
+2284,Mont-Vully,Q19843359,Mont-Vully,fr,2284,2284,both,True,True
+2292,Brünisried,Q66952,Brünisried,und,2292,2292,both,True,True
+2293,Düdingen,Q70108,Düdingen,de,2293,2293,both,True,True
+2294,Giffers,Q66476,Giffers,und,2294,2294,both,True,True
+2295,Bösingen,Q67379,Bösingen,und,2295,2295,both,True,True
+2296,Heitenried,Q68031,Heitenried,de,2296,2296,both,True,True
+2299,Plaffeien,Q67798,Plaffeien,und,2299,2299,both,True,True
+2300,Plasselb,Q67374,Plasselb,und,2300,2300,both,True,True
+2301,Rechthalten,Q66763,Rechthalten,und,2301,2301,both,True,True
+2303,St. Silvester,Q68042,St. Silvester,und,2303,2303,both,True,True
+2304,St. Ursen,Q66453,St. Ursen,und,2304,2304,both,True,True
+2305,Schmitten (FR),Q67705,Schmitten (FR),de-ch,2305,2305,both,True,True
+2306,Tafers,Q66865,Tafers,de-ch,2306,2306,both,True,True
+2307,Tentlingen,Q67313,Tentlingen,und,2307,2307,both,True,True
+2308,Ueberstorf,Q67689,Ueberstorf,und,2308,2308,both,True,True
+2309,Wünnewil-Flamatt,Q67718,Wünnewil-Flamatt,de-ch,2309,2309,both,True,True
+2321,Attalens,Q38652,Attalens,fr,2321,2321,both,True,True
+2323,Bossonnens,Q68429,Bossonnens,fr,2323,2323,both,True,True
+2325,Châtel-Saint-Denis,Q69517,Châtel-Saint-Denis,fr,2325,2325,both,True,True
+2328,Granges (Veveyse),Q68420,Granges (Veveyse),fr,2328,2328,both,True,True
+2333,Remaufens,Q25843,Remaufens,fr,2333,2333,both,True,True
+2335,Saint-Martin (FR),Q70434,Saint-Martin (FR),fr,2335,2335,both,True,True
+2336,Semsales,Q67699,Semsales,fr,2336,2336,both,True,True
+2337,Le Flon,Q68538,Le Flon,fr,2337,2337,both,True,True
+2338,La Verrerie,Q67324,La Verrerie,fr,2338,2338,both,True,True
+2401,Egerkingen,Q64275,Egerkingen,de-ch,2401,2401,both,True,True
+2402,Härkingen,Q66399,Härkingen,de-ch,2402,2402,both,True,True
+2403,Kestenholz,Q66084,Kestenholz,de-ch,2403,2403,both,True,True
+2404,Neuendorf,Q66772,Neuendorf,de-ch,2404,2404,both,True,True
+2405,Niederbuchsiten,Q65609,Niederbuchsiten,de-ch,2405,2405,both,True,True
+2406,Oberbuchsiten,Q67008,Oberbuchsiten,de-ch,2406,2406,both,True,True
+2407,Oensingen,Q65846,Oensingen,de-ch,2407,2407,both,True,True
+2408,Wolfwil,Q66066,Wolfwil,de-ch,2408,2408,both,True,True
+2421,Aedermannsdorf,Q68384,Aedermannsdorf,de-ch,2421,2421,both,True,True
+2422,Balsthal,Q65455,Balsthal,de-ch,2422,2422,both,True,True
+2424,Herbetswil,Q66089,Herbetswil,de-ch,2424,2424,both,True,True
+2425,Holderbank (SO),Q65856,Holderbank (SO),de-ch,2425,2425,both,True,True
+2426,Laupersdorf,Q66407,Laupersdorf,de-ch,2426,2426,both,True,True
+2427,Matzendorf,Q66352,Matzendorf,de-ch,2427,2427,both,True,True
+2428,Mümliswil-Ramiswil,Q65071,,,2428,2428,both,False,True
+2430,Welschenrohr-Gänsbrunnen,Q99519698,,,2430,2430,both,False,True
+2445,Biezwil,Q67004,Biezwil,de-ch,2445,2445,both,True,True
+2455,Lüterkofen-Ichertswil,Q67931,Lüterkofen-Ichertswil,de-ch,2455,2455,both,True,True
+2457,Messen,Q67215,Messen,de-ch,2457,2457,both,True,True
+2461,Schnottwil,Q66680,Schnottwil,de-ch,2461,2461,both,True,True
+2463,Unterramsern,Q67889,Unterramsern,de-ch,2463,2463,both,True,True
+2464,Lüsslingen-Nennigkofen,Q1686296,Lüsslingen-Nennigkofen,de-ch,2464,2464,both,True,True
+2465,Buchegg,Q15108127,,,2465,2465,both,False,True
+2471,Bättwil,Q70027,Bättwil,de-ch,2471,2471,both,True,True
+2472,Büren (SO),Q70057,Büren (SO),de-ch,2472,2472,both,True,True
+2473,Dornach,Q64694,Dornach,de-ch,2473,2473,both,True,True
+2474,Gempen,Q66542,Gempen,de-ch,2474,2474,both,True,True
+2475,Hochwald,Q66575,Hochwald,de-ch,2475,2475,both,True,True
+2476,Hofstetten-Flüh,Q70010,Hofstetten-Flüh,de-ch,2476,2476,both,True,True
+2477,Metzerlen-Mariastein,Q70025,Metzerlen-Mariastein,de-ch,2477,2477,both,True,True
+2478,Nuglar-St. Pantaleon,Q70061,Nuglar-St. Pantaleon,de-ch,2478,2478,both,True,True
+2479,Rodersdorf,Q66559,Rodersdorf,de-ch,2479,2479,both,True,True
+2480,Seewen,Q66577,Seewen,de-ch,2480,2480,both,True,True
+2481,Witterswil,Q70059,Witterswil,de-ch,2481,2481,both,True,True
+2491,Hauenstein-Ifenthal,Q66060,Hauenstein-Ifenthal,de-ch,2491,2491,both,True,True
+2492,Kienberg,Q64533,Kienberg,de-ch,2492,2492,both,True,True
+2493,Lostorf,Q65421,Lostorf,de-ch,2493,2493,both,True,True
+2495,Niedergösgen,Q65009,Niedergösgen,de-ch,2495,2495,both,True,True
+2497,Obergösgen,Q65849,,,2497,2497,both,False,True
+2499,Stüsslingen,Q66281,Stüsslingen,de-ch,2499,2499,both,True,True
+2500,Trimbach,Q65037,Trimbach,de-ch,2500,2500,both,True,True
+2501,Winznau,Q65588,Winznau,de-ch,2501,2501,both,True,True
+2502,Wisen (SO),Q65134,Wisen (SO),de-ch,2502,2502,both,True,True
+2503,Erlinsbach (SO),Q66252,Erlinsbach (SO),de-ch,2503,2503,both,True,True
+2511,Aeschi (SO),Q68324,Aeschi (SO),de-ch,2511,2511,both,True,True
+2513,Biberist,Q66723,Biberist,de-ch,2513,2513,both,True,True
+2514,Bolken,Q66688,Bolken,de-ch,2514,2514,both,True,True
+2516,Deitingen,Q66142,,,2516,2516,both,False,True
+2517,Derendingen,Q69143,Derendingen,de-ch,2517,2517,both,True,True
+2518,Etziken,Q66682,Etziken,de-ch,2518,2518,both,True,True
+2519,Gerlafingen,Q65629,Gerlafingen,de-ch,2519,2519,both,True,True
+2523,Horriwil,Q67343,Horriwil,de-ch,2523,2523,both,True,True
+2524,Hüniken,Q67944,Hüniken,de-ch,2524,2524,both,True,True
+2525,Kriegstetten,Q65213,Kriegstetten,de-ch,2525,2525,both,True,True
+2526,Lohn-Ammannsegg,Q67006,Lohn-Ammannsegg,de-ch,2526,2526,both,True,True
+2527,Luterbach,Q66839,Luterbach,de-ch,2527,2527,both,True,True
+2528,Obergerlafingen,Q66136,Obergerlafingen,de-ch,2528,2528,both,True,True
+2530,Recherswil,Q66849,Recherswil,de-ch,2530,2530,both,True,True
+2532,Subingen,Q66959,Subingen,de-ch,2532,2532,both,True,True
+2534,Zuchwil,Q18473,Zuchwil,de-ch,2534,2534,both,True,True
+2535,Drei Höfe,Q240486,Drei Höfe,de-ch,2535,2535,both,True,True
+2541,Balm bei Günsberg,Q66966,Balm bei Günsberg,de-ch,2541,2541,both,True,True
+2542,Bellach,Q66403,Bellach,de-ch,2542,2542,both,True,True
+2543,Bettlach,Q66831,Bettlach,de-ch,2543,2543,both,True,True
+2544,Feldbrunnen-St. Niklaus,Q66969,Feldbrunnen-St. Niklaus,de-ch,2544,2544,both,True,True
+2545,Flumenthal,Q67334,,,2545,2545,both,False,True
+2546,Grenchen,Q68248,Grenchen,de-ch,2546,2546,both,True,True
+2547,Günsberg,Q66988,Günsberg,de-ch,2547,2547,both,True,True
+2548,Hubersdorf,Q66982,Hubersdorf,de-ch,2548,2548,both,True,True
+2549,Kammersrohr,Q67929,Kammersrohr,de-ch,2549,2549,both,True,True
+2550,Langendorf,Q66984,Langendorf,de-ch,2550,2550,both,True,True
+2551,Lommiswil,Q66971,Lommiswil,de-ch,2551,2551,both,True,True
+2553,Oberdorf (SO),Q70237,,,2553,2553,both,False,True
+2554,Riedholz,Q66973,Riedholz,de-ch,2554,2554,both,True,True
+2555,Rüttenen,Q66998,Rüttenen,de-ch,2555,2555,both,True,True
+2556,Selzach,Q67935,Selzach,de-ch,2556,2556,both,True,True
+2571,Boningen,Q65606,,,2571,2571,both,False,True
+2572,Däniken,Q65586,Däniken,de-ch,2572,2572,both,True,True
+2573,Dulliken,Q65978,Dulliken,de-ch,2573,2573,both,True,True
+2574,Eppenberg-Wöschnau,Q65597,Eppenberg-Wöschnau,de-ch,2574,2574,both,True,True
+2575,Fulenbach,Q65312,Fulenbach,de-ch,2575,2575,both,True,True
+2576,Gretzenbach,Q65965,Gretzenbach,de-ch,2576,2576,both,True,True
+2578,Gunzgen,Q65851,Gunzgen,de-ch,2578,2578,both,True,True
+2579,Hägendorf,Q67184,Hägendorf,de-ch,2579,2579,both,True,True
+2580,Kappel (SO),Q65575,Kappel (SO),de-ch,2580,2580,both,True,True
+2581,Olten,Q68129,Olten,de-ch,2581,2581,both,True,True
+2582,Rickenbach (SO),Q66833,Rickenbach (SO),de-ch,2582,2582,both,True,True
+2583,Schönenwerd,Q66884,Schönenwerd,de-ch,2583,2583,both,True,True
+2584,Starrkirch-Wil,Q66154,Starrkirch-Wil,de-ch,2584,2584,both,True,True
+2585,Walterswil (SO),Q66275,Walterswil (SO),de-ch,2585,2585,both,True,True
+2586,Wangen bei Olten,Q69967,Wangen bei Olten,de-ch,2586,2586,both,True,True
+2601,Solothurn,Q68965,Solothurn,de-ch,2601,2601,both,True,True
+2611,Bärschwil,Q66716,Bärschwil,de-ch,2611,2611,both,True,True
+2612,Beinwil (SO),Q65391,Beinwil (SO),de-ch,2612,2612,both,True,True
+2613,Breitenbach,Q66672,Breitenbach,de-ch,2613,2613,both,True,True
+2614,Büsserach,Q66770,Büsserach,de-ch,2614,2614,both,True,True
+2615,Erschwil,Q66775,Erschwil,de-ch,2615,2615,both,True,True
+2616,Fehren,Q66765,Fehren,de-ch,2616,2616,both,True,True
+2617,Grindel,Q66354,Grindel,de-ch,2617,2617,both,True,True
+2618,Himmelried,Q70044,Himmelried,de-ch,2618,2618,both,True,True
+2619,Kleinlützel,Q66173,Kleinlützel,de-ch,2619,2619,both,True,True
+2620,Meltingen,Q66357,Meltingen,de-ch,2620,2620,both,True,True
+2621,Nunningen,Q64697,Nunningen,de-ch,2621,2621,both,True,True
+2622,Zullwil,Q66345,Zullwil,de-ch,2622,2622,both,True,True
+2701,Basel,Q78,Basel,de-ch,2701,2701,both,True,True
+2702,Bettingen,Q67530,Bettingen,de-ch,2702,2702,both,True,True
+2703,Riehen,Q5262,Riehen,de-ch,2703,2703,both,True,True
+2761,Aesch (BL),Q68367,Aesch (BL),de-ch,2761,2761,both,True,True
+2762,Allschwil,Q64727,Allschwil,de-ch,2762,2762,both,True,True
+2763,Arlesheim,Q581647,Arlesheim,de-ch,2763,2763,both,True,True
+2764,Biel-Benken,Q70067,Biel-Benken,de-ch,2764,2764,both,True,True
+2765,Binningen,Q69621,Binningen,de-ch,2765,2765,both,True,True
+2766,Birsfelden,Q64665,Birsfelden,de-ch,2766,2766,both,True,True
+2767,Bottmingen,Q70036,Bottmingen,de-ch,2767,2767,both,True,True
+2768,Ettingen,Q70012,Ettingen,de-ch,2768,2768,both,True,True
+2769,Münchenstein,Q69030,Münchenstein,de-ch,2769,2769,both,True,True
+2770,Muttenz,Q66191,Muttenz,de-ch,2770,2770,both,True,True
+2771,Oberwil (BL),Q69724,Oberwil (BL),de-ch,2771,2771,both,True,True
+2772,Pfeffingen,Q66549,Pfeffingen,de-ch,2772,2772,both,True,True
+2773,Reinach (BL),Q69747,Reinach (BL),de-ch,2773,2773,both,True,True
+2774,Schönenbuch,Q66508,Schönenbuch,de-ch,2774,2774,both,True,True
+2775,Therwil,Q66595,Therwil,de-ch,2775,2775,both,True,True
+2781,Blauen,Q66371,Blauen,de-ch,2781,2781,both,True,True
+2782,Brislach,Q66725,Brislach,de-ch,2782,2782,both,True,True
+2783,Burg im Leimental,Q70008,Burg im Leimental,de-ch,2783,2783,both,True,True
+2784,Dittingen,Q66590,Dittingen,de-ch,2784,2784,both,True,True
+2785,Duggingen,Q66736,Duggingen,de-ch,2785,2785,both,True,True
+2786,Grellingen,Q66821,Grellingen,de-ch,2786,2786,both,True,True
+2787,Laufen,Q68363,Laufen,de-ch,2787,2787,both,True,True
+2788,Liesberg,Q67265,Liesberg,de-ch,2788,2788,both,True,True
+2789,Nenzlingen,Q66401,Nenzlingen,de-ch,2789,2789,both,True,True
+2790,Roggenburg,Q66806,Roggenburg,de-ch,2790,2790,both,True,True
+2791,Röschenz,Q66368,Röschenz,de-ch,2791,2791,both,True,True
+2792,Wahlen,Q67947,Wahlen,de-ch,2792,2792,both,True,True
+2793,Zwingen,Q66702,Zwingen,de-ch,2793,2793,both,True,True
+2821,Arisdorf,Q66564,Arisdorf,de-ch,2821,2821,both,True,True
+2822,Augst,Q66515,,,2822,2822,both,False,True
+2823,Bubendorf,Q66532,Bubendorf,de-ch,2823,2823,both,True,True
+2824,Frenkendorf,Q66593,Frenkendorf,de-ch,2824,2824,both,True,True
+2825,Füllinsdorf,Q66523,Füllinsdorf,de-ch,2825,2825,both,True,True
+2826,Giebenach,Q66741,Giebenach,de-ch,2826,2826,both,True,True
+2827,Hersberg,Q66572,Hersberg,de-ch,2827,2827,both,True,True
+2828,Lausen,Q66733,Lausen,de-ch,2828,2828,both,True,True
+2829,Liestal,Q68972,Liestal,de-ch,2829,2829,both,True,True
+2830,Lupsingen,Q66506,Lupsingen,de-ch,2830,2830,both,True,True
+2831,Pratteln,Q64679,Pratteln,de-ch,2831,2831,both,True,True
+2832,Ramlinsburg,Q66529,Ramlinsburg,de-ch,2832,2832,both,True,True
+2833,Seltisberg,Q66547,Seltisberg,de-ch,2833,2833,both,True,True
+2834,Ziefen,Q64705,Ziefen,de-ch,2834,2834,both,True,True
+2841,Anwil,Q66803,Anwil,de-ch,2841,2841,both,True,True
+2842,Böckten,Q66731,Böckten,de-ch,2842,2842,both,True,True
+2843,Buckten,Q66570,Buckten,de-ch,2843,2843,both,True,True
+2844,Buus,Q66325,Buus,de-ch,2844,2844,both,True,True
+2845,Diepflingen,Q67280,Diepflingen,de-ch,2845,2845,both,True,True
+2846,Gelterkinden,Q65936,Gelterkinden,de-ch,2846,2846,both,True,True
+2847,Häfelfingen,Q65120,Häfelfingen,de-ch,2847,2847,both,True,True
+2848,Hemmiken,Q66623,Hemmiken,de-ch,2848,2848,both,True,True
+2849,Itingen,Q66537,Itingen,de-ch,2849,2849,both,True,True
+2850,Känerkinden,Q65837,Känerkinden,de-ch,2850,2850,both,True,True
+2851,Kilchberg (BL),Q66811,Kilchberg (BL),de-ch,2851,2851,both,True,True
+2852,Läufelfingen,Q64719,Läufelfingen,de-ch,2852,2852,both,True,True
+2853,Maisprach,Q66323,Maisprach,de-ch,2853,2853,both,True,True
+2854,Nusshof,Q66545,Nusshof,de-ch,2854,2854,both,True,True
+2855,Oltingen,Q66095,Oltingen,de-ch,2855,2855,both,True,True
+2856,Ormalingen,Q67918,Ormalingen,de-ch,2856,2856,both,True,True
+2857,Rickenbach (BL),Q67942,Rickenbach (BL),de-ch,2857,2857,both,True,True
+2858,Rothenfluh,Q66801,Rothenfluh,de-ch,2858,2858,both,True,True
+2859,Rümlingen,Q67954,Rümlingen,de-ch,2859,2859,both,True,True
+2860,Rünenberg,Q67275,Rünenberg,de-ch,2860,2860,both,True,True
+2861,Sissach,Q66554,Sissach,de-ch,2861,2861,both,True,True
+2862,Tecknau,Q67262,Tecknau,de-ch,2862,2862,both,True,True
+2863,Tenniken,Q67351,Tenniken,de-ch,2863,2863,both,True,True
+2864,Thürnen,Q67926,Thürnen,de-ch,2864,2864,both,True,True
+2865,Wenslingen,Q67024,Wenslingen,de-ch,2865,2865,both,True,True
+2866,Wintersingen,Q66111,Wintersingen,de-ch,2866,2866,both,True,True
+2867,Wittinsburg,Q68013,Wittinsburg,de-ch,2867,2867,both,True,True
+2868,Zeglingen,Q65343,Zeglingen,de-ch,2868,2868,both,True,True
+2869,Zunzgen,Q66240,Zunzgen,de-ch,2869,2869,both,True,True
+2881,Arboldswil,Q64702,Arboldswil,de-ch,2881,2881,both,True,True
+2882,Bennwil,Q64735,Bennwil,de-ch,2882,2882,both,True,True
+2883,Bretzwil,Q64829,Bretzwil,de-ch,2883,2883,both,True,True
+2884,Diegten,Q65046,Diegten,de-ch,2884,2884,both,True,True
+2885,Eptingen,Q64715,Eptingen,de-ch,2885,2885,both,True,True
+2886,Hölstein,Q69020,Hölstein,de-ch,2886,2886,both,True,True
+2887,Lampenberg,Q64724,Lampenberg,de-ch,2887,2887,both,True,True
+2888,Langenbruck,Q64808,Langenbruck,de-ch,2888,2888,both,True,True
+2889,Lauwil,Q65117,Lauwil,de-ch,2889,2889,both,True,True
+2890,Liedertswil,Q65060,Liedertswil,de,2890,2890,both,True,True
+2891,Niederdorf,Q64710,Niederdorf,de-ch,2891,2891,both,True,True
+2892,Oberdorf (BL),Q64821,Oberdorf (BL),de-ch,2892,2892,both,True,True
+2893,Reigoldswil,Q64668,Reigoldswil,de-ch,2893,2893,both,True,True
+2894,Titterten,Q64687,Titterten,de-ch,2894,2894,both,True,True
+2895,Waldenburg,Q67092,Waldenburg,de-ch,2895,2895,both,True,True
+2901,Gächlingen,Q66500,Gächlingen,de-ch,2901,2901,both,True,True
+2903,Löhningen,Q66373,Löhningen,de-ch,2903,2903,both,True,True
+2904,Neunkirch,Q67114,Neunkirch,de-ch,2904,2904,both,True,True
+2914,Büttenhardt,Q69128,Büttenhardt,de-ch,2914,2914,both,True,True
+2915,Dörflingen,Q69107,Dörflingen,de-ch,2915,2915,both,True,True
+2917,Lohn (SH),Q69629,Lohn (SH),de-ch,2917,2917,both,True,True
+2919,Stetten (SH),Q69180,Stetten (SH),de-ch,2919,2919,both,True,True
+2920,Thayngen,Q69152,Thayngen,de-ch,2920,2920,both,True,True
+2931,Bargen (SH),Q69156,Bargen (SH),de-ch,2931,2931,both,True,True
+2932,Beringen,Q69186,Beringen,de-ch,2932,2932,both,True,True
+2933,Buchberg,Q65808,Buchberg,de-ch,2933,2933,both,True,True
+2936,Merishausen,Q69649,Merishausen,de-ch,2936,2936,both,True,True
+2937,Neuhausen am Rheinfall,Q69372,Neuhausen am Rheinfall,de-ch,2937,2937,both,True,True
+2938,Rüdlingen,Q66796,Rüdlingen,de-ch,2938,2938,both,True,True
+2939,Schaffhausen,Q9009,Schaffhausen,de-ch,2939,2939,both,True,True
+2951,Beggingen,Q69123,Beggingen,de-ch,2951,2951,both,True,True
+2952,Schleitheim,Q69111,Schleitheim,de-ch,2952,2952,both,True,True
+2953,Siblingen,Q69660,Siblingen,de-ch,2953,2953,both,True,True
+2961,Buch (SH),Q66305,,,2961,2961,both,False,True
+2962,Hemishofen,Q66363,Hemishofen,de-ch,2962,2962,both,True,True
+2963,Ramsen,Q69182,Ramsen,de-ch,2963,2963,both,True,True
+2964,Stein am Rhein,Q11939,Stein am Rhein,de-ch,2964,2964,both,True,True
+2971,Hallau,Q69172,Hallau,de-ch,2971,2971,both,True,True
+2972,Oberhallau,Q66648,Oberhallau,de-ch,2972,2972,both,True,True
+2973,Trasadingen,Q66977,Trasadingen,de-ch,2973,2973,both,True,True
+2974,Wilchingen,Q69164,Wilchingen,de-ch,2974,2974,both,True,True
+3001,Herisau,Q63970,Gemeinde Herisau,de-ch,3001,3001,both,False,True
+3002,Hundwil,Q69652,Hundwil,de-ch,3002,3002,both,True,True
+3003,Schönengrund,Q64296,Schönengrund,de-ch,3003,3003,both,True,True
+3004,Schwellbrunn,Q64622,,,3004,3004,both,False,True
+3005,Stein (AR),Q67193,Stein (AR),de-ch,3005,3005,both,True,True
+3006,Urnäsch,Q67168,Urnäsch,de-ch,3006,3006,both,True,True
+3007,Waldstatt,Q69658,Waldstatt,de-ch,3007,3007,both,True,True
+3021,Bühler,Q67197,Bühler,de-ch,3021,3021,both,True,True
+3022,Gais,Q67171,Gais,de-ch,3022,3022,both,True,True
+3023,Speicher,Q67148,Speicher,de-ch,3023,3023,both,True,True
+3024,Teufen (AR),Q67209,Teufen (AR),de-ch,3024,3024,both,True,True
+3025,Trogen,Q68189,Trogen,de-ch,3025,3025,both,True,True
+3031,Grub (AR),Q67200,Grub (AR),de-ch,3031,3031,both,True,True
+3032,Heiden,Q68315,Heiden,de-ch,3032,3032,both,True,True
+3033,Lutzenberg,Q67178,Lutzenberg,de-ch,3033,3033,both,True,True
+3034,Rehetobel,Q67182,Rehetobel,de-ch,3034,3034,both,True,True
+3035,Reute (AR),Q66204,Reute (AR),de-ch,3035,3035,both,True,True
+3036,Wald (AR),Q67175,Wald (AR),de-ch,3036,3036,both,True,True
+3037,Walzenhausen,Q64594,Walzenhausen,de-ch,3037,3037,both,True,True
+3038,Wolfhalden,Q661621,Wolfhalden,de-ch,3038,3038,both,True,True
+3101,Appenzell,Q67125,Appenzell,de-ch,3101,3101,both,True,True
+3102,Gonten,Q64604,Gonten,de-ch,3102,3102,both,True,True
+,,Q67188,Rüte,de-ch,3103,3103,wiki_only,False,True
+3104,Schlatt-Haslen,Q64301,Schlatt-Haslen,de-ch,3104,3104,both,True,True
+,,Q69378,Schwende,de-ch,3105,3105,wiki_only,False,True
+3111,Oberegg,Q69407,Oberegg,de-ch,3111,3111,both,True,True
+3112,Schwende-Rüte,Q107342348,,,3112,3112,both,False,True
+3201,Häggenschwil,Q66087,Häggenschwil,de-ch,3201,3201,both,True,True
+3202,Muolen,Q67044,Muolen,de-ch,3202,3202,both,True,True
+3203,St. Gallen,Q25607,St. Gallen,de,3203,3203,both,True,True
+3204,Wittenbach,Q66056,Wittenbach,de-ch,3204,3204,both,True,True
+3211,Berg (SG),Q67318,Berg (SG),de-ch,3211,3211,both,True,True
+3212,Eggersriet,Q66868,Eggersriet,de-ch,3212,3212,both,True,True
+3213,Goldach,Q66790,Goldach,de-ch,3213,3213,both,True,True
+3214,Mörschwil,Q66334,Mörschwil,de-ch,3214,3214,both,True,True
+3215,Rorschach,Q68250,Rorschach,de-ch,3215,3215,both,True,True
+3216,Rorschacherberg,Q66269,Rorschacherberg,de-ch,3216,3216,both,True,True
+3217,Steinach,Q66860,Steinach,de-ch,3217,3217,both,True,True
+3218,Tübach,Q66562,Tübach,de-ch,3218,3218,both,True,True
+3219,Untereggen,Q66416,Untereggen,de-ch,3219,3219,both,True,True
+3231,Au (SG),Q66254,Au (SG),de-ch,3231,3231,both,True,True
+3232,Balgach,Q65508,Balgach,de-ch,3232,3232,both,True,True
+3233,Berneck,Q67225,Berneck,de-ch,3233,3233,both,True,True
+3234,Diepoldsau,Q65615,Diepoldsau,de-ch,3234,3234,both,True,True
+3235,Rheineck,Q69595,Rheineck,de-ch,3235,3235,both,True,True
+3236,St. Margrethen,Q66243,St. Margrethen,de-ch,3236,3236,both,True,True
+3237,Thal,Q65543,Thal,de-ch,3237,3237,both,True,True
+3238,Widnau,Q65612,Widnau,de-ch,3238,3238,both,True,True
+3251,Altstätten,Q68281,Altstätten,de-ch,3251,3251,both,True,True
+3252,Eichberg,Q66271,Eichberg,de-ch,3252,3252,both,True,True
+3253,Marbach (SG),Q67900,Marbach (SG),de-ch,3253,3253,both,True,True
+3254,Oberriet (SG),Q65263,Oberriet (SG),de-ch,3254,3254,both,True,True
+3255,Rebstein,Q17834,Rebstein,de-ch,3255,3255,both,True,True
+3256,Rüthi (SG),Q66890,Rüthi (SG),de-ch,3256,3256,both,True,True
+3271,Buchs (SG),Q68277,Buchs (SG),de-ch,3271,3271,both,True,True
+3272,Gams,Q67315,Gams,de-ch,3272,3272,both,True,True
+3273,Grabs,Q67048,Grabs,de-ch,3273,3273,both,True,True
+3274,Sennwald,Q69393,Sennwald,de-ch,3274,3274,both,True,True
+3275,Sevelen,Q69612,Sevelen,de-ch,3275,3275,both,True,True
+3276,Wartau,Q66788,Wartau,de-ch,3276,3276,both,True,True
+3291,Bad Ragaz,Q95759,Bad Ragaz,de-ch,3291,3291,both,True,True
+3291,Bad Ragaz,Q95759,Bad Ragaz,de,3291,3291,both,True,True
+3292,Flums,Q69954,Flums,de-ch,3292,3292,both,True,True
+3293,Mels,Q67027,Mels,de-ch,3293,3293,both,True,True
+3294,Pfäfers,Q66052,Pfäfers,de-ch,3294,3294,both,True,True
+3295,Quarten,Q66228,Quarten,de-ch,3295,3295,both,True,True
+3296,Sargans,Q64571,Sargans,de-ch,3296,3296,both,True,True
+3297,Vilters-Wangs,Q66246,Vilters-Wangs,de-ch,3297,3297,both,True,True
+3298,Walenstadt,Q64191,Walenstadt,de-ch,3298,3298,both,True,True
+3311,Amden,Q65679,Amden,de-ch,3311,3311,both,True,True
+3312,Benken (SG),Q67227,Benken (SG),de-ch,3312,3312,both,True,True
+3313,Kaltbrunn,Q66786,Kaltbrunn,de-ch,3313,3313,both,True,True
+3315,Schänis,Q65446,Schänis,de-ch,3315,3315,both,True,True
+3316,Weesen,Q69644,Weesen,de-ch,3316,3316,both,True,True
+3338,Schmerikon,Q66684,Schmerikon,de-ch,3338,3338,both,True,True
+3339,Uznach,Q67106,Uznach,de-ch,3339,3339,both,True,True
+3340,Rapperswil-Jona,Q69729,Rapperswil-Jona,de-ch,3340,3340,both,True,True
+3341,Gommiswald,Q66744,Gommiswald,de-ch,3341,3341,both,True,True
+3342,Eschenbach (SG),Q66824,Gemeinde Eschenbach (SG),de-ch,3342,3342,both,False,True
+3352,Ebnat-Kappel,Q66237,Ebnat-Kappel,de-ch,3352,3352,both,True,True
+3359,Wildhaus-Alt St. Johann,Q70619,Wildhaus-Alt St. Johann,de-ch,3359,3359,both,True,True
+3360,Nesslau,Q70720,Nesslau,de-ch,3360,3360,both,True,True
+3374,Lichtensteig,Q69274,Lichtensteig,de-ch,3374,3374,both,True,True
+3379,Wattwil,Q66601,Wattwil,de-ch,3379,3379,both,True,True
+3392,Kirchberg (SG),Q64860,Kirchberg (SG),de-ch,3392,3392,both,True,True
+3393,Lütisburg,Q66857,Lütisburg,de-ch,3393,3393,both,True,True
+3394,Mosnang,Q65775,Mosnang,de-ch,3394,3394,both,True,True
+3395,Bütschwil-Ganterschwil,Q1021823,Bütschwil-Ganterschwil,de-ch,3395,3395,both,True,True
+3396,Neckertal,Q68864,Neckertal,de-ch,3396,3396,both,True,True
+3401,Degersheim,Q64974,Degersheim,de-ch,3401,3401,both,True,True
+3402,Flawil,Q65506,Flawil,de-ch,3402,3402,both,True,True
+3405,Jonschwil,Q65816,Jonschwil,de-ch,3405,3405,both,True,True
+3407,Oberuzwil,Q66557,Oberuzwil,de-ch,3407,3407,both,True,True
+3408,Uzwil,Q64171,Uzwil,de-ch,3408,3408,both,True,True
+3422,Niederbüren,Q66266,Niederbüren,de-ch,3422,3422,both,True,True
+3423,Niederhelfenschwil,Q66714,Niederhelfenschwil,de-ch,3423,3423,both,True,True
+3424,Oberbüren,Q66670,Oberbüren,de-ch,3424,3424,both,True,True
+3426,Zuzwil (SG),Q66279,Zuzwil (SG),de-ch,3426,3426,both,True,True
+3427,Wil (SG),Q64077,Wil (SG),de-ch,3427,3427,both,True,True
+3441,Andwil (SG),Q67726,Andwil (SG),de-ch,3441,3441,both,True,True
+3442,Gaiserwald,Q66781,Gaiserwald,de-ch,3442,3442,both,True,True
+3443,Gossau (SG),Q69777,Gossau (SG),de-ch,3443,3443,both,True,True
+3444,Waldkirch,Q64630,Waldkirch,de-ch,3444,3444,both,True,True
+3506,Vaz/Obervaz,Q64647,Vaz/Obervaz,de-ch,3506,3506,both,True,True
+3513,Lantsch/Lenz,Q65104,Lantsch/Lenz,mul,3513,3513,both,True,True
+3514,Schmitten (GR),Q65399,Schmitten (GR),de-ch,3514,3514,both,True,True
+3542,Albula/Alvra,Q15890943,Albula/Alvra,mul,3542,3542,both,True,True
+3543,Surses,Q19944645,Gemeinde Surses,de-ch,3543,3543,both,False,True
+3544,Bergün Filisur,Q22465879,,,3544,3544,both,False,True
+3551,Brusio,Q64580,Brusio,it,3551,3551,both,True,True
+3561,Poschiavo,Q69503,Poschiavo,it,3561,3561,both,True,True
+3572,Falera,Q65086,Falera,und,3572,3572,both,True,True
+3575,Laax,Q69606,Laax,und,3575,3575,both,True,True
+3581,Sagogn,Q65684,Sagogn,und,3581,3581,both,True,True
+3582,Schluein,Q65093,Schluein,und,3582,3582,both,True,True
+3603,Vals,Q64585,Vals,und,3603,3603,both,True,True
+3618,Lumnezia,Q1877273,Lumnezia,und,3618,3618,both,True,True
+3619,Ilanz/Glion,Q15056824,Ilanz/Glion,mul,3619,3619,both,True,True
+3633,Fürstenau,Q64805,Fürstenau,und,3633,3633,both,True,True
+3637,Rothenbrunnen,Q65366,Rothenbrunnen,und,3637,3637,both,True,True
+3638,Scharans,Q64342,Scharans,und,3638,3638,both,True,True
+3640,Sils im Domleschg,Q65069,Sils im Domleschg,und,3640,3640,both,True,True
+3661,Cazis,Q64443,Cazis,und,3661,3661,both,True,True
+3662,Flerden,Q64800,Flerden,und,3662,3662,both,True,True
+3663,Masein,Q64916,Masein,und,3663,3663,both,True,True
+3668,Thusis,Q66171,Thusis,und,3668,3668,both,True,True
+3669,Tschappina,Q65699,Tschappina,de-ch,3669,3669,both,True,True
+3670,Urmein,Q64816,Urmein,und,3670,3670,both,True,True
+3672,Safiental,Q2680071,,,3672,3672,both,False,True
+3673,Domleschg,Q18411365,Domleschg,und,3673,3673,both,True,True
+3681,Avers,Q69196,Avers,und,3681,3681,both,True,True
+3695,Sufers,Q66012,Sufers,de-ch,3695,3695,both,True,True
+3701,Andeer,Q64359,Andeer,und,3701,3701,both,True,True
+3711,Rongellen,Q65430,Rongellen,und,3711,3711,both,True,True
+3712,Zillis-Reischen,Q64890,Zillis-Reischen,und,3712,3712,both,True,True
+3713,Ferrera,Q70463,Ferrera,und,3713,3713,both,True,True
+3714,Rheinwald,Q55264136,,,3714,3714,both,False,True
+3715,Muntogna da Schons,Q99519699,,,3715,3715,both,False,True
+3721,Bonaduz,Q64473,Bonaduz,und,3721,3721,both,True,True
+3722,Domat/Ems,Q68266,Domat/Ems,und,3722,3722,both,True,True
+3723,Rhäzüns,Q66030,,,3723,3723,both,False,True
+3731,Felsberg,Q64961,Felsberg,und,3731,3731,both,True,True
+3732,Flims,Q65049,Flims,und,3732,3732,both,True,True
+3733,Tamins,Q64740,Tamins,und,3733,3733,both,True,True
+3734,Trin,Q65564,Trin,und,3734,3734,both,True,True
+3746,Zernez,Q64609,Zernez,und,3746,3746,both,True,True
+3752,Samnaun,Q69358,Samnaun,und,3752,3752,both,True,True
+3762,Scuol,Q69079,Scuol,rm,3762,3762,both,True,True
+3764,Valsot,Q7912633,Valsot,rm,3764,3764,both,True,True
+3781,Bever,Q69121,Bever,und,3781,3781,both,True,True
+3782,Celerina/Schlarigna,Q64964,Gemeinde Celerina/Schlarigna,und,3782,3782,both,False,True
+3783,Madulain,Q66638,Madulain,und,3783,3783,both,True,True
+3784,Pontresina,Q69259,Pontresina,und,3784,3784,both,True,True
+3785,La Punt Chamues-ch,Q65637,La Punt Chamues-ch,rm,3785,3785,both,True,True
+3786,Samedan,Q69085,Samedan,und,3786,3786,both,True,True
+3787,St. Moritz,Q68986,Gemeinde St. Moritz,de-ch,3787,3787,both,False,True
+3788,S-chanf,Q65552,S-chanf,rm,3788,3788,both,True,True
+3789,Sils im Engadin/Segl,Q64200,Gemeinde Sils im Engadin/Segl,mul,3789,3789,both,False,True
+3790,Silvaplana,Q65254,Gemeinde Silvaplana,de-ch,3790,3790,both,False,True
+3791,Zuoz,Q66184,Zuoz,rm-puter,3791,3791,both,True,True
+3792,Bregaglia,Q70677,Bregaglia,it,3792,3792,both,True,True
+3804,Buseno,Q65369,Buseno,it,3804,3804,both,True,True
+3805,Castaneda,Q659408,Castaneda,it,3805,3805,both,True,True
+3808,Rossa,Q66809,Rossa,it,3808,3808,both,True,True
+3810,Santa Maria in Calanca,Q65569,Santa Maria in Calanca,it,3810,3810,both,True,True
+3821,Lostallo,Q65115,Lostallo,it,3821,3821,both,True,True
+3822,Mesocco,Q64617,Mesocco,it,3822,3822,both,True,True
+3823,Soazza,Q65711,Soazza,it,3823,3823,both,True,True
+3831,Cama,Q66024,Cama,it,3831,3831,both,True,True
+3832,Grono,Q66181,Grono,it,3832,3832,both,True,True
+3834,Roveredo (GR),Q64912,Roveredo (GR),it,3834,3834,both,True,True
+3835,San Vittore,Q65687,San Vittore,it,3835,3835,both,True,True
+3837,Calanca,Q18229597,Calanca,it,3837,3837,both,True,True
+3847,Val Müstair,Q70513,Val Müstair,rm,3847,3847,both,True,True
+3851,Davos,Q68097,Davos,de-ch,3851,3851,both,True,True
+3861,Fideris,Q64643,Fideris,und,3861,3861,both,True,True
+3862,Furna,Q65044,Furna,und,3862,3862,both,True,True
+3863,Jenaz,Q64555,Jenaz,und,3863,3863,both,True,True
+3871,Klosters,Q68236,Klosters,de-ch,3871,3871,both,True,True
+3881,Conters im Prättigau,Q65100,Conters im Prättigau,de-ch,3881,3881,both,True,True
+3882,Küblis,Q64639,Küblis,und,3882,3882,both,True,True
+3891,Luzein,Q65296,Gemeinde Luzein,de-ch,3891,3891,both,False,True
+3901,Chur,Q69007,Chur,de,3901,3901,both,True,True
+3911,Churwalden,Q64363,Churwalden,und,3911,3911,both,True,True
+3921,Arosa,Q63954,Gemeinde Arosa,de-ch,3921,3921,both,False,True
+3945,Trimmis,Q69099,Trimmis,und,3945,3945,both,True,True
+3946,Untervaz,Q69095,Untervaz,de-ch,3946,3946,both,True,True
+3947,Zizers,Q69616,Zizers,de-ch,3947,3947,both,True,True
+3951,Fläsch,Q65386,Fläsch,de-ch,3951,3951,both,True,True
+3952,Jenins,Q65404,Jenins,und,3952,3952,both,True,True
+3953,Maienfeld,Q64178,Maienfeld,de-ch,3953,3953,both,True,True
+3954,Malans,Q69053,,,3954,3954,both,False,True
+3955,Landquart,Q70631,Landquart,de-ch,3955,3955,both,True,True
+3961,Grüsch,Q64635,Gemeinde Grüsch,de-ch,3961,3961,both,False,True
+3962,Schiers,Q65244,Schiers,de-ch,3962,3962,both,True,True
+3972,Seewis im Prättigau,Q64748,Seewis im Prättigau,de-ch,3972,3972,both,True,True
+3981,Breil/Brigels,Q64920,Breil/Brigels,mul,3981,3981,both,True,True
+3982,Disentis/Mustér,Q68347,Disentis/Mustér,mul,3982,3982,both,True,True
+3983,Medel (Lucmagn),Q64925,Medel/Lucmagn,rm,3983,3983,both,False,True
+3985,Sumvitg,Q64942,Sumvitg,rm,3985,3985,both,True,True
+3986,Tujetsch,Q64280,Tujetsch,und,3986,3986,both,True,True
+3987,Trun,Q64951,Trun,und,3987,3987,both,True,True
+3988,Obersaxen Mundaun,Q21051027,Obersaxen Mundaun,und,3988,3988,both,True,True
+4001,Aarau,Q14274,Aarau,de-ch,4001,4001,both,True,True
+4002,Biberstein,Q64491,Biberstein,de-ch,4002,4002,both,True,True
+4003,Buchs (AG),Q64512,Buchs (AG),de-ch,4003,4003,both,True,True
+4004,Densbüren,Q64537,Densbüren,de-ch,4004,4004,both,True,True
+4005,Erlinsbach (AG),Q65415,Erlinsbach (AG),de-ch,4005,4005,both,True,True
+4006,Gränichen,Q64267,Gränichen,de-ch,4006,4006,both,True,True
+4007,Hirschthal,Q64526,Hirschthal,de-ch,4007,4007,both,True,True
+4008,Küttigen,Q65007,Küttigen,de-ch,4008,4008,both,True,True
+4009,Muhen,Q64985,Muhen,de-ch,4009,4009,both,True,True
+4010,Oberentfelden,Q64990,Oberentfelden,de-ch,4010,4010,both,True,True
+4012,Suhr,Q65195,Suhr,de-ch,4012,4012,both,True,True
+4013,Unterentfelden,Q64253,Unterentfelden,de-ch,4013,4013,both,True,True
+4021,Baden,Q63939,Baden,de-ch,4021,4021,both,True,True
+4022,Bellikon,Q64521,Bellikon,de-ch,4022,4022,both,True,True
+4023,Bergdietikon,Q68302,Bergdietikon,de-ch,4023,4023,both,True,True
+4024,Birmenstorf (AG),Q64457,Birmenstorf (AG),de-ch,4024,4024,both,True,True
+4026,Ennetbaden,Q64424,Ennetbaden,de-ch,4026,4026,both,True,True
+4027,Fislisbach,Q64469,Fislisbach,de-ch,4027,4027,both,True,True
+4028,Freienwil,Q64402,Freienwil,de-ch,4028,4028,both,True,True
+4029,Gebenstorf,Q64486,Gebenstorf,de-ch,4029,4029,both,True,True
+4030,Killwangen,Q64547,Killwangen,de-ch,4030,4030,both,True,True
+4031,Künten,Q64247,Künten,de-ch,4031,4031,both,True,True
+4032,Mägenwil,Q64551,Mägenwil,de-ch,4032,4032,both,True,True
+4033,Mellingen,Q64216,Mellingen,de-ch,4033,4033,both,True,True
+4034,Neuenhof,Q64461,Neuenhof,de-ch,4034,4034,both,True,True
+4035,Niederrohrdorf,Q64465,Niederrohrdorf,de-ch,4035,4035,both,True,True
+4037,Oberrohrdorf,Q64496,Oberrohrdorf,de-ch,4037,4037,both,True,True
+4038,Obersiggenthal,Q64541,Obersiggenthal,de-ch,4038,4038,both,True,True
+4039,Remetschwil,Q64500,Remetschwil,de-ch,4039,4039,both,True,True
+4040,Spreitenbach,Q64210,Spreitenbach,de-ch,4040,4040,both,True,True
+4041,Stetten (AG),Q65158,Stetten (AG),de-ch,4041,4041,both,True,True
+4044,Untersiggenthal,Q64269,Untersiggenthal,de,4044,4044,both,True,True
+4045,Wettingen,Q27576,Wettingen,de-ch,4045,4045,both,True,True
+4046,Wohlenschwil,Q65161,Wohlenschwil,de-ch,4046,4046,both,True,True
+4047,Würenlingen,Q64219,Würenlingen,de-ch,4047,4047,both,True,True
+4048,Würenlos,Q64258,Würenlos,de-ch,4048,4048,both,True,True
+4049,Ehrendingen,Q65294,Ehrendingen,de-ch,4049,4049,both,True,True
+4061,Arni (AG),Q64324,Arni (AG),de-ch,4061,4061,both,True,True
+4062,Berikon,Q64334,Berikon,de-ch,4062,4062,both,True,True
+4063,Bremgarten (AG),Q64139,Bremgarten (AG),de-ch,4063,4063,both,True,True
+4064,Büttikon,Q64768,Büttikon,de-ch,4064,4064,both,True,True
+4065,Dottikon,Q64438,Dottikon,de-ch,4065,4065,both,True,True
+4066,Eggenwil,Q659067,Eggenwil,de-ch,4066,4066,both,True,True
+4067,Fischbach-Göslikon,Q64948,Fischbach-Göslikon,de-ch,4067,4067,both,True,True
+4068,Hägglingen,Q65286,Hägglingen,de-ch,4068,4068,both,True,True
+4071,Jonen,Q64957,Jonen,de-ch,4071,4071,both,True,True
+4072,Niederwil (AG),Q65660,Niederwil (AG),de-ch,4072,4072,both,True,True
+4073,Oberlunkhofen,Q64245,Oberlunkhofen,de-ch,4073,4073,both,True,True
+4074,Oberwil-Lieli,Q65646,Oberwil-Lieli,de-ch,4074,4074,both,True,True
+4075,Rudolfstetten-Friedlisberg,Q64306,Rudolfstetten-Friedlisberg,de-ch,4075,4075,both,True,True
+4076,Sarmenstorf,Q65217,Sarmenstorf,de-ch,4076,4076,both,True,True
+4077,Tägerig,Q65190,Tägerig,de-ch,4077,4077,both,True,True
+4078,Uezwil,Q65203,Uezwil,de-ch,4078,4078,both,True,True
+4079,Unterlunkhofen,Q65150,Unterlunkhofen,de-ch,4079,4079,both,True,True
+4080,Villmergen,Q64232,Villmergen,de-ch,4080,4080,both,True,True
+4081,Widen,Q64384,Widen,de-ch,4081,4081,both,True,True
+4082,Wohlen (AG),Q68244,Wohlen (AG),de-ch,4082,4082,both,True,True
+4083,Zufikon,Q64221,Zufikon,de-ch,4083,4083,both,True,True
+4084,Islisberg,Q64929,Islisberg,de-ch,4084,4084,both,True,True
+4091,Auenstein,Q64504,Auenstein,de-ch,4091,4091,both,True,True
+4092,Birr,Q64411,Birr,de-ch,4092,4092,both,True,True
+4093,Birrhard,Q64987,Birrhard,de-ch,4093,4093,both,True,True
+4095,Brugg,Q64099,Brugg,de-ch,4095,4095,both,True,True
+4099,Habsburg,Q64131,Habsburg,de-ch,4099,4099,both,True,True
+4100,Hausen (AG),Q65497,Hausen (AG),de-ch,4100,4100,both,True,True
+4104,Lupfig,Q65336,Lupfig,de-ch,4104,4104,both,True,True
+4105,Mandach,Q66074,Mandach,de-ch,4105,4105,both,True,True
+4106,Mönthal,Q66817,Mönthal,de-ch,4106,4106,both,True,True
+4107,Mülligen,Q65325,Mülligen,de-ch,4107,4107,both,True,True
+4110,Remigen,Q66738,Remigen,de-ch,4110,4110,both,True,True
+4111,Riniken,Q66675,Riniken,de-ch,4111,4111,both,True,True
+4112,Rüfenach,Q66728,Rüfenach,de-ch,4112,4112,both,True,True
+4117,Thalheim (AG),Q65907,Thalheim (AG),de-ch,4117,4117,both,True,True
+4120,Veltheim (AG),Q65142,Veltheim (AG),de-ch,4120,4120,both,True,True
+4121,Villigen,Q65193,Villigen,de-ch,4121,4121,both,True,True
+4123,Windisch,Q69208,,,4123,4123,both,False,True
+4124,Bözberg,Q1020189,Bözberg,de-ch,4124,4124,both,True,True
+4125,Schinznach,Q237120,Schinznach,de-ch,4125,4125,both,True,True
+4131,Beinwil am See,Q65000,Beinwil am See,de-ch,4131,4131,both,True,True
+4132,Birrwil,Q64673,Birrwil,de-ch,4132,4132,both,True,True
+4134,Dürrenäsch,Q64979,Dürrenäsch,de-ch,4134,4134,both,True,True
+4135,Gontenschwil,Q65333,Gontenschwil,de-ch,4135,4135,both,True,True
+4136,Holziken,Q65969,Holziken,de-ch,4136,4136,both,True,True
+4137,Leimbach (AG),Q65975,Leimbach (AG),de-ch,4137,4137,both,True,True
+4138,Leutwil,Q65595,Leutwil,de-ch,4138,4138,both,True,True
+4139,Menziken,Q65309,Menziken,de-ch,4139,4139,both,True,True
+4140,Oberkulm,Q65426,Oberkulm,de-ch,4140,4140,both,True,True
+4141,Reinach (AG),Q67507,Reinach (AG),de-ch,4141,4141,both,True,True
+4142,Schlossrued,Q65288,Schlossrued,de-ch,4142,4142,both,True,True
+4143,Schmiedrued,Q65583,Schmiedrued,de-ch,4143,4143,both,True,True
+4144,Schöftland,Q65411,Schöftland,de-ch,4144,4144,both,True,True
+4145,Teufenthal (AG),Q65182,Teufenthal (AG),de-ch,4145,4145,both,True,True
+4146,Unterkulm,Q65140,Unterkulm,de-ch,4146,4146,both,True,True
+4147,Zetzwil,Q65188,Zetzwil,de-ch,4147,4147,both,True,True
+4161,Eiken,Q66433,Eiken,de-ch,4161,4161,both,True,True
+4163,Frick,Q66617,Frick,de-ch,4163,4163,both,True,True
+4164,Gansingen,Q67348,Gansingen,de-ch,4164,4164,both,True,True
+4165,Gipf-Oberfrick,Q66986,Gipf-Oberfrick,de-ch,4165,4165,both,True,True
+4169,Kaisten,Q67904,Kaisten,de-ch,4169,4169,both,True,True
+4170,Laufenburg,Q69191,Laufenburg,de-ch,4170,4170,both,True,True
+4172,Münchwilen (AG),Q70379,Münchwilen (AG),de-ch,4172,4172,both,True,True
+4173,Oberhof,Q66996,Oberhof,de-ch,4173,4173,both,True,True
+4175,Oeschgen,Q70085,Oeschgen,de-ch,4175,4175,both,True,True
+4176,Schwaderloch,Q67340,Schwaderloch,de-ch,4176,4176,both,True,True
+4177,Sisseln,Q540871,Sisseln,de-ch,4177,4177,both,True,True
+4181,Wittnau,Q69058,Wittnau,de-ch,4181,4181,both,True,True
+4182,Wölflinswil,Q66442,,,4182,4182,both,False,True
+4183,Zeihen,Q66657,Zeihen,de-ch,4183,4183,both,True,True
+4184,Mettauertal,Q70606,Mettauertal,de-ch,4184,4184,both,True,True
+4185,Böztal,Q64520764,Böztal,de-ch,4185,4185,both,True,True
+4186,Herznach-Ueken,Q110713110,,,4186,4186,both,False,True
+4191,Ammerswil,Q65198,Ammerswil,de-ch,4191,4191,both,True,True
+4192,Boniswil,Q64529,Boniswil,de-ch,4192,4192,both,True,True
+4193,Brunegg,Q64656,Brunegg,de-ch,4193,4193,both,True,True
+4194,Dintikon,Q65132,,,4194,4194,both,False,True
+4195,Egliswil,Q65155,Egliswil,de-ch,4195,4195,both,True,True
+4196,Fahrwangen,Q64982,Fahrwangen,de-ch,4196,4196,both,True,True
+4197,Hallwil,Q65291,Hallwil,de-ch,4197,4197,both,True,True
+4198,Hendschiken,Q65319,,,4198,4198,both,False,True
+4199,Holderbank (AG),Q65627,Holderbank (AG),de-ch,4199,4199,both,True,True
+4200,Hunzenschwil,Q65696,Hunzenschwil,de-ch,4200,4200,both,True,True
+4201,Lenzburg,Q69433,Lenzburg,de-ch,4201,4201,both,True,True
+4202,Meisterschwanden,Q65316,Meisterschwanden,de-ch,4202,4202,both,True,True
+4203,Möriken-Wildegg,Q65227,Möriken-Wildegg,de-ch,4203,4203,both,True,True
+4204,Niederlenz,Q64732,Niederlenz,de-ch,4204,4204,both,True,True
+4205,Othmarsingen,Q65124,Othmarsingen,de-ch,4205,4205,both,True,True
+4206,Rupperswil,Q65306,Rupperswil,de-ch,4206,4206,both,True,True
+4207,Schafisheim,Q65993,Schafisheim,de-ch,4207,4207,both,True,True
+4208,Seengen,Q65004,Seengen,de-ch,4208,4208,both,True,True
+4209,Seon,Q64563,,,4209,4209,both,False,True
+4210,Staufen,Q65137,Staufen,de-ch,4210,4210,both,True,True
+4221,Abtwil,Q69219,Abtwil,de-ch,4221,4221,both,True,True
+4222,Aristau,Q64752,Aristau,de-ch,4222,4222,both,True,True
+4223,Auw,Q64420,Auw,de-ch,4223,4223,both,True,True
+4224,Beinwil (Freiamt),Q65024,Beinwil (Freiamt),de-ch,4224,4224,both,True,True
+4226,Besenbüren,Q659378,Besenbüren,de-ch,4226,4226,both,True,True
+4227,Bettwil,Q64415,Bettwil,de-ch,4227,4227,both,True,True
+4228,Boswil,Q65222,Boswil,de-ch,4228,4228,both,True,True
+4229,Bünzen,Q64784,Bünzen,de-ch,4229,4229,both,True,True
+4230,Buttwil,Q64792,Buttwil,de-ch,4230,4230,both,True,True
+4231,Dietwil,Q64763,Dietwil,de-ch,4231,4231,both,True,True
+4232,Geltwil,Q65033,Geltwil,de-ch,4232,4232,both,True,True
+4233,Kallern,Q65052,Kallern,de-ch,4233,4233,both,True,True
+4234,Merenschwand,Q64755,Merenschwand,de-ch,4234,4234,both,True,True
+4235,Mühlau,Q64516,Mühlau,de-ch,4235,4235,both,True,True
+4236,Muri (AG),Q69011,Muri (AG),de-ch,4236,4236,both,True,True
+4237,Oberrüti,Q64771,Oberrüti,de-ch,4237,4237,both,True,True
+4238,Rottenschwil,Q64433,Rottenschwil,de-ch,4238,4238,both,True,True
+4239,Sins,Q64372,D,de-ch,4239,4239,both,False,True
+4240,Waltenschwil,Q64242,Waltenschwil,de-ch,4240,4240,both,True,True
+4251,Hellikon,Q66686,Hellikon,de-ch,4251,4251,both,True,True
+4252,Kaiseraugst,Q69048,Kaiseraugst,de-ch,4252,4252,both,True,True
+4253,Magden,Q66567,Magden,de-ch,4253,4253,both,True,True
+4254,Möhlin,Q69126,Möhlin,de-ch,4254,4254,both,True,True
+4255,Mumpf,Q66293,Mumpf,de-ch,4255,4255,both,True,True
+4256,Obermumpf,Q66287,Obermumpf,de-ch,4256,4256,both,True,True
+4257,Olsberg,Q66511,Olsberg,de-ch,4257,4257,both,True,True
+4258,Rheinfelden,Q269667,Rheinfelden,de,4258,4258,both,True,True
+4259,Schupfart,Q66314,Schupfart,de-ch,4259,4259,both,True,True
+4260,Stein (AG),Q65914,Stein (AG),de-ch,4260,4260,both,True,True
+4261,Wallbach,Q65909,Wallbach,de-ch,4261,4261,both,True,True
+4262,Wegenstetten,Q65889,Wegenstetten,de-ch,4262,4262,both,True,True
+4263,Zeiningen,Q65147,Zeiningen,de-ch,4263,4263,both,True,True
+4264,Zuzgen,Q65918,Zuzgen,de-ch,4264,4264,both,True,True
+4271,Aarburg,Q64165,Aarburg,de-ch,4271,4271,both,True,True
+4273,Bottenwil,Q64261,Bottenwil,de-ch,4273,4273,both,True,True
+4274,Brittnau,Q64273,Brittnau,de-ch,4274,4274,both,True,True
+4275,Kirchleerau,Q64453,Kirchleerau,de-ch,4275,4275,both,True,True
+4276,Kölliken,Q68106,Kölliken,de-ch,4276,4276,both,True,True
+4277,Moosleerau,Q64398,Moosleerau,de-ch,4277,4277,both,True,True
+4279,Murgenthal,Q64478,Murgenthal,de-ch,4279,4279,both,True,True
+4280,Oftringen,Q68220,Oftringen,de-ch,4280,4280,both,True,True
+4281,Reitnau,Q64393,Reitnau,de-ch,4281,4281,both,True,True
+4282,Rothrist,Q64482,Rothrist,de-ch,4282,4282,both,True,True
+4283,Safenwil,Q64448,Safenwil,de-ch,4283,4283,both,True,True
+4284,Staffelbach,Q64239,Staffelbach,de-ch,4284,4284,both,True,True
+4285,Strengelbach,Q64237,Strengelbach,de-ch,4285,4285,both,True,True
+4286,Uerkheim,Q64376,Uerkheim,de-ch,4286,4286,both,True,True
+4287,Vordemwald,Q64234,Vordemwald,de-ch,4287,4287,both,True,True
+4288,Wiliberg,Q64250,Wiliberg,de-ch,4288,4288,both,True,True
+4289,Zofingen,Q63986,Zofingen,de-ch,4289,4289,both,True,True
+,,Q65381,Baldingen,de-ch,4301,4301,wiki_only,False,True
+,,Q65225,Böbikon,de-ch,4302,4302,wiki_only,False,True
+4303,Böttstein,Q65002,Böttstein,de-ch,4303,4303,both,True,True
+4304,Döttingen,Q64787,Döttingen,de-ch,4304,4304,both,True,True
+4305,Endingen,Q69438,Endingen,de-ch,4305,4305,both,True,True
+4306,Fisibach,Q66109,Fisibach,de-ch,4306,4306,both,True,True
+4307,Full-Reuenthal,Q66101,,,4307,4307,both,False,True
+,,Q67094,Kaiserstuhl,de-ch,4308,4308,wiki_only,False,True
+4309,Klingnau,Q67135,,,4309,4309,both,False,True
+4310,Koblenz,Q69441,Koblenz AG,de,4310,4310,both,False,True
+4311,Leibstadt,Q66347,Leibstadt,de-ch,4311,4311,both,True,True
+4312,Lengnau (AG),Q69429,Lengnau (AG),de-ch,4312,4312,both,True,True
+4313,Leuggern,Q66718,Leuggern,de-ch,4313,4313,both,True,True
+4314,Mellikon,Q66047,Mellikon,de-ch,4314,4314,both,True,True
+,,Q65580,Rekingen (AG),de-ch,4315,4315,wiki_only,False,True
+,,Q66854,Rietheim,de-ch,4316,4316,wiki_only,False,True
+,,Q65750,Rümikon,de-ch,4317,4317,wiki_only,False,True
+4318,Schneisingen,Q64407,Schneisingen,de-ch,4318,4318,both,True,True
+4319,Siglistorf,Q65729,Siglistorf,de-ch,4319,4319,both,True,True
+4320,Tegerfelden,Q64255,Tegerfelden,de-ch,4320,4320,both,True,True
+,,Q65174,Wislikofen,de-ch,4322,4322,wiki_only,False,True
+,,Q64186,Bad Zurzach,de-ch,4323,4323,wiki_only,False,True
+4324,Zurzach,Q65246908,,,4324,4324,both,False,True
+4401,Arbon,Q64156,Arbon,de-ch,4401,4401,both,True,True
+4406,Dozwil,Q65407,Dozwil,de-ch,4406,4406,both,True,True
+4411,Egnach,Q65029,Egnach,de-ch,4411,4411,both,True,True
+4416,Hefenhofen,Q66405,Hefenhofen,de-ch,4416,4416,both,True,True
+4421,Horn,Q66195,Horn,de-ch,4421,4421,both,True,True
+4426,Kesswil,Q69413,Kesswil,de-ch,4426,4426,both,True,True
+4431,Roggwil (TG),Q65577,Roggwil (TG),de-ch,4431,4431,both,True,True
+4436,Romanshorn,Q65125,Romanshorn,de-ch,4436,4436,both,True,True
+4441,Salmsach,Q66652,Salmsach,de-ch,4441,4441,both,True,True
+4446,Sommeri,Q66641,Sommeri,de-ch,4446,4446,both,True,True
+4451,Uttwil,Q65634,Uttwil,de-ch,4451,4451,both,True,True
+4461,Amriswil,Q69768,Amriswil,de-ch,4461,4461,both,True,True
+4471,Bischofszell,Q64865,,,4471,4471,both,False,True
+4476,Erlen,Q65439,Erlen,de-ch,4476,4476,both,True,True
+4486,Hauptwil-Gottshaus,Q66307,Hauptwil-Gottshaus,de-ch,4486,4486,both,True,True
+4495,Hohentannen,Q66309,Hohentannen,de-ch,4495,4495,both,True,True
+4501,Kradolf-Schönenberg,Q65830,Kradolf-Schönenberg,de-ch,4501,4501,both,True,True
+4506,Sulgen,Q65971,Sulgen,de-ch,4506,4506,both,True,True
+4511,Zihlschlacht-Sitterdorf,Q65443,Zihlschlacht-Sitterdorf,de-ch,4511,4511,both,True,True
+4536,Basadingen-Schlattingen,Q66711,Basadingen-Schlattingen,de-ch,4536,4536,both,True,True
+4545,Diessenhofen,Q67128,Diessenhofen,de-ch,4545,4545,both,True,True
+4546,Schlatt (TG),Q67358,Schlatt (TG),de-ch,4546,4546,both,True,True
+4551,Aadorf,Q69131,Aadorf,de-ch,4551,4551,both,True,True
+4561,Felben-Wellhausen,Q64837,Felben-Wellhausen,de-ch,4561,4561,both,True,True
+4566,Frauenfeld,Q68120,Frauenfeld,de-ch,4566,4566,both,True,True
+4571,Gachnang,Q64840,Gachnang,de-ch,4571,4571,both,True,True
+4590,Hüttlingen,Q65802,Hüttlingen,de-ch,4590,4590,both,True,True
+4591,Matzingen,Q64994,Matzingen,de-ch,4591,4591,both,True,True
+4601,Neunforn,Q65020,Neunforn,de-ch,4601,4601,both,True,True
+4606,Stettfurt,Q65828,Stettfurt,de-ch,4606,4606,both,True,True
+4611,Thundorf,Q64847,Thundorf,de-ch,4611,4611,both,True,True
+4616,Uesslingen-Buch,Q65810,Uesslingen-Buch,de-ch,4616,4616,both,True,True
+4621,Warth-Weiningen,Q68405,Warth-Weiningen,de-ch,4621,4621,both,True,True
+4641,Altnau,Q69237,Altnau,de-ch,4641,4641,both,True,True
+4643,Bottighofen,Q65962,,,4643,4643,both,False,True
+4646,Ermatingen,Q65127,Ermatingen,de-ch,4646,4646,both,True,True
+4651,Gottlieben,Q66302,Gottlieben,de-ch,4651,4651,both,True,True
+4656,Güttingen,Q66317,Güttingen,de-ch,4656,4656,both,True,True
+4666,Kemmental,Q65777,Kemmental,de-ch,4666,4666,both,True,True
+4671,Kreuzlingen,Q63905,Kreuzlingen,de-ch,4671,4671,both,True,True
+4681,Langrickenbach,Q66312,Langrickenbach,de-ch,4681,4681,both,True,True
+4683,Lengwil,Q66289,Lengwil,de-ch,4683,4683,both,True,True
+4691,Münsterlingen,Q69233,Münsterlingen,de-ch,4691,4691,both,True,True
+4696,Tägerwilen,Q66188,Tägerwilen,de-ch,4696,4696,both,True,True
+4701,Wäldi,Q65991,Wäldi,de-ch,4701,4701,both,True,True
+4711,Affeltrangen,Q65800,Affeltrangen,de-ch,4711,4711,both,True,True
+4716,Bettwiesen,Q65823,Bettwiesen,de-ch,4716,4716,both,True,True
+4721,Bichelsee-Balterswil,Q65820,Bichelsee-Balterswil,de-ch,4721,4721,both,True,True
+4723,Braunau,Q69702,Braunau,de-ch,4723,4723,both,True,True
+4724,Eschlikon,Q65026,Eschlikon,de-ch,4724,4724,both,True,True
+4726,Fischingen,Q65525,Fischingen,de-ch,4726,4726,both,True,True
+4741,Lommis,Q65014,Lommis,de-ch,4741,4741,both,True,True
+4746,Münchwilen (TG),Q69704,Münchwilen (TG),de-ch,4746,4746,both,True,True
+4751,Rickenbach (TG),Q68440,Rickenbach (TG),de-ch,4751,4751,both,True,True
+,,Q65765,,,4752,4752,wiki_only,False,True
+4756,Schönholzerswilen,Q68442,Schönholzerswilen,de-ch,4756,4756,both,True,True
+4761,Sirnach,Q65797,Sirnach,de-ch,4761,4761,both,True,True
+4776,Tobel-Tägerschen,Q65818,Tobel-Tägerschen,de-ch,4776,4776,both,True,True
+4781,Wängi,Q68177,Wängi,de-ch,4781,4781,both,True,True
+4786,Wilen (TG),Q65765,,,4786,4786,both,False,True
+4791,Wuppenau,Q65771,Wuppenau,de-ch,4791,4791,both,True,True
+4801,Berlingen,Q65463,Berlingen,de-ch,4801,4801,both,True,True
+4806,Eschenz,Q65080,Eschenz,de-ch,4806,4806,both,True,True
+4811,Herdern,Q65761,Herdern,de-ch,4811,4811,both,True,True
+4816,Homburg,Q67205,Homburg,de-ch,4816,4816,both,True,True
+4821,Hüttwilen,Q65826,Hüttwilen,de-ch,4821,4821,both,True,True
+4826,Mammern,Q69956,Mammern,de-ch,4826,4826,both,True,True
+4831,Müllheim,Q65471,Müllheim,de-ch,4831,4831,both,True,True
+4841,Pfyn,Q64843,Pfyn,de-ch,4841,4841,both,True,True
+4846,Raperswilen,Q65602,Raperswilen,de-ch,4846,4846,both,True,True
+4851,Salenstein,Q66644,Salenstein,de-ch,4851,4851,both,True,True
+4864,Steckborn,Q67123,Steckborn,de-ch,4864,4864,both,True,True
+4871,Wagenhausen,Q65519,Wagenhausen,de-ch,4871,4871,both,True,True
+4881,Amlikon-Bissegg,Q65787,Amlikon-Bissegg,de-ch,4881,4881,both,True,True
+4891,Berg (TG),Q67165,Berg (TG),de-ch,4891,4891,both,True,True
+4901,Birwinken,Q65767,Birwinken,de-ch,4901,4901,both,True,True
+4911,Bürglen (TG),Q65599,Bürglen (TG),de-ch,4911,4911,both,True,True
+4921,Bussnang,Q65983,Bussnang,de-ch,4921,4921,both,True,True
+4941,Märstetten,Q64992,Märstetten,de-ch,4941,4941,both,True,True
+4946,Weinfelden,Q68258,Weinfelden,de-ch,4946,4946,both,True,True
+4951,Wigoltingen,Q65834,Wigoltingen,de-ch,4951,4951,both,True,True
+5001,Arbedo-Castione,Q69788,Arbedo-Castione,it,5001,5001,both,True,True
+5002,Bellinzona,Q64044,Bellinzona,it,5002,5002,both,True,True
+5003,Cadenazzo,Q69790,Cadenazzo,it,5003,5003,both,True,True
+5009,Isone,Q69804,Isone,it,5009,5009,both,True,True
+5010,Lumino,Q67670,Lumino,it,5010,5010,both,True,True
+5017,Sant'Antonino,Q67673,Sant'Antonino,it,5017,5017,both,True,True
+5048,Acquarossa,Q68358,Comune di Acquarossa,it,5048,5048,both,False,True
+5049,Blenio,Q68789,Blenio,it,5049,5049,both,True,True
+5050,Serravalle,Q70728,Serravalle,it,5050,5050,both,True,True
+5061,Airolo,Q69265,Airolo,it,5061,5061,both,True,True
+5063,Bedretto,Q67035,Bedretto,it,5063,5063,both,True,True
+5071,Dalpe,Q67756,Dalpe,it,5071,5071,both,True,True
+5072,Faido,Q69673,Faido,it,5072,5072,both,True,True
+5073,Giornico,Q67763,Giornico,it,5073,5073,both,True,True
+5076,Personico,Q68810,Personico,it,5076,5076,both,True,True
+5077,Pollegio,Q67750,Pollegio,it,5077,5077,both,True,True
+5079,Quinto,Q67501,Quinto,it,5079,5079,both,True,True
+5091,Ascona,Q63992,Ascona,it,5091,5091,both,True,True
+5096,Brione sopra Minusio,Q68794,Brione sopra Minusio,it,5096,5096,both,True,True
+5097,Brissago,Q69706,Brissago,it,5097,5097,both,True,True
+5108,Gordola,Q69671,Gordola,it,5108,5108,both,True,True
+5112,Lavertezzo,Q69684,Lavertezzo,it,5112,5112,both,True,True
+5113,Locarno,Q11935,Locarno,it,5113,5113,both,True,True
+5115,Losone,Q67116,Losone,it,5115,5115,both,True,True
+5117,Mergoscia,Q68772,Mergoscia,it,5117,5117,both,True,True
+5118,Minusio,Q69065,Minusio,it,5118,5118,both,True,True
+5120,Muralto,Q69961,Muralto,it,5120,5120,both,True,True
+5121,Orselina,Q68813,Orselina,it,5121,5121,both,True,True
+5125,Ronco sopra Ascona,Q68336,Ronco sopra Ascona,it,5125,5125,both,True,True
+5131,Tenero-Contra,Q67745,Tenero-Contra,it,5131,5131,both,True,True
+5136,Onsernone,Q67664,Onsernone,it,5136,5136,both,True,True
+5138,Cugnasco-Gerra,Q68843,Cugnasco-Gerra,it,5138,5138,both,True,True
+5141,Agno,Q67109,Agno,it,5141,5141,both,True,True
+5143,Aranno,Q68792,Aranno,it,5143,5143,both,True,True
+5144,Arogno,Q68449,Arogno,it,5144,5144,both,True,True
+5148,Bedano,Q68799,Bedano,it,5148,5148,both,True,True
+5151,Bioggio,Q68425,Bioggio,it,5151,5151,both,True,True
+5154,Bissone,Q69269,Bissone,it,5154,5154,both,True,True
+5160,Brusino Arsizio,Q70120,Brusino Arsizio,it,5160,5160,both,True,True
+5161,Cademario,Q68806,Cademario,it,5161,5161,both,True,True
+5162,Cadempino,Q67975,Cadempino,it,5162,5162,both,True,True
+5167,Canobbio,Q68434,Canobbio,it,5167,5167,both,True,True
+5171,Caslano,Q67270,Caslano,it,5171,5171,both,True,True
+5176,Comano,Q70133,Comano,it,5176,5176,both,True,True
+5180,Cureglia,Q70148,Cureglia,it,5180,5180,both,True,True
+5186,Grancia,Q67969,Grancia,it,5186,5186,both,True,True
+5187,Gravesano,Q69385,Gravesano,it,5187,5187,both,True,True
+5189,Lamone,Q70030,Lamone,it,5189,5189,both,True,True
+5192,Lugano,Q7024,Lugano,it,5192,5192,both,True,True
+5193,Magliaso,Q70159,Magliaso,it,5193,5193,both,True,True
+5194,Manno,Q67876,Manno,it,5194,5194,both,True,True
+5196,Massagno,Q67055,Massagno,it,5196,5196,both,True,True
+5198,Melide,Q69981,Melide,it,5198,5198,both,True,True
+5199,Mezzovico-Vira,Q70124,Mezzovico-Vira,it,5199,5199,both,True,True
+5203,Morcote,Q68224,Morcote,it,5203,5203,both,True,True
+5205,Muzzano,Q68796,,,5205,5205,both,False,True
+5206,Neggio,Q70038,Neggio,it,5206,5206,both,True,True
+5208,Origlio,Q70334,Origlio,it,5208,5208,both,True,True
+5210,Paradiso,Q68205,Paradiso,it,5210,5210,both,True,True
+5212,Ponte Capriasca,Q67733,Ponte Capriasca,it,5212,5212,both,True,True
+5214,Porza,Q68808,Porza,it,5214,5214,both,True,True
+5216,Pura,Q68195,Pura,it,5216,5216,both,True,True
+5221,Savosa,Q67668,Savosa,it,5221,5221,both,True,True
+5225,Sorengo,Q69995,Sorengo,it,5225,5225,both,True,True
+5226,Capriasca,Q69043,Capriasca,it,5226,5226,both,True,True
+5227,Torricella-Taverne,Q68001,Torricella-Taverne,it,5227,5227,both,True,True
+5230,Vernate,Q68825,Vernate,it,5230,5230,both,True,True
+5231,Vezia,Q70126,,,5231,5231,both,False,True
+5233,Vico Morcote,Q70118,Vico Morcote,it,5233,5233,both,True,True
+5236,Collina d'Oro,Q69062,Collina d’Oro,it,5236,5236,both,False,True
+5237,Alto Malcantone,Q67010,Alto Malcantone,it,5237,5237,both,True,True
+5238,Monteceneri,Q70633,Monteceneri,it,5238,5238,both,True,True
+5239,Tresa,Q104776479,,,5239,5239,both,False,True
+5240,Val Mara,Q109211862,,,5240,5240,both,False,True
+5242,Balerna,Q70141,Balerna,it,5242,5242,both,True,True
+5249,Castel San Pietro,Q67872,Castel San Pietro,it,5249,5249,both,True,True
+5250,Chiasso,Q68111,Chiasso,it,5250,5250,both,True,True
+5251,Coldrerio,Q67738,Coldrerio,it,5251,5251,both,True,True
+5254,Mendrisio,Q69041,Mendrisio,it,5254,5254,both,True,True
+5257,Morbio Inferiore,Q70143,Morbio Inferiore,it,5257,5257,both,True,True
+5260,Novazzano,Q67743,Novazzano,it,5260,5260,both,True,True
+5263,Riva San Vitale,Q67130,Riva San Vitale,it,5263,5263,both,True,True
+5266,Stabio,Q67760,Stabio,it,5266,5266,both,True,True
+5268,Vacallo,Q67470,Vacallo,it,5268,5268,both,True,True
+5269,Breggia,Q70629,,,5269,5269,both,False,True
+5281,Biasca,Q67523,Biasca,it,5281,5281,both,True,True
+5287,Riviera,Q28000807,,,5287,5287,both,False,True
+5304,Bosco/Gurin,Q70328,Bosco/Gurin,it,5304,5304,both,True,True
+5307,Campo (Vallemaggia),Q67864,Campo (Vallemaggia),it,5307,5307,both,True,True
+5309,Cerentino,Q67965,Cerentino,it,5309,5309,both,True,True
+5310,Cevio,Q67675,Cevio,it,5310,5310,both,True,True
+5315,Linescio,Q67989,Linescio,it,5315,5315,both,True,True
+5317,Maggia,Q67996,Maggia,it,5317,5317,both,True,True
+5323,Lavizzara,Q68005,Lavizzara,it,5323,5323,both,True,True
+5324,Avegno Gordevio,Q70603,Avegno Gordevio,it,5324,5324,both,True,True
+5395,Lema,Q130372861,,,5395,5395,both,False,True
+5396,Terre di Pedemonte,Q2405262,Terre di Pedemonte,it,5396,5396,both,True,True
+5397,Centovalli,Q70611,Comune delle Centovalli,it,5397,5397,both,False,True
+5398,Gambarogno,Q70234,Gambarogno,it,5398,5398,both,True,True
+5399,Verzasca,Q1684937,,,5399,5399,both,False,True
+5401,Aigle,Q43195,Aigle,fr,5401,5401,both,True,True
+5402,Bex,Q52261,Bex,fr,5402,5402,both,True,True
+5403,Chessel,Q52781,Chessel,fr,5403,5403,both,True,True
+5404,Corbeyrier,Q57099,Corbeyrier,fr,5404,5404,both,True,True
+5405,Gryon,Q69522,Gryon,fr,5405,5405,both,True,True
+5406,Lavey-Morcles,Q70250,Lavey-Morcles,fr,5406,5406,both,True,True
+5407,Leysin,Q69610,Commune de Leysin,fr-ch,5407,5407,both,False,True
+5408,Noville,Q70005,Noville,fr,5408,5408,both,True,True
+5409,Ollon,Q70115,Ollon,fr,5409,5409,both,True,True
+5410,Ormont-Dessous,Q70227,Ormont-Dessous,fr,5410,5410,both,True,True
+5411,Ormont-Dessus,Q70082,Ormont-Dessus,fr,5411,5411,both,True,True
+5412,Rennaz,Q70214,Rennaz,fr,5412,5412,both,True,True
+5413,Roche (VD),Q70224,Roche (VD),fr,5413,5413,both,True,True
+5414,Villeneuve (VD),Q69972,Villeneuve (VD),fr,5414,5414,both,True,True
+5415,Yvorne,Q70240,Yvorne,fr,5415,5415,both,True,True
+5422,Aubonne,Q43232,Aubonne,fr,5422,5422,both,True,True
+5423,Ballens,Q43240,Ballens,fr,5423,5423,both,True,True
+5424,Berolle,Q52258,Berolle,fr,5424,5424,both,True,True
+5425,Bière,Q52262,Bière,fr,5425,5425,both,True,True
+5426,Bougy-Villars,Q52272,Bougy-Villars,fr,5426,5426,both,True,True
+5427,Féchy,Q70260,Féchy,fr,5427,5427,both,True,True
+5428,Gimel,Q70245,,,5428,5428,both,False,True
+5429,Longirod,Q70257,Longirod,fr,5429,5429,both,True,True
+5430,Marchissy,Q68647,Marchissy,fr,5430,5430,both,True,True
+5431,Mollens (VD),Q70553,Mollens (VD),fr,5431,5431,both,True,True
+5434,Saint-George,Q68634,Saint-George,fr,5434,5434,both,True,True
+5435,Saint-Livres,Q68749,Saint-Livres,fr,5435,5435,both,True,True
+5436,Saint-Oyens,Q68946,Saint-Oyens,fr,5436,5436,both,True,True
+5437,Saubraz,Q68760,Saubraz,fr,5437,5437,both,True,True
+5451,Avenches,Q43236,Avenches,fr,5451,5451,both,True,True
+5456,Cudrefin,Q70192,Cudrefin,fr,5456,5456,both,True,True
+5458,Faoug,Q70559,Faoug,fr,5458,5458,both,True,True
+5464,Vully-les-Lacs,Q70706,Vully-les-Lacs,fr,5464,5464,both,True,True
+5471,Bettens,Q52259,Bettens,fr,5471,5471,both,True,True
+5472,Bournens,Q52276,Bournens,fr,5472,5472,both,True,True
+5473,Boussens,Q52278,Boussens,fr,5473,5473,both,True,True
+5474,La Chaux (Cossonay),Q52701,La Chaux (Cossonay),fr,5474,5474,both,True,True
+5475,Chavannes-le-Veyron,Q52706,Chavannes-le-Veyron,fr,5475,5475,both,True,True
+5476,Chevilly,Q52785,Chevilly,fr,5476,5476,both,True,True
+5477,Cossonay,Q57111,Cossonay,fr,5477,5477,both,True,True
+5479,Cuarnens,Q68624,Cuarnens,fr,5479,5479,both,True,True
+5480,Daillens,Q68892,Daillens,fr,5480,5480,both,True,True
+5481,Dizy,Q68902,Dizy,fr,5481,5481,both,True,True
+5482,Eclépens,Q70525,Eclépens,fr,5482,5482,both,True,True
+5483,Ferreyres,Q68500,Ferreyres,fr,5483,5483,both,True,True
+5484,Gollion,Q70594,Gollion,fr,5484,5484,both,True,True
+5485,Grancy,Q68638,Grancy,fr,5485,5485,both,True,True
+5486,L'Isle,Q68387,L'Isle,fr,5486,5486,both,True,True
+5487,Lussery-Villars,Q70586,Lussery-Villars,fr,5487,5487,both,True,True
+5488,Mauraz,Q70572,Mauraz,fr,5488,5488,both,True,True
+5489,Mex (VD),Q70655,Mex (VD),fr,5489,5489,both,True,True
+5490,Moiry,Q68758,Moiry,fr,5490,5490,both,True,True
+5491,Mont-la-Ville,Q70547,Mont-la-Ville,fr,5491,5491,both,True,True
+5492,Montricher,Q68626,Montricher,fr,5492,5492,both,True,True
+5493,Orny,Q68917,Orny,fr,5493,5493,both,True,True
+5495,Penthalaz,Q70659,Penthalaz,fr,5495,5495,both,True,True
+5496,Penthaz,Q70653,Penthaz,fr,5496,5496,both,True,True
+5497,Pompaples,Q70675,Pompaples,fr,5497,5497,both,True,True
+5498,La Sarraz,Q70210,La Sarraz,fr,5498,5498,both,True,True
+5499,Senarclens,Q70533,Senarclens,fr,5499,5499,both,True,True
+5501,Sullens,Q70537,Sullens,fr,5501,5501,both,True,True
+5503,Vufflens-la-Ville,Q70540,Vufflens-la-Ville,fr,5503,5503,both,True,True
+5511,Assens,Q43225,Assens,fr,5511,5511,both,True,True
+5512,Bercher,Q52256,Bercher,fr,5512,5512,both,True,True
+5514,Bottens,Q52271,Bottens,fr,5514,5514,both,True,True
+5515,Bretigny-sur-Morrens,Q52287,Bretigny-sur-Morrens,fr,5515,5515,both,True,True
+5516,Cugy (VD),Q68747,,,5516,5516,both,False,True
+5518,Echallens,Q70714,Echallens,fr,5518,5518,both,True,True
+5520,Essertines-sur-Yverdon,Q68735,Essertines-sur-Yverdon,fr,5520,5520,both,True,True
+5521,Etagnières,Q68739,Etagnières,fr,5521,5521,both,True,True
+5522,Fey,Q68915,Fey,fr,5522,5522,both,True,True
+5523,Froideville,Q68720,Froideville,fr,5523,5523,both,True,True
+5527,Morrens (VD),Q68940,Morrens (VD),fr,5527,5527,both,True,True
+5529,Oulens-sous-Echallens,Q70651,Oulens-sous-Echallens,fr,5529,5529,both,True,True
+5530,Pailly,Q68840,Pailly,fr,5530,5530,both,True,True
+5531,Penthéréaz,Q70645,Penthéréaz,fr,5531,5531,both,True,True
+5533,Poliez-Pittet,Q70578,Poliez-Pittet,fr,5533,5533,both,True,True
+5534,Rueyres,Q70641,Rueyres,fr,5534,5534,both,True,True
+5535,Saint-Barthélemy (VD),Q68073,Saint-Barthélemy (VD),fr,5535,5535,both,True,True
+5537,Villars-le-Terroir,Q68644,Villars-le-Terroir,fr,5537,5537,both,True,True
+5539,Vuarrens,Q68910,Vuarrens,fr,5539,5539,both,True,True
+5540,Montilliez,Q70731,Montilliez,fr,5540,5540,both,True,True
+5541,Goumoëns,Q70741,Goumoëns,fr,5541,5541,both,True,True
+5551,Bonvillars,Q52269,Bonvillars,fr,5551,5551,both,True,True
+5552,Bullet,Q52293,Bullet,fr,5552,5552,both,True,True
+5553,Champagne,Q52685,,,5553,5553,both,False,True
+5554,Concise,Q57096,Concise,fr,5554,5554,both,True,True
+5555,Corcelles-près-Concise,Q57102,Corcelles-près-Concise,fr,5555,5555,both,True,True
+5556,Fiez,Q68861,Fiez,fr,5556,5556,both,True,True
+5557,Fontaines-sur-Grandson,Q70551,Fontaines-sur-Grandson,fr,5557,5557,both,True,True
+5559,Giez,Q70661,Giez,fr,5559,5559,both,True,True
+5560,Grandevent,Q70687,Grandevent,fr,5560,5560,both,True,True
+5561,Grandson,Q70199,Grandson,fr,5561,5561,both,True,True
+5562,Mauborget,Q70580,Mauborget,fr,5562,5562,both,True,True
+5563,Mutrux,Q68925,Mutrux,fr,5563,5563,both,True,True
+5564,Novalles,Q70649,Novalles,fr,5564,5564,both,True,True
+5565,Onnens (VD),Q70588,Onnens (VD),fr,5565,5565,both,True,True
+5566,Provence,Q70450,Provence,fr,5566,5566,both,True,True
+5568,Sainte-Croix,Q70090,Sainte-Croix,fr,5568,5568,both,True,True
+5571,Tévenon,Q70726,Tévenon,fr,5571,5571,both,True,True
+5581,Belmont-sur-Lausanne,Q43254,Belmont-sur-Lausanne,fr,5581,5581,both,True,True
+5582,Cheseaux-sur-Lausanne,Q52773,Cheseaux-sur-Lausanne,fr,5582,5582,both,True,True
+5583,Crissier,Q57121,Crissier,fr,5583,5583,both,True,True
+5584,Epalinges,Q69252,Epalinges,fr,5584,5584,both,True,True
+5585,Jouxtens-Mézery,Q70243,Jouxtens-Mézery,fr,5585,5585,both,True,True
+5586,Lausanne,Q807,Lausanne,fr,5586,5586,both,True,True
+5587,Le Mont-sur-Lausanne,Q70221,Le Mont-sur-Lausanne,fr,5587,5587,both,True,True
+5588,Paudex,Q70248,Paudex,fr,5588,5588,both,True,True
+5589,Prilly,Q69757,Prilly,fr,5589,5589,both,True,True
+5590,Pully,Q69738,Pully,fr,5590,5590,both,True,True
+5591,Renens (VD),Q69745,Renens (VD),fr,5591,5591,both,True,True
+5592,Romanel-sur-Lausanne,Q70254,Romanel-sur-Lausanne,fr,5592,5592,both,True,True
+5601,Chexbres,Q52818,Chexbres,fr,5601,5601,both,True,True
+5604,Forel (Lavaux),Q70565,Forel (Lavaux),fr,5604,5604,both,True,True
+5606,Lutry,Q69697,Lutry,fr,5606,5606,both,True,True
+5607,Puidoux,Q70545,Puidoux,fr,5607,5607,both,True,True
+5609,Rivaz,Q70515,Rivaz,fr,5609,5609,both,True,True
+5610,Saint-Saphorin (Lavaux),Q70535,Saint-Saphorin (Lavaux),fr,5610,5610,both,True,True
+5611,Savigny,Q70647,Savigny,fr,5611,5611,both,True,True
+5613,Bourg-en-Lavaux,Q52274,Bourg-en-Lavaux,fr,5613,5613,both,True,True
+5621,Aclens,Q30986,Aclens,fr,5621,5621,both,True,True
+5622,Bremblens,Q52281,Bremblens,fr,5622,5622,both,True,True
+5623,Buchillon,Q52291,Buchillon,fr,5623,5623,both,True,True
+5624,Bussigny,Q52300,Bussigny,fr,5624,5624,both,True,True
+5627,Chavannes-près-Renens,Q52714,Chavannes-près-Renens,fr,5627,5627,both,True,True
+5628,Chigny,Q57086,Chigny,fr,5628,5628,both,True,True
+5629,Clarmont,Q57088,Clarmont,fr,5629,5629,both,True,True
+5631,Denens,Q68489,Denens,fr,5631,5631,both,True,True
+5632,Denges,Q68671,Denges,fr,5632,5632,both,True,True
+5633,Echandens,Q68630,Echandens,fr,5633,5633,both,True,True
+5634,Echichens,Q68742,Echichens,fr,5634,5634,both,True,True
+5635,Ecublens (VD),Q69716,Ecublens (VD),fr,5635,5635,both,True,True
+5636,Etoy,Q70216,Etoy,fr,5636,5636,both,True,True
+5637,Lavigny,Q68756,Lavigny,fr,5637,5637,both,True,True
+5638,Lonay,Q68068,Lonay,fr,5638,5638,both,True,True
+5639,Lully (VD),Q68930,Lully (VD),fr,5639,5639,both,True,True
+5640,Lussy-sur-Morges,Q68737,Lussy-sur-Morges,fr,5640,5640,both,True,True
+5642,Morges,Q69401,Morges,fr,5642,5642,both,True,True
+5643,Préverenges,Q68711,Préverenges,fr,5643,5643,both,True,True
+5645,Romanel-sur-Morges,Q70332,Romanel-sur-Morges,fr,5645,5645,both,True,True
+5646,Saint-Prex,Q68063,Saint-Prex,fr,5646,5646,both,True,True
+5648,Saint-Sulpice (VD),Q68019,Saint-Sulpice (VD),fr,5648,5648,both,True,True
+5649,Tolochenaz,Q69398,Tolochenaz,fr,5649,5649,both,True,True
+5650,Vaux-sur-Morges,Q68836,Vaux-sur-Morges,fr,5650,5650,both,True,True
+5651,Villars-Sainte-Croix,Q68883,Villars-Sainte-Croix,fr,5651,5651,both,True,True
+5652,Villars-sous-Yens,Q68724,Villars-sous-Yens,fr,5652,5652,both,True,True
+5653,Vufflens-le-Château,Q69445,Vufflens-le-Château,fr,5653,5653,both,True,True
+5654,Vullierens,Q68636,Vullierens,fr,5654,5654,both,True,True
+5655,Yens,Q68642,Yens,fr,5655,5655,both,True,True
+5656,Hautemorges,Q104776665,,,5656,5656,both,False,True
+5661,Boulens,Q52273,Boulens,fr,5661,5661,both,True,True
+5663,Bussy-sur-Moudon,Q52304,Bussy-sur-Moudon,fr,5663,5663,both,True,True
+5665,Chavannes-sur-Moudon,Q52719,Chavannes-sur-Moudon,fr,5665,5665,both,True,True
+5669,Curtilles,Q68733,Curtilles,fr,5669,5669,both,True,True
+5671,Dompierre (VD),Q68896,Dompierre (VD),fr,5671,5671,both,True,True
+5673,Hermenches,Q68852,Hermenches,fr,5673,5673,both,True,True
+5674,Lovatens,Q68754,Lovatens,fr,5674,5674,both,True,True
+5675,Lucens,Q70110,Lucens,fr,5675,5675,both,True,True
+5678,Moudon,Q70202,Moudon,fr,5678,5678,both,True,True
+5680,Ogens,Q68908,Ogens,fr,5680,5680,both,True,True
+5683,Prévonloup,Q70563,Prévonloup,fr,5683,5683,both,True,True
+5684,Rossenges,Q68831,Rossenges,fr,5684,5684,both,True,True
+5688,Syens,Q68684,Syens,fr,5688,5688,both,True,True
+5690,Villars-le-Comte,Q70570,Villars-le-Comte,fr,5690,5690,both,True,True
+5692,Vucherens,Q70048,Vucherens,fr,5692,5692,both,True,True
+5693,Montanaire,Q585496,Montanaire,fr,5693,5693,both,True,True
+5701,Arnex-sur-Nyon,Q43206,,,5701,5701,both,False,True
+5702,Arzier-Le Muids,Q43218,Arzier-Le Muids,fr,5702,5702,both,True,True
+5703,Bassins,Q43243,Bassins,fr,5703,5703,both,True,True
+5704,Begnins,Q43251,Begnins,fr,5704,5704,both,True,True
+5705,Bogis-Bossey,Q52268,Bogis-Bossey,fr,5705,5705,both,True,True
+5706,Borex,Q52270,Borex,fr,5706,5706,both,True,True
+5707,Chavannes-de-Bogis,Q52702,Chavannes-de-Bogis,fr,5707,5707,both,True,True
+5708,Chavannes-des-Bois,Q52703,Chavannes-des-Bois,fr,5708,5708,both,True,True
+5709,Chéserex,Q52777,Chéserex,fr,5709,5709,both,True,True
+5710,Coinsins,Q57091,Coinsins,fr,5710,5710,both,True,True
+5711,Commugny,Q57094,Commugny,fr,5711,5711,both,True,True
+5712,Coppet,Q57097,Coppet,fr,5712,5712,both,True,True
+5713,Crans (VD),Q57115,Crans (VD),fr,5713,5713,both,True,True
+5714,Crassier,Q57117,Crassier,fr,5714,5714,both,True,True
+5715,Duillier,Q70389,Duillier,fr,5715,5715,both,True,True
+5716,Eysins,Q69287,Eysins,fr,5716,5716,both,True,True
+5717,Founex,Q69331,Founex,fr,5717,5717,both,True,True
+5718,Genolier,Q69290,Genolier,fr,5718,5718,both,True,True
+5719,Gingins,Q69337,Gingins,fr,5719,5719,both,True,True
+5720,Givrins,Q69315,Givrins,fr,5720,5720,both,True,True
+5721,Gland,Q69300,Gland,fr,5721,5721,both,True,True
+5722,Grens,Q69285,Grens,fr,5722,5722,both,True,True
+5723,Mies,Q69329,Mies,fr,5723,5723,both,True,True
+5724,Nyon,Q64027,Nyon,fr-ch,5724,5724,both,True,True
+5725,Prangins,Q69293,Prangins,fr,5725,5725,both,True,True
+5726,La Rippe,Q69309,La Rippe,fr,5726,5726,both,True,True
+5727,Saint-Cergue,Q69335,Saint-Cergue,fr,5727,5727,both,True,True
+5728,Signy-Avenex,Q69324,Signy-Avenex,fr,5728,5728,both,True,True
+5729,Tannay,Q69312,Tannay,fr,5729,5729,both,True,True
+5730,Trélex,Q69318,Trélex,fr,5730,5730,both,True,True
+5731,Le Vaud,Q69333,Le Vaud,fr,5731,5731,both,True,True
+5732,Vich,Q69282,Vich,fr,5732,5732,both,True,True
+5741,L'Abergement,Q70597,L'Abergement,fr,5741,5741,both,True,True
+5742,Agiez,Q43188,Agiez,fr,5742,5742,both,True,True
+5743,Arnex-sur-Orbe,Q43212,Arnex-sur-Orbe,fr,5743,5743,both,True,True
+5744,Ballaigues,Q43239,Ballaigues,fr,5744,5744,both,True,True
+5745,Baulmes,Q43245,Baulmes,fr,5745,5745,both,True,True
+5746,Bavois,Q43248,Bavois,fr,5746,5746,both,True,True
+5747,Bofflens,Q52267,Bofflens,fr,5747,5747,both,True,True
+5748,Bretonnières,Q52289,Bretonnières,fr,5748,5748,both,True,True
+5749,Chavornay,Q52726,Chavornay,fr,5749,5749,both,True,True
+5750,Les Clées,Q57090,Les Clées,fr,5750,5750,both,True,True
+5752,Croy,Q70541,Croy,fr,5752,5752,both,True,True
+5754,Juriens,Q70490,Juriens,fr,5754,5754,both,True,True
+5755,Lignerolle,Q70503,Lignerolle,fr,5755,5755,both,True,True
+5756,Montcherand,Q68653,Montcherand,fr,5756,5756,both,True,True
+5757,Orbe,Q68213,Orbe,fr,5757,5757,both,True,True
+5758,La Praz,Q70549,La Praz,fr,5758,5758,both,True,True
+5759,Premier,Q70574,Premier,fr,5759,5759,both,True,True
+5760,Rances,Q70505,Rances,fr,5760,5760,both,True,True
+5761,Romainmôtier-Envy,Q70671,Romainmôtier-Envy,fr,5761,5761,both,True,True
+5762,Sergey,Q70555,Sergey,fr,5762,5762,both,True,True
+5763,Valeyres-sous-Rances,Q70501,Valeyres-sous-Rances,fr,5763,5763,both,True,True
+5764,Vallorbe,Q68587,Vallorbe,fr,5764,5764,both,True,True
+5765,Vaulion,Q70665,Vaulion,fr,5765,5765,both,True,True
+5766,Vuiteboeuf,Q70498,Vuiteboeuf,fr,5766,5766,both,True,True
+5785,Corcelles-le-Jorat,Q57101,Corcelles-le-Jorat,fr,5785,5785,both,True,True
+5790,Maracon,Q68640,Maracon,fr,5790,5790,both,True,True
+5792,Montpreveyres,Q70617,Montpreveyres,fr,5792,5792,both,True,True
+5798,Ropraz,Q68904,Ropraz,fr,5798,5798,both,True,True
+5799,Servion,Q68649,Servion,fr,5799,5799,both,True,True
+5803,Vulliens,Q68628,Vulliens,fr,5803,5803,both,True,True
+5804,Jorat-Menthue,Q70701,Jorat-Menthue,fr,5804,5804,both,True,True
+5805,Oron,Q70734,Oron,fr,5805,5805,both,True,True
+5806,Jorat-Mézières,Q19544878,Jorat-Mézières,fr,5806,5806,both,True,True
+5812,Champtauroz,Q52690,Champtauroz,fr,5812,5812,both,True,True
+5813,Chevroux,Q52803,Chevroux,fr,5813,5813,both,True,True
+5816,Corcelles-près-Payerne,Q57104,Corcelles-près-Payerne,fr,5816,5816,both,True,True
+5817,Grandcour,Q70190,Grandcour,fr,5817,5817,both,True,True
+5819,Henniez,Q68873,Henniez,fr,5819,5819,both,True,True
+5821,Missy,Q70679,Missy,fr,5821,5821,both,True,True
+5822,Payerne,Q69525,Payerne,fr,5822,5822,both,True,True
+5827,Trey,Q68879,Trey,fr,5827,5827,both,True,True
+5828,Treytorrens (Payerne),Q70673,Treytorrens (Payerne),fr,5828,5828,both,True,True
+5830,Villarzel,Q70591,Villarzel,fr,5830,5830,both,True,True
+5831,Valbroye,Q70689,Valbroye,fr,5831,5831,both,True,True
+5841,Château-d'Oex,Q52699,Château-d'Oex,fr,5841,5841,both,True,True
+5842,Rossinière,Q67694,Rossinière,fr,5842,5842,both,True,True
+5843,Rougemont,Q70000,Rougemont,fr,5843,5843,both,True,True
+5851,Allaman,Q43201,Allaman,fr,5851,5851,both,True,True
+5852,Bursinel,Q52296,Bursinel,fr,5852,5852,both,True,True
+5853,Bursins,Q52298,Bursins,fr,5853,5853,both,True,True
+5854,Burtigny,Q52299,Burtigny,fr,5854,5854,both,True,True
+5855,Dully,Q68622,Dully,fr,5855,5855,both,True,True
+5856,Essertines-sur-Rolle,Q68674,Essertines-sur-Rolle,fr,5856,5856,both,True,True
+5857,Gilly,Q70383,Gilly,fr,5857,5857,both,True,True
+5858,Luins,Q68690,Luins,fr,5858,5858,both,True,True
+5859,Mont-sur-Rolle,Q68762,Mont-sur-Rolle,fr,5859,5859,both,True,True
+5860,Perroy,Q68076,Perroy,fr,5860,5860,both,True,True
+5861,Rolle,Q69570,Rolle,fr,5861,5861,both,True,True
+5862,Tartegnin,Q70065,Tartegnin,fr,5862,5862,both,True,True
+5863,Vinzel,Q68651,Vinzel,fr,5863,5863,both,True,True
+5871,L'Abbaye,Q69520,,,5871,5871,both,False,True
+5872,Le Chenit,Q52743,Le Chenit,fr,5872,5872,both,True,True
+5873,Le Lieu,Q69546,Le Lieu,fr,5873,5873,both,True,True
+5882,Chardonne,Q52698,Chardonne,fr,5882,5882,both,True,True
+5883,Corseaux,Q57108,,,5883,5883,both,False,True
+5884,Corsier-sur-Vevey,Q57110,Corsier-sur-Vevey,gur,5884,5884,both,True,True
+5885,Jongny,Q69583,Jongny,fr,5885,5885,both,True,True
+5886,Montreux,Q69354,Montreux,fr,5886,5886,both,True,True
+5889,La Tour-de-Peilz,Q69721,La Tour-de-Peilz,fr,5889,5889,both,True,True
+5890,Vevey,Q68160,Vevey,fr,5890,5890,both,True,True
+5891,Veytaux,Q68071,Veytaux,fr,5891,5891,both,True,True
+5892,Blonay - Saint-Légier,Q106804643,,,5892,5892,both,False,True
+5902,Belmont-sur-Yverdon,Q43256,Belmont-sur-Yverdon,fr,5902,5902,both,True,True
+5903,Bioley-Magnoux,Q52263,Bioley-Magnoux,fr,5903,5903,both,True,True
+5904,Chamblon,Q52678,Chamblon,fr,5904,5904,both,True,True
+5905,Champvent,Q52694,Champvent,fr,5905,5905,both,True,True
+5907,Chavannes-le-Chêne,Q52704,Chavannes-le-Chêne,fr,5907,5907,both,True,True
+5908,Chêne-Pâquier,Q52737,Chêne-Pâquier,fr,5908,5908,both,True,True
+5909,Cheseaux-Noréaz,Q52752,Cheseaux-Noréaz,fr,5909,5909,both,True,True
+5910,Cronay,Q57122,Cronay,fr,5910,5910,both,True,True
+5911,Cuarny,Q68834,Cuarny,fr,5911,5911,both,True,True
+5912,Démoret,Q68875,Démoret,fr,5912,5912,both,True,True
+5913,Donneloye,Q70584,Donneloye,fr,5913,5913,both,True,True
+5914,Ependes (VD),Q69403,Ependes (VD),fr,5914,5914,both,True,True
+5919,Mathod,Q68752,Mathod,fr,5919,5919,both,True,True
+5921,Molondin,Q70568,Molondin,fr,5921,5921,both,True,True
+5922,Montagny-près-Yverdon,Q68669,Montagny-près-Yverdon,und,5922,5922,both,True,True
+5923,Oppens,Q70663,Oppens,fr,5923,5923,both,True,True
+5924,Orges,Q70561,Orges,fr,5924,5924,both,True,True
+5925,Orzens,Q70667,Orzens,fr,5925,5925,both,True,True
+5926,Pomy,Q70600,Pomy,fr,5926,5926,both,True,True
+5928,Rovray,Q70685,Rovray,fr,5928,5928,both,True,True
+5929,Suchy,Q68943,Suchy,fr,5929,5929,both,True,True
+5930,Suscévaz,Q70017,Suscévaz,fr,5930,5930,both,True,True
+5931,Treycovagnes,Q68718,Treycovagnes,fr,5931,5931,both,True,True
+5932,Ursins,Q70046,Ursins,fr,5932,5932,both,True,True
+5933,Valeyres-sous-Montagny,Q70582,Valeyres-sous-Montagny,fr,5933,5933,both,True,True
+5934,Valeyres-sous-Ursins,Q68680,Valeyres-sous-Ursins,fr,5934,5934,both,True,True
+5935,Villars-Epeney,Q68745,Villars-Epeney,fr,5935,5935,both,True,True
+5937,Vugelles-La Mothe,Q70627,Vugelles-La Mothe,fr,5937,5937,both,True,True
+5938,Yverdon-les-Bains,Q63946,Yverdon-les-Bains,fr,5938,5938,both,True,True
+5939,Yvonand,Q68492,Yvonand,fr,5939,5939,both,True,True
+6002,Brig-Glis,Q15583,Brig-Glis,de-ch,6002,6002,both,True,True
+6004,Eggerberg,Q67486,Eggerberg,und,6004,6004,both,True,True
+6007,Naters,Q67040,Naters,und,6007,6007,both,True,True
+6008,Ried-Brig,Q67474,Ried-Brig,und,6008,6008,both,True,True
+6009,Simplon,Q69194,Simplon,und,6009,6009,both,True,True
+6010,Termen,Q67151,Termen,und,6010,6010,both,True,True
+6011,Zwischbergen,Q68087,Zwischbergen,de,6011,6011,both,True,True
+6021,Ardon,Q69556,Ardon,und,6021,6021,both,True,True
+6022,Chamoson,Q70178,Chamoson,und,6022,6022,both,True,True
+6023,Conthey,Q69563,Conthey,fr,6023,6023,both,True,True
+6024,Nendaz,Q69540,Nendaz,und,6024,6024,both,True,True
+6025,Vétroz,Q69515,Vétroz,und,6025,6025,both,True,True
+6032,Bourg-Saint-Pierre,Q70157,Bourg-Saint-Pierre,fr,6032,6032,both,True,True
+6033,Liddes,Q68899,Liddes,und,6033,6033,both,True,True
+6034,Orsières,Q70206,Orsières,fr,6034,6034,both,True,True
+6035,Sembrancher,Q70101,Sembrancher,und,6035,6035,both,True,True
+6037,Val de Bagnes,Q99519700,Val de Bagnes,und,6037,6037,both,True,True
+6052,Bellwald,Q68466,Bellwald,und,6052,6052,both,True,True
+6054,Binn,Q68471,Binn,und,6054,6054,both,True,True
+6056,Ernen,Q70347,Ernen,de,6056,6056,both,True,True
+6057,Fiesch,Q68051,Fiesch,und,6057,6057,both,True,True
+6058,Fieschertal,Q70716,Fieschertal,und,6058,6058,both,True,True
+6061,Lax,Q70363,Lax,und,6061,6061,both,True,True
+6076,Obergoms,Q70614,Obergoms,de-ch,6076,6076,both,True,True
+6077,Goms,Q26836831,Goms,und,6077,6077,both,True,True
+6082,Ayent,Q70167,Ayent,fr,6082,6082,both,True,True
+6083,Evolène,Q69551,Evolène,fr,6083,6083,both,True,True
+6084,Hérémence,Q69553,Hérémence,fr,6084,6084,both,True,True
+6087,Saint-Martin (VS),Q70395,Saint-Martin (VS),fr,6087,6087,both,True,True
+6089,Vex,Q67724,Vex,fr,6089,6089,both,True,True
+6090,Mont-Noble,Q70704,Mont-Noble,und,6090,6090,both,True,True
+6101,Agarn,Q66913,Agarn,de-ch,6101,6101,both,True,True
+6102,Albinen,Q69889,Albinen,und,6102,6102,both,True,True
+6104,Ergisch,Q68609,Ergisch,und,6104,6104,both,True,True
+6109,Inden,Q67789,Inden,und,6109,6109,both,True,True
+6110,Leuk,Q69590,Leuk,und,6110,6110,both,True,True
+6111,Leukerbad,Q69436,Leukerbad,de-ch,6111,6111,both,True,True
+6112,Oberems,Q67254,Gemeinde Oberems,de-ch,6112,6112,both,False,True
+6113,Salgesch,Q70317,Salgesch,und,6113,6113,both,True,True
+6116,Varen,Q67482,Varen,und,6116,6116,both,True,True
+6117,Guttet-Feschel,Q69988,Guttet-Feschel,und,6117,6117,both,True,True
+6118,Gampel-Bratsch,Q70639,Gemeinde Gampel-Bratsch,de-ch,6118,6118,both,False,True
+6119,Turtmann-Unterems,Q2363869,Turtmann-Unterems,und,6119,6119,both,True,True
+6131,Bovernier,Q70145,Bovernier,fr,6131,6131,both,True,True
+6133,Fully,Q70137,Fully,fr,6133,6133,both,True,True
+6134,Isérables,Q69577,Isérables,fr,6134,6134,both,True,True
+6135,Leytron,Q68849,Leytron,fr,6135,6135,both,True,True
+6136,Martigny,Q68956,Ville de Martigny,fr-ch,6136,6136,both,False,True
+6137,Martigny-Combe,Q68871,Martigny-Combe,fr,6137,6137,both,True,True
+6139,Riddes,Q68504,Commune de Riddes,fr-ch,6139,6139,both,False,True
+6140,Saillon,Q70710,Saillon,fr,6140,6140,both,True,True
+6141,Saxon,Q69572,Saxon,fr,6141,6141,both,True,True
+6142,Trient,Q68856,Trient,fr,6142,6142,both,True,True
+6151,Champéry,Q70099,Champéry,fr,6151,6151,both,True,True
+6152,Collombey-Muraz,Q70165,Collombey-Muraz,fr,6152,6152,both,True,True
+6153,Monthey,Q64051,Monthey,fr,6153,6153,both,True,True
+6154,Port-Valais,Q70393,Port-Valais,fr,6154,6154,both,True,True
+6155,Saint-Gingolph,Q70528,Saint-Gingolph,fr,6155,6155,both,True,True
+6156,Troistorrents,Q68823,Troistorrents,fr,6156,6156,both,True,True
+6157,Val-d'Illiez,Q68528,Val-d'Illiez,fr,6157,6157,both,True,True
+6158,Vionnaz,Q69549,Vionnaz,fr,6158,6158,both,True,True
+6159,Vouvry,Q68889,Vouvry,fr,6159,6159,both,True,True
+6172,Bister,Q70351,Bister,und,6172,6172,both,True,True
+6173,Bitsch,Q68046,Bitsch,und,6173,6173,both,True,True
+6177,Grengiols,Q67332,Grengiols,de-ch,6177,6177,both,True,True
+6181,Riederalp,Q70321,Riederalp,und,6181,6181,both,True,True
+6191,Ausserberg,Q68022,Ausserberg,und,6191,6191,both,True,True
+6192,Blatten,Q67496,Blatten,de-ch,6192,6192,both,True,True
+6193,Bürchen,Q70712,Bürchen,und,6193,6193,both,True,True
+6194,Eischoll,Q70391,Gemeinde Eischoll,de-ch,6194,6194,both,False,True
+6195,Ferden,Q68033,Ferden,und,6195,6195,both,True,True
+6197,Kippel,Q67691,Kippel,und,6197,6197,both,True,True
+6198,Niedergesteln,Q70161,Niedergesteln,und,6198,6198,both,True,True
+6199,Raron,Q69786,Raron,de-ch,6199,6199,both,True,True
+6201,Unterbäch,Q68215,Gemeinde Unterbäch (VS),de-ch,6201,6201,both,False,True
+6202,Wiler (Lötschen),Q67489,Wiler (Lötschen),und,6202,6202,both,True,True
+6203,Mörel-Filet,Q70643,Mörel-Filet,und,6203,6203,both,True,True
+6204,Steg-Hohtenn,Q70624,Steg-Hohtenn,und,6204,6204,both,True,True
+6205,Bettmeralp,Q15107547,Bettmeralp,und,6205,6205,both,True,True
+6211,Collonges,Q68846,Collonges,fr,6211,6211,both,True,True
+6212,Dorénaz,Q68487,Commune de Dorénaz,fr-ch,6212,6212,both,False,True
+6213,Evionnaz,Q70163,Evionnaz,und,6213,6213,both,True,True
+6214,Finhaut,Q68877,Finhaut,fr-ch,6214,6214,both,True,True
+6215,Massongex,Q70184,Massongex,fr,6215,6215,both,True,True
+6217,Saint-Maurice,Q69545,Saint-Maurice,und,6217,6217,both,True,True
+6218,Salvan,Q68912,Salvan,und,6218,6218,both,True,True
+6219,Vernayaz,Q68713,Vernayaz,und,6219,6219,both,True,True
+6220,Vérossaz,Q68936,Vérossaz,und,6220,6220,both,True,True
+6232,Chalais,Q70736,Chalais,und,6232,6232,both,True,True
+6235,Chippis,Q69986,Chippis,und,6235,6235,both,True,True
+6238,Grône,Q70151,Grône,und,6238,6238,both,True,True
+6239,Icogne,Q69535,Icogne,und,6239,6239,both,True,True
+6240,Lens,Q70361,Lens,fr,6240,6240,both,True,True
+6246,Saint-Léonard,Q68222,Saint-Léonard,und,6246,6246,both,True,True
+6248,Sierre,Q68297,Ville de Sierre,fr-ch,6248,6248,both,False,True
+6252,Anniviers,Q70336,Anniviers,fr,6252,6252,both,True,True
+6253,Crans-Montana,Q688557,,,6253,6253,both,False,True
+6254,Noble-Contrée,Q99519702,,,6254,6254,both,False,True
+6261,Arbaz,Q68113,Arbaz,und,6261,6261,both,True,True
+6263,Grimisuat,Q69579,Grimisuat,fr,6263,6263,both,True,True
+6265,Savièse,Q69558,Savièse,und,6265,6265,both,True,True
+6266,Sion,Q68136,Sitten,de,6266,6266,both,False,True
+6266,Sion,Q68136,Sion,fr,6266,6266,both,True,True
+6267,Veysonnaz,Q70112,Veysonnaz,fr,6267,6267,both,True,True
+6281,Baltschieder,Q70154,,,6281,6281,both,False,True
+6282,Eisten,Q67088,Eisten,und,6282,6282,both,True,True
+6283,Embd,Q68026,Gemeinde Embd,de-ch,6283,6283,both,False,True
+6285,Grächen,Q70097,Grächen,und,6285,6285,both,True,True
+6286,Lalden,Q70169,Lalden,und,6286,6286,both,True,True
+6287,Randa,Q67720,Randa,und,6287,6287,both,True,True
+6288,Saas-Almagell,Q68037,Saas-Almagell,und,6288,6288,both,True,True
+6289,Saas-Balen,Q70304,Saas-Balen,gsw,6289,6289,both,True,True
+6289,Saas-Balen,Q70304,Saas Balen,gsw,6289,6289,both,False,True
+6290,Saas-Fee,Q69693,Gemeinde Saas-Fee,de-ch,6290,6290,both,False,True
+6291,Saas-Grund,Q70032,Saas-Grund,und,6291,6291,both,True,True
+6292,St. Niklaus,Q68464,St. Niklaus,de-ch,6292,6292,both,True,True
+6293,Stalden (VS),Q68460,Stalden (VS),de-ch,6293,6293,both,True,True
+6294,Staldenried,Q70349,Staldenried,und,6294,6294,both,True,True
+6295,Täsch,Q69305,Täsch,und,6295,6295,both,True,True
+6296,Törbel,Q68469,Törbel,und,6296,6296,both,True,True
+6297,Visp,Q64147,,,6297,6297,both,False,True
+6298,Visperterminen,Q70387,Visperterminen,und,6298,6298,both,True,True
+6299,Zeneggen,Q70359,Zeneggen,und,6299,6299,both,True,True
+6300,Zermatt,Q27494,Gemeinde Zermatt,de-ch,6300,6300,both,False,True
+6404,Boudry,Q69507,Boudry,fr,6404,6404,both,True,True
+6408,Cortaillod,Q70308,Cortaillod,fr,6408,6408,both,True,True
+6413,Rochefort,Q70219,Rochefort,fr,6413,6413,both,True,True
+6416,Milvignes,Q251727,Milvignes,fr,6416,6416,both,True,True
+6417,La Grande Béroche,Q30743849,,,6417,6417,both,False,True
+6421,La Chaux-de-Fonds,Q68124,La Chaux-de-Fonds,fr,6421,6421,both,True,True
+6422,Les Planchettes,Q68540,Les Planchettes,fr,6422,6422,both,True,True
+6423,La Sagne,Q68532,La Sagne,fr,6423,6423,both,True,True
+6432,La Brévine,Q68838,La Brévine,fr,6432,6432,both,True,True
+6433,Brot-Plamboz,Q70519,Brot-Plamboz,fr,6433,6433,both,True,True
+6434,Le Cerneux-Péquignot,Q70456,Le Cerneux-Péquignot,fr,6434,6434,both,True,True
+6435,La Chaux-du-Milieu,Q70436,La Chaux-du-Milieu,fr,6435,6435,both,True,True
+6436,Le Locle,Q64093,Le Locle,fr,6436,6436,both,True,True
+6437,Les Ponts-de-Martel,Q68617,Les Ponts-de-Martel,fr,6437,6437,both,True,True
+6451,Cornaux,Q70479,Cornaux,fr,6451,6451,both,True,True
+6452,Cressier (NE),Q70139,Cressier (NE),fr,6452,6452,both,True,True
+6455,Le Landeron,Q70204,Le Landeron,fr,6455,6455,both,True,True
+6456,Lignières,Q68706,Lignières,fr,6456,6456,both,True,True
+6458,Neuchâtel,Q69345,Neuchâtel,fr,6458,6458,both,True,True
+6487,Val-de-Ruz,Q2507659,Val-de-Ruz,fr,6487,6487,both,True,True
+6504,La Côte-aux-Fées,Q68526,La Côte-aux-Fées,fr,6504,6504,both,True,True
+6511,Les Verrières,Q69807,Les Verrières,fr,6511,6511,both,True,True
+6512,Val-de-Travers,Q70526,Val-de-Travers,fr,6512,6512,both,True,True
+6513,Laténa,Q123995545,,,6513,6513,both,False,True
+6601,Aire-la-Ville,Q65280,Aire-la-Ville,fr,6601,6601,both,True,True
+6602,Anières,Q69842,Anières,fr,6602,6602,both,True,True
+6603,Avully,Q69200,Avully,fr,6603,6603,both,True,True
+6604,Avusy,Q68174,Avusy,fr,6604,6604,both,True,True
+6605,Bardonnex,Q68191,Bardonnex,fr,6605,6605,both,True,True
+6606,Bellevue,Q69836,Bellevue,fr,6606,6606,both,True,True
+6607,Bernex,Q65259,Bernex,fr,6607,6607,both,True,True
+6608,Carouge (GE),Q69364,Carouge (GE),fr,6608,6608,both,True,True
+6609,Cartigny,Q65531,Cartigny,fr,6609,6609,both,True,True
+6610,Céligny,Q69410,Céligny,fr,6610,6610,both,True,True
+6611,Chancy,Q69811,Chancy,fr,6611,6611,both,True,True
+6612,Chêne-Bougeries,Q69530,Chêne-Bougeries,fr,6612,6612,both,True,True
+6613,Chêne-Bourg,Q69035,Chêne-Bourg,fr,6613,6613,both,True,True
+6614,Choulex,Q68180,Choulex,fr,6614,6614,both,True,True
+6615,Collex-Bossy,Q65691,Collex-Bossy,fr,6615,6615,both,True,True
+6616,Collonge-Bellerive,Q69037,Collonge-Bellerive,fr,6616,6616,both,True,True
+6617,Cologny,Q69245,Cologny,fr,6617,6617,both,True,True
+6618,Confignon,Q65277,Confignon,fr,6618,6618,both,True,True
+6619,Corsier (GE),Q65643,Corsier (GE),fr,6619,6619,both,True,True
+6620,Dardagny,Q69471,Dardagny,fr,6620,6620,both,True,True
+6621,Genève,Q71,Genève,fr,6621,6621,both,True,True
+6622,Genthod,Q48923,Genthod,fr,6622,6622,both,True,True
+6623,Le Grand-Saconnex,Q69714,Grand-Saconnex,fr,6623,6623,both,False,True
+6624,Gy,Q66504,Gy,fr,6624,6624,both,True,True
+6625,Hermance,Q66200,Hermance,fr,6625,6625,both,True,True
+6626,Jussy,Q65538,Jussy,fr,6626,6626,both,True,True
+6627,Laconnex,Q69848,Laconnex,fr,6627,6627,both,True,True
+6628,Lancy,Q64065,Lancy,fr,6628,6628,both,True,True
+6629,Meinier,Q69845,Meinier,fr,6629,6629,both,True,True
+6630,Meyrin,Q68230,Meyrin-Unie,fr,6630,6630,both,False,True
+6630,Meyrin,Q68230,Meyrin,fr,6630,6630,both,True,True
+6631,Onex,Q68240,Onex,fr,6631,6631,both,True,True
+6632,Perly-Certoux,Q65516,Perly-Certoux,fr,6632,6632,both,True,True
+6633,Plan-les-Ouates,Q65273,Plan-les-Ouates,fr,6633,6633,both,True,True
+6634,Pregny-Chambésy,Q69822,Pregny-Chambésy,fr,6634,6634,both,True,True
+6634,Pregny-Chambésy,Q69822,Pregny,fr,6634,6634,both,False,True
+6635,Presinge,Q69839,Presinge,fr,6635,6635,both,True,True
+6636,Puplinge,Q69832,Puplinge,fr,6636,6636,both,True,True
+6637,Russin,Q69826,Russin,fr,6637,6637,both,True,True
+6638,Satigny,Q69451,Satigny,fr,6638,6638,both,True,True
+6639,Soral,Q65535,Soral,fr,6639,6639,both,True,True
+6640,Thônex,Q68201,Thônex,fr,6640,6640,both,True,True
+6641,Troinex,Q69817,Troinex,fr,6641,6641,both,True,True
+6642,Vandoeuvres,Q65522,Vandoeuvres,fr,6642,6642,both,True,True
+6643,Vernier,Q63922,Vernier,fr,6643,6643,both,True,True
+6644,Versoix,Q63979,Versoix-la-Raison,fr,6644,6644,both,False,True
+6644,Versoix,Q63979,Versoix,fr,6644,6644,both,True,True
+6645,Veyrier,Q69587,Veyrier,fr,6645,6645,both,True,True
+6702,Boécourt,Q69942,Boécourt,fr,6702,6702,both,True,True
+6703,Bourrignon,Q70063,Bourrignon,fr,6703,6703,both,True,True
+6704,Châtillon (JU),Q68803,Châtillon (JU),fr,6704,6704,both,True,True
+6706,Courchapoix,Q69852,Courchapoix,fr,6706,6706,both,True,True
+6708,Courrendlin,Q69,Courrendlin,fr,6708,6708,both,True,True
+6709,Courroux,Q70095,Courroux,fr,6709,6709,both,True,True
+6710,Courtételle,Q67463,Courtételle,fr,6710,6710,both,True,True
+6711,Delémont,Q63896,Delémont,fr,6711,6711,both,True,True
+6712,Develier,Q68520,Develier,fr,6712,6712,both,True,True
+6713,Ederswiler,Q69924,Ederswiler,de,6713,6713,both,True,True
+6715,Mervelier,Q68509,Mervelier,fr,6715,6715,both,True,True
+6716,Mettembert,Q68017,Mettembert,fr,6716,6716,both,True,True
+6718,Movelier,Q68511,Movelier,fr,6718,6718,both,True,True
+6719,Pleigne,Q68515,,,6719,6719,both,False,True
+6721,Rossemaison,Q68517,Rossemaison,fr,6721,6721,both,True,True
+6722,Saulcy,Q68083,Saulcy,fr,6722,6722,both,True,True
+6724,Soyhières,Q70414,Soyhières,fr,6724,6724,both,True,True
+6729,Haute-Sorne,Q5682949,Haute-Sorne,fr,6729,6729,both,True,True
+6730,Val Terbi,Q3553411,Val Terbi,fr,6730,6730,both,True,True
+6741,Le Bémont (JU),Q68502,Le Bémont (JU),fr,6741,6741,both,True,True
+6742,Les Bois,Q70232,Les Bois,fr,6742,6742,both,True,True
+6743,Les Breuleux,Q68086,Les Breuleux,fr,6743,6743,both,True,True
+6745,Les Enfers,Q70411,Les Enfers,fr,6745,6745,both,True,True
+6748,Les Genevez (JU),Q69976,Les Genevez (JU),und,6748,6748,both,True,True
+6750,Lajoux (JU),Q68079,Lajoux (JU),fr,6750,6750,both,True,True
+6751,Montfaucon,Q68081,Montfaucon,fr,6751,6751,both,True,True
+6753,Muriaux,Q68506,Muriaux,fr,6753,6753,both,True,True
+6754,Le Noirmont,Q68522,Le Noirmont,fr,6754,6754,both,True,True
+6757,Saignelégier,Q67666,Saignelégier,fr,6757,6757,both,True,True
+6758,Saint-Brais,Q68513,Saint-Brais,fr,6758,6758,both,True,True
+6759,Soubey,Q67480,Soubey,fr,6759,6759,both,True,True
+6771,Alle,Q25333,Alle,fr,6771,6771,both,True,True
+6774,Boncourt,Q66980,Boncourt,fr,6774,6774,both,True,True
+6778,Bure,Q68445,Bure,fr,6778,6778,both,True,True
+6781,Coeuve,Q68821,Coeuve,fr,6781,6781,both,True,True
+6782,Cornol,Q68819,Cornol,fr,6782,6782,both,True,True
+6783,Courchavon,Q69935,Courchavon,fr,6783,6783,both,True,True
+6784,Courgenay,Q67414,Courgenay,fr,6784,6784,both,True,True
+6785,Courtedoux,Q69855,Courtedoux,fr,6785,6785,both,True,True
+6789,Fahy,Q67959,Fahy,fr,6789,6789,both,True,True
+6790,Fontenais,Q68780,Fontenais,fr,6790,6790,both,True,True
+6792,Grandfontaine,Q67982,Grandfontaine,fr,6792,6792,both,True,True
+6800,Porrentruy,Q68256,Porrentruy,fr,6800,6800,both,True,True
+6806,Vendlincourt,Q58038,Vendlincourt,fr,6806,6806,both,True,True
+6807,Basse-Allaine,Q70531,Basse-Allaine,fr,6807,6807,both,True,True
+6808,Clos du Doubs,Q68869,Clos du Doubs,fr,6808,6808,both,True,True
+6809,Haute-Ajoie,Q70609,Haute-Ajoie,fr,6809,6809,both,True,True
+6810,La Baroche,Q70511,La Baroche,fr,6810,6810,both,True,True
+6811,Damphreux-Lugnez,Q111647468,,,6811,6811,both,False,True
+6812,Basse-Vendline,Q113535598,,,6812,6812,both,False,True
+6831,Moutier,Q67157,Moutier,fr,6831,6831,both,True,True
+,,Q133571724,,,,,wiki_only,False,False
+,,Q133572062,,,,,wiki_only,False,False
+,,Q137515262,,,,,wiki_only,False,False
